@@ -251,12 +251,12 @@
   },
   {
     "Name": "Assembly-CSharp.dll",
-    "SHA256": "706cca75173b1430ee3841afcc26f4d8b55559867a8fab61465e96474d6314a8",
+    "SHA256": "ae3ba4ef7f6c3ad038eb14964206f6d3743d732fcdb5700b76886e16f5d9b35f",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll"
   },
   {
     "Name": "Assembly-CSharp.pdb",
-    "SHA256": "4498d5096f0cef12932e4dd74e44919315dd93039fb64fcda888805a79ae5e48",
+    "SHA256": "0bef8f3b92ec64f76ce53f8e99a7dbb69ad3cee0b762ae9ba962fa307f0a022f",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb"
   },
   {
@@ -326,12 +326,12 @@
   },
   {
     "Name": "Newtonsoft.Json.dll",
-    "SHA256": "f1918707a70ac593d90865f8354066457548afe4fe4033b12bc6f02ca187d863",
+    "SHA256": "b56faaf7545d52e0c0e8ace72c1222c133459087c2cf7df3f20981ab7270b9ca",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll"
   },
   {
     "Name": "Newtonsoft.Json.pdb",
-    "SHA256": "97ca8ac6f95cc86090b656769f35c470828a67e144f27c2e10c65aba36a8e733",
+    "SHA256": "b94ac9ccdf70aa67216d28b08085910f086ccd9d501a21465998fa0b25470341",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.pdb"
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "Name": "System.Net.Http.dll",
-    "SHA256": "f7c11dad1d2858205019dde2f181d941740bed581f884b067e5e292f6bcb67c4",
+    "SHA256": "d5f3aa07adaedab7049ee3a6b5cdf5a5ea27b3c81ac257ffc8f29fda2682c0e7",
     "RelativePath": "MajdataPlay_Data/Managed/System.Net.Http.dll"
   },
   {
@@ -576,7 +576,7 @@
   },
   {
     "Name": "System.dll",
-    "SHA256": "4722655590b24c31ddffff1685aa81d58ec08c0f1fc46f889bc4ac945598c8fa",
+    "SHA256": "d44054790b222e490614082f3cc484e15c028833941355bdb678d8b80fb9259f",
     "RelativePath": "MajdataPlay_Data/Managed/System.dll"
   },
   {
@@ -3781,12 +3781,12 @@
   },
   {
     "Name": "boot.config",
-    "SHA256": "44082176ab18cac8730e8c76107b20d620df3828f39d06d253dcf0e663c4a4c7",
+    "SHA256": "c473d295f8ab4c6ed7a9a045c421cab984eee22e3519294c7ef2f248858340a6",
     "RelativePath": "MajdataPlay_Data/boot.config"
   },
   {
     "Name": "globalgamemanagers",
-    "SHA256": "95d6f00b848f0e40a81e955569cf22eb43397174e90c0c2abdfb6616d67d561a",
+    "SHA256": "d12c32a7c6ed3e188279e9497b2e57d3db6d7f9f3eb1b1f79d0c799fc43bdab0",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers"
   },
   {
@@ -3801,7 +3801,7 @@
   },
   {
     "Name": "level0",
-    "SHA256": "f746fc80ccc3c96e043b2e6a6ddbbd141fe5f8127fd95eae4515ac8e089e9557",
+    "SHA256": "b6c9100a57dbfa59a367b442de4bd52891109c71963432b40172496f27839e54",
     "RelativePath": "MajdataPlay_Data/level0"
   },
   {
@@ -3871,7 +3871,7 @@
   },
   {
     "Name": "sharedassets0.assets",
-    "SHA256": "a92c03ceb29e7781fecb40003ddc8a52812d6b2fb4a4c9e89dd8680316a09e68",
+    "SHA256": "5b05875075af0e4860a03199b747a0459a14d6b4b54d1202af5e05609e39dcfd",
     "RelativePath": "MajdataPlay_Data/sharedassets0.assets"
   },
   {
@@ -3901,7 +3901,7 @@
   },
   {
     "Name": "sharedassets2.assets",
-    "SHA256": "4601244c41a6badabe8af10a65bfebdf670c9bd35ba96591091f57929c8179ce",
+    "SHA256": "ea02ba0c9377c4f24a590e635682c20b0ab04b666b6cd2109afdb36e8c02f922",
     "RelativePath": "MajdataPlay_Data/sharedassets2.assets"
   },
   {
@@ -3911,7 +3911,7 @@
   },
   {
     "Name": "sharedassets3.assets",
-    "SHA256": "29819d0c753a731ea692c16bc76042d2afed40944603d4322f029b5d62d56853",
+    "SHA256": "b93ca690bfe9d055e0996029b9653561e9cf3e415d7b656866856de7711e5a02",
     "RelativePath": "MajdataPlay_Data/sharedassets3.assets"
   },
   {
