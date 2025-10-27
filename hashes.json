@@ -251,12 +251,12 @@
   },
   {
     "Name": "Assembly-CSharp.dll",
-    "SHA256": "3b4c05f2c8d1625080979592e6ac594f051aacee070241f11c888eed2e320636",
+    "SHA256": "daf4e5b8c623425ac17ad9f0024b63c5cb0a771b54a26398133facbda529c3d7",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll"
   },
   {
     "Name": "Assembly-CSharp.pdb",
-    "SHA256": "c13a51c0de5353752bd14e5e6d34c7936935fe5a73f5c8f1fe23e41e2dd13748",
+    "SHA256": "13fe7979ba1881a10ad3d533824c41e5f03e58dc1e31205e4b8cfd8c75d59160",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb"
   },
   {
@@ -326,12 +326,12 @@
   },
   {
     "Name": "Newtonsoft.Json.dll",
-    "SHA256": "e2fbf82b34085b6cd47b7054aa06e370c759dd08ef3e3288a54f99925ba08350",
+    "SHA256": "deda3c2c602ac37c5e7fce87ce41882cd7c79e593d745f1ba67a789de2dcfbbd",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll"
   },
   {
     "Name": "Newtonsoft.Json.pdb",
-    "SHA256": "4fd6983a74a1cf334d57c0991430bbc4a5030764298554de64741c67fa97e405",
+    "SHA256": "3353d36693b316c9d5fc28080ccff82eefd3c1ec1fee175b98bf9fc93eeec140",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.pdb"
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "Name": "System.Net.Http.dll",
-    "SHA256": "d5f3aa07adaedab7049ee3a6b5cdf5a5ea27b3c81ac257ffc8f29fda2682c0e7",
+    "SHA256": "021aca10619c06b3c8655f3b5c3a25a16f374b084a2a9012c66ea5e9c6597463",
     "RelativePath": "MajdataPlay_Data/Managed/System.Net.Http.dll"
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "Name": "mscorlib.dll",
-    "SHA256": "fb88043e2988329de28643a7688661254acc834dc15cb1e74d552789468ae9f9",
+    "SHA256": "f64adb2cfad254088e6d7a2ba258f5de23ab02b082c9915865128b61db151b15",
     "RelativePath": "MajdataPlay_Data/Managed/mscorlib.dll"
   },
   {
@@ -1421,7 +1421,7 @@
   },
   {
     "Name": "lib_burst_generated.dll",
-    "SHA256": "0e8a47c9b35ac25d35e42558e9a32a8b0b0e784bbf11a5efc0f932d2b575461f",
+    "SHA256": "6a78c223e441237306f1e616dd052fe35c4a165b74b2157c538e27ae4b5bef1d",
     "RelativePath": "MajdataPlay_Data/Plugins/x86_64/lib_burst_generated.dll"
   },
   {
@@ -3341,7 +3341,7 @@
   },
   {
     "Name": "ScriptingAssemblies.json",
-    "SHA256": "2557b02f7987d92f8f55e44631fa0032c1e82892ca93af30f599d2377b141d6d",
+    "SHA256": "53754c8f102abf55bc72a62969c37c6815b64c6c5f96bbbf872fcc91aebbd8be",
     "RelativePath": "MajdataPlay_Data/ScriptingAssemblies.json"
   },
   {
@@ -3781,87 +3781,87 @@
   },
   {
     "Name": "boot.config",
-    "SHA256": "aeb7a2be3f526493fa7ad78a439d96609dd7e544f8108862688b78bc27cf2057",
+    "SHA256": "940ae9d7403c0d028409ed0a861a98aa6dd4fc15a1c05b35af5c5a854ebab0f2",
     "RelativePath": "MajdataPlay_Data/boot.config"
   },
   {
     "Name": "globalgamemanagers",
-    "SHA256": "dc414489d8ca704e58dd63585d68a47d4f550ecbc6eeb2b73f4141b4a3f4156b",
+    "SHA256": "569618672b7975437ab8453a68545603e0e5b6e83d66aa7058ba430d6cef5d45",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers"
   },
   {
     "Name": "globalgamemanagers.assets",
-    "SHA256": "c0497afb186c8dedfba6e2db6913d085a3a5815cd5c50c64cdc9b3c73e90685f",
+    "SHA256": "15c55e72413c75cb9606fb566bc06adf3a61d68a9b3514a6e12fc3b9c446b37e",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers.assets"
   },
   {
     "Name": "globalgamemanagers.assets.resS",
-    "SHA256": "94369d4ebfcfd5413f4d477c2d9c170221250500d1fd67651be8b552c53fa849",
+    "SHA256": "1b08eaf61bd7b74259407455eb4d1ffc98da38d4e58167e42391d1311668a16a",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers.assets.resS"
   },
   {
     "Name": "level0",
-    "SHA256": "53476f990dacf972c70b4003de5929f55cab7c4dd7510c1af6f3c7e26553fca8",
+    "SHA256": "0cd270705f0a6e4331f0ee611c695dabbb9be3eee408c8eeb250feea1171bb9c",
     "RelativePath": "MajdataPlay_Data/level0"
   },
   {
     "Name": "level1",
-    "SHA256": "9bda17a0a5b6b898e977c01e4ccde0eb2c2326d2b29e3bdbbf998cb01e404bd5",
+    "SHA256": "77036c6bdbc05f3aae07b81249792c5bd14e3f158a8b2f9a669b452ea88b6c60",
     "RelativePath": "MajdataPlay_Data/level1"
   },
   {
     "Name": "level10",
-    "SHA256": "04761489a99ab9c294a1322ffe154e394214e4afe091eaa8f9dafa6f32dc7418",
+    "SHA256": "3e4f737dea3ef397f45aa062e2b9a0b2e7a8873bde7f67c5b4888e1057b5fc81",
     "RelativePath": "MajdataPlay_Data/level10"
   },
   {
     "Name": "level11",
-    "SHA256": "adeb44d7dd0ef3d129d96185bf3b4a5b46ff8edfd1772d3b3e95ef0916db5f75",
+    "SHA256": "b678ee936f74b7e607e66dc0c034a65bfa4a1530a933dcc4761bb7a5af204a14",
     "RelativePath": "MajdataPlay_Data/level11"
   },
   {
     "Name": "level2",
-    "SHA256": "7f119f4da668dd348911a893077c3753201b680f9ea6dbb94326827ce7066e6b",
+    "SHA256": "c52b40facaa549fef8896e2d0be02dde0d00753c4cbc949830952db8eb2dfd62",
     "RelativePath": "MajdataPlay_Data/level2"
   },
   {
     "Name": "level3",
-    "SHA256": "b1572b482f269a7303bb08236f30a4ebddfcd80aea4e33067491deda418be94d",
+    "SHA256": "6b4aff5fe25315aa7588698c3f82cc3ae8d46a30bada638b003aedba2a1fc3b3",
     "RelativePath": "MajdataPlay_Data/level3"
   },
   {
     "Name": "level4",
-    "SHA256": "9301332b94ea938e850f2fe9845445391b62637b40b70215c1aa29bda3935c36",
+    "SHA256": "718892c9d6a31368f24b91b82cd423df9dab554e0d38a5f018048e13d140c874",
     "RelativePath": "MajdataPlay_Data/level4"
   },
   {
     "Name": "level5",
-    "SHA256": "204e34f1e6c0fd29a74b615ee7410729ea128f44db3b6d9872214cdfc616fc4b",
+    "SHA256": "d5dc626890a31a848f52e0fb564cb91645fe846431d2202e28a686f8e0fff9de",
     "RelativePath": "MajdataPlay_Data/level5"
   },
   {
     "Name": "level6",
-    "SHA256": "eb906f1c5092c3ba8b530bada9f4c23879aeddc8025fda57489fcfdb65304a1d",
+    "SHA256": "3e17338879e68a1fd0732b0367f652da98409a47b507aad6b5e3d6d820c5a961",
     "RelativePath": "MajdataPlay_Data/level6"
   },
   {
     "Name": "level7",
-    "SHA256": "a6414dc1bc6a41867186c34f7bb800795bb57d6e6d53d98fc77e3b469fa656d2",
+    "SHA256": "1e0dde0e3ca3f39a08f0dcc419a12e3410c0f42e7bcf731b48274be7b08bac77",
     "RelativePath": "MajdataPlay_Data/level7"
   },
   {
     "Name": "level8",
-    "SHA256": "bbb3a22158301c6b64f85e0f306e2bd8de64e0de731f82c62c74d10a9a66c7a6",
+    "SHA256": "42180d931f300609e6a6255a7e6d5ae49c4f3474e6ff5128f11251236c2eccc4",
     "RelativePath": "MajdataPlay_Data/level8"
   },
   {
     "Name": "level9",
-    "SHA256": "ec2a7fca94101bb13007842c9d18674f7b17803d73751f7e83940197671b23d3",
+    "SHA256": "9efc311622cf38586e9b746065828e1209d94259a7902c48088df0483583926a",
     "RelativePath": "MajdataPlay_Data/level9"
   },
   {
     "Name": "resources.assets",
-    "SHA256": "b6516192c35133caca8890bb103e4de6a7307236c189ec018e3427c7de56afa9",
+    "SHA256": "8f143d26405b7bce9a438ea78d69b81543fcdb121d6faf1eed2886a7879820de",
     "RelativePath": "MajdataPlay_Data/resources.assets"
   },
   {
@@ -3871,7 +3871,7 @@
   },
   {
     "Name": "sharedassets0.assets",
-    "SHA256": "d5c191e8ce4dd56125f154d519a694e8f939fe4cc98e3ace5680d83f09a27ae0",
+    "SHA256": "5db8c6efd8ed36f6d452d0eed4f803f0c8a5880dc6c7252dfd69db156a9e0bbe",
     "RelativePath": "MajdataPlay_Data/sharedassets0.assets"
   },
   {
@@ -3881,7 +3881,7 @@
   },
   {
     "Name": "sharedassets1.assets",
-    "SHA256": "4134ed4f80f1ba575767d7756fe21fb5de4ac4b227db86f75e98c93904b0e3e1",
+    "SHA256": "ad87f5335bd87edcf7d344f3e5b74ab6bca76a154e7aafbe89e5daa1a5ff09be",
     "RelativePath": "MajdataPlay_Data/sharedassets1.assets"
   },
   {
@@ -3891,17 +3891,17 @@
   },
   {
     "Name": "sharedassets10.assets",
-    "SHA256": "cc3cc7b73673372d64c7b3fe3d3563e0acc1da5e6c2bfde3aa3bc42b3cefcdea",
+    "SHA256": "c6c4a611ee2bc9143ecdef2f0315e8e395ec5a0e7237b52915b46f53d15b5301",
     "RelativePath": "MajdataPlay_Data/sharedassets10.assets"
   },
   {
     "Name": "sharedassets11.assets",
-    "SHA256": "23f233f5ebc12b2abf84f09b1b2f516f5bca38b08caa629c58ba7d71ea3918ea",
+    "SHA256": "456115b0102d0221a653657a23e3b2c848232054553522f8d193d278281b89ac",
     "RelativePath": "MajdataPlay_Data/sharedassets11.assets"
   },
   {
     "Name": "sharedassets2.assets",
-    "SHA256": "7e7a9cba5f253fdc713dafcdaa6cb93bff83cd2326d9e317704bd6750404600d",
+    "SHA256": "4d6dc350ad28aaabea4ff0264c9e7db5e513b07fc07f008b1ac55f371e25a0ae",
     "RelativePath": "MajdataPlay_Data/sharedassets2.assets"
   },
   {
@@ -3911,7 +3911,7 @@
   },
   {
     "Name": "sharedassets3.assets",
-    "SHA256": "650034b7dfa4300bce5dddf0f916302ad55d80601a73e6783ea236a6b1d14713",
+    "SHA256": "2a15fdd66e7b1f0dacc3fcff1a961bfd55f1020fa29c8a2fd9f3d83f4ef59200",
     "RelativePath": "MajdataPlay_Data/sharedassets3.assets"
   },
   {
@@ -3921,7 +3921,7 @@
   },
   {
     "Name": "sharedassets4.assets",
-    "SHA256": "5761f6b2966989fd4a9f03c0fe2fef6b8a111f9c0c0169e48a80017a9c2642a6",
+    "SHA256": "4a1e7ba8f9a66502bc52f2ab38097003af9e3551e3d87e333f26c13557db9d39",
     "RelativePath": "MajdataPlay_Data/sharedassets4.assets"
   },
   {
@@ -3931,7 +3931,7 @@
   },
   {
     "Name": "sharedassets5.assets",
-    "SHA256": "fbe4ec837a6219701bc45c6a714b38e029bbbcde447483895dbf47bb25c33ce4",
+    "SHA256": "11b567fd9991d8c708b708e91f013fed02e89e182a1d666fcb4e8d069a3f380d",
     "RelativePath": "MajdataPlay_Data/sharedassets5.assets"
   },
   {
@@ -3941,7 +3941,7 @@
   },
   {
     "Name": "sharedassets6.assets",
-    "SHA256": "a78385953c7416ef3da1661deb58ccdde4f88b03d4a96f61bad9fbf9dd5c7f6a",
+    "SHA256": "405b2acba095f295be93864f65229d87301b817bc222dac32f07b2d70bff5b74",
     "RelativePath": "MajdataPlay_Data/sharedassets6.assets"
   },
   {
@@ -3951,7 +3951,7 @@
   },
   {
     "Name": "sharedassets7.assets",
-    "SHA256": "f7f6d268463b0a22f349c3d01e002427564d45b4cdd5c68f08d80b96cc9903c5",
+    "SHA256": "b62f2f491cc02242de7c990ec63aeb052bcf10fab011a04fa2138d5f8abcb139",
     "RelativePath": "MajdataPlay_Data/sharedassets7.assets"
   },
   {
@@ -3961,12 +3961,12 @@
   },
   {
     "Name": "sharedassets8.assets",
-    "SHA256": "7371e156eeaea7a2eb2a49ddee97c203fb981c5de07dc6843883f56f76e19c93",
+    "SHA256": "da52f3f7a7c31d9ff229a7f48da3e0031f1711052c88abe4cf5fb567135c5703",
     "RelativePath": "MajdataPlay_Data/sharedassets8.assets"
   },
   {
     "Name": "sharedassets9.assets",
-    "SHA256": "f4bea30710da7784012ea0d006db91ba38dffd452976119ea6a6ea66cdffa0bd",
+    "SHA256": "d4f6f0d3abed8ecc53df203f244c7344a46182b4af1eac1ae473d5129e53bc3d",
     "RelativePath": "MajdataPlay_Data/sharedassets9.assets"
   },
   {
