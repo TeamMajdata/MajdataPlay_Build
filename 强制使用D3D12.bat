@@ -1,0 +1,1 @@
+start MajdataPlay.exe -force-d3d12

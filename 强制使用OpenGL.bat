@@ -1,0 +1,1 @@
+start MajdataPlay.exe -force-glcore
