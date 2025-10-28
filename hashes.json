@@ -251,12 +251,12 @@
   },
   {
     "Name": "Assembly-CSharp.dll",
-    "SHA256": "daf4e5b8c623425ac17ad9f0024b63c5cb0a771b54a26398133facbda529c3d7",
+    "SHA256": "064d89833b5dcb2b2261d46ab055a20acea6f7717e3e7724e3cb1714b404c12f",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll"
   },
   {
     "Name": "Assembly-CSharp.pdb",
-    "SHA256": "13fe7979ba1881a10ad3d533824c41e5f03e58dc1e31205e4b8cfd8c75d59160",
+    "SHA256": "209ef08f86832e7cecfdb6aae0baa7cca1163306532de5f5d260ca26b9e6924a",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb"
   },
   {
@@ -326,12 +326,12 @@
   },
   {
     "Name": "Newtonsoft.Json.dll",
-    "SHA256": "deda3c2c602ac37c5e7fce87ce41882cd7c79e593d745f1ba67a789de2dcfbbd",
+    "SHA256": "bf482364a7ba4b4b8ca4c27323d31e3822a78f8c29449cd2faa26e1d79d14dd7",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll"
   },
   {
     "Name": "Newtonsoft.Json.pdb",
-    "SHA256": "3353d36693b316c9d5fc28080ccff82eefd3c1ec1fee175b98bf9fc93eeec140",
+    "SHA256": "1fe1769e4f4df83f97c08a13994e2db94a1c54877790b77753c98e8e1a992bf5",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.pdb"
   },
   {
@@ -3781,12 +3781,12 @@
   },
   {
     "Name": "boot.config",
-    "SHA256": "940ae9d7403c0d028409ed0a861a98aa6dd4fc15a1c05b35af5c5a854ebab0f2",
+    "SHA256": "301d171fe976666243185ecd940440339d32011bd5117969bee91771179e1053",
     "RelativePath": "MajdataPlay_Data/boot.config"
   },
   {
     "Name": "globalgamemanagers",
-    "SHA256": "569618672b7975437ab8453a68545603e0e5b6e83d66aa7058ba430d6cef5d45",
+    "SHA256": "7e8febe57d1e6c55fe9270ba02b1dcf93340ac9bd36dc3914636c0dd4297875a",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers"
   },
   {
@@ -3871,7 +3871,7 @@
   },
   {
     "Name": "sharedassets0.assets",
-    "SHA256": "5db8c6efd8ed36f6d452d0eed4f803f0c8a5880dc6c7252dfd69db156a9e0bbe",
+    "SHA256": "05a2f7af218d5c9089397c5640082d7cb0c9f1b0c54de598e0790ce8c8d4e1f7",
     "RelativePath": "MajdataPlay_Data/sharedassets0.assets"
   },
   {
@@ -3901,7 +3901,7 @@
   },
   {
     "Name": "sharedassets2.assets",
-    "SHA256": "4d6dc350ad28aaabea4ff0264c9e7db5e513b07fc07f008b1ac55f371e25a0ae",
+    "SHA256": "a5ef84bebaede221c5e166c0a12c2a2fcc58a125b59b32d7613e36ab6ef5a375",
     "RelativePath": "MajdataPlay_Data/sharedassets2.assets"
   },
   {
@@ -3911,7 +3911,7 @@
   },
   {
     "Name": "sharedassets3.assets",
-    "SHA256": "2a15fdd66e7b1f0dacc3fcff1a961bfd55f1020fa29c8a2fd9f3d83f4ef59200",
+    "SHA256": "e3d00cae6ce46ffbe2d99e47fcbaaaba1b2b0aaa4cb8b57b66225b32caeabdcf",
     "RelativePath": "MajdataPlay_Data/sharedassets3.assets"
   },
   {
@@ -12273,5 +12273,35 @@
     "Name": "UnityPlayer.dll",
     "SHA256": "4ac43faaaf073a9a89e279e9ded47981d818b4ce2450c8aa418e5ae074715db5",
     "RelativePath": "UnityPlayer.dll"
+  },
+  {
+    "Name": "启动Edit.bat",
+    "SHA256": "1a5887f65ae0651ee5ad46066376bad62018a3250c7c06a01a1b5ab34b60a81b",
+    "RelativePath": "启动Edit.bat"
+  },
+  {
+    "Name": "强制使用D3D11.bat",
+    "SHA256": "d915d10529a8289f41aebd5e933e100287e52b8d30f067c5122723b1361cf717",
+    "RelativePath": "强制使用D3D11.bat"
+  },
+  {
+    "Name": "强制使用D3D12.bat",
+    "SHA256": "6c5458e17a95e0c39318c04d2c29fe6eb0cb90194439db39b1dc83250f32cdef",
+    "RelativePath": "强制使用D3D12.bat"
+  },
+  {
+    "Name": "强制使用OpenGL.bat",
+    "SHA256": "ffc4802b35c878d62d41acfbaffa2ce60e99729eb487dee45648bce47406225b",
+    "RelativePath": "强制使用OpenGL.bat"
+  },
+  {
+    "Name": "强制使用Vulkan.bat",
+    "SHA256": "1451e4cb7dbc72349a67273af7957e0c11405bd6eb9918338b081fb46d46d4aa",
+    "RelativePath": "强制使用Vulkan.bat"
+  },
+  {
+    "Name": "进入测试模式.bat",
+    "SHA256": "7793febd3c3a6051dc729436fe2606e226edc9a700c76f1a8d4562ae06581dd0",
+    "RelativePath": "进入测试模式.bat"
   }
 ]
