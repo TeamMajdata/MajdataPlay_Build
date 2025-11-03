@@ -8,6 +8,8 @@
 
 * [Cloudflare代理过的直链(可能不需要挂梯子)](https://ghproxy.vanillaaaa.org/https://github.com/TeamMajdata/MajdataPlay_Build/archive/refs/heads/master.zip)
 
+* [LeZi's Storage(应该不需要挂梯子)](https://storage.leziblog.com/MajdataPlay)
+
 ### 使用 git 下载
 
 ``` bash
@@ -17,6 +19,8 @@ git clone https://github.com/TeamMajdata/MajdataPlay_Build.git
 ## 下载安卓版
 
 * 见[Release](https://github.com/TeamMajdata/MajdataPlay_Build/releases)页
+
+* [LeZi's Storage](https://storage.leziblog.com/MajdataPlay/Android)
 
 ## 教程
 
