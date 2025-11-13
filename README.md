@@ -1,5 +1,13 @@
 <img width="250" alt="icon_0002" src="https://github.com/user-attachments/assets/0a6c4692-658a-4361-a152-ac10d0b3ed93" />
 
+## 特别注意
+
+*我们不提倡使用Majplay游玩本家谱面，请支持街机游戏*
+
+*请勿将其他软件的游玩视频标为Majplay，但是当然欢迎你分享真Majplay的游玩视频！*
+
+*本软件为开源免费软件，开发者不做任何保证*
+
 ## 下载PC版
 
 ### 使用直链下载
@@ -9,6 +17,10 @@
 * [Cloudflare代理过的直链(可能不需要挂梯子)](https://ghproxy.vanillaaaa.org/https://github.com/TeamMajdata/MajdataPlay_Build/archive/refs/heads/master.zip)
 
 * [LeZi's Storage(应该不需要挂梯子)](https://storage.leziblog.com/MajdataPlay)
+
+### 使用更新器
+
+* [下载更新器](https://majdataplay.work/Updater/MajdataPlayUpdater.Desktop.exe)
 
 ### 使用 git 下载
 
@@ -45,3 +57,4 @@ git clone https://github.com/TeamMajdata/MajdataPlay_Build.git
 * MajdataEdit-neo (WIP) [带语法高亮的新谱面编辑器](https://github.com/LingFeng-bbben/MajdataEdit-Neo)
 * MajdataView (Legacy) [Non-C](https://github.com/TeamMajdata/MajdataView) [Classic](https://github.com/LingFeng-bbben/MajdataView) [X_by_Re_poem](https://github.com/re-poem/MajdataViewX)
 * MajdataEdit (Legacy) [WPF](https://github.com/LingFeng-bbben/MajdataEdit)
+* MajdataPlayUpdater [更新器](https://github.com/KirisameVanilla/Majdataplayupdater)
