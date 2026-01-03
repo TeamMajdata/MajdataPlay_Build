@@ -241,22 +241,22 @@
   },
   {
     "Name": "Assembly-CSharp-firstpass.dll",
-    "SHA256": "ee666cc90b71e34a99c65e505a82d0ab92f9551a78414772477f8df231aac712",
+    "SHA256": "34e69d2f57277e0f635a164b435d36a41e7af1cf2d256aee448e0606867c9813",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp-firstpass.dll"
   },
   {
     "Name": "Assembly-CSharp-firstpass.pdb",
-    "SHA256": "99ef3cd01d60c31c8fa8d2c8513aee9e0e0eaf705d8c1bfdacdc6ff9ef552e99",
+    "SHA256": "2be2a115c75243d8d0bdf1fda208408a15be4d21b4557762bc4a29aadcf56026",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp-firstpass.pdb"
   },
   {
     "Name": "Assembly-CSharp.dll",
-    "SHA256": "d9f506762575b7d665229a8ab780d3e67870806e88162f488c755bcac5cd621a",
+    "SHA256": "75681f92289c0d4f19e59d38e124dad66bbce099e809965ae4440ca33f4645bc",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll"
   },
   {
     "Name": "Assembly-CSharp.pdb",
-    "SHA256": "1a2005a90debc207d56556bdc2ab30cc689f79ecbabf06bf533e87bcdfaba924",
+    "SHA256": "106f2e312605d681de9b07f9d192213dcf287a81815b35711009d78d63d2c7b0",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb"
   },
   {
@@ -275,6 +275,11 @@
     "RelativePath": "MajdataPlay_Data/Managed/MajSimai.dll"
   },
   {
+    "Name": "ManagedBass.Aac.dll",
+    "SHA256": "ac5b8ca329aeb5ddb94d74f0bf1f79f6e4eff4430162f2433c36142c4395c30a",
+    "RelativePath": "MajdataPlay_Data/Managed/ManagedBass.Aac.dll"
+  },
+  {
     "Name": "ManagedBass.Asio.dll",
     "SHA256": "b6a2c5ddaedd392605e859629787b7d55d7b3710e1f8bcb8d0b9ba62ca955a61",
     "RelativePath": "MajdataPlay_Data/Managed/ManagedBass.Asio.dll"
@@ -288,6 +293,11 @@
     "Name": "ManagedBass.Mix.dll",
     "SHA256": "430f44c7a677f260137ff68eb8d15ef82c1704840a52fcdc83395871b45c63c6",
     "RelativePath": "MajdataPlay_Data/Managed/ManagedBass.Mix.dll"
+  },
+  {
+    "Name": "ManagedBass.Opus.dll",
+    "SHA256": "01cf327c6a9f8259f10b7dc6708480225b2b940f8f2d9bd23453b318c33d94c6",
+    "RelativePath": "MajdataPlay_Data/Managed/ManagedBass.Opus.dll"
   },
   {
     "Name": "ManagedBass.Wasapi.dll",
@@ -321,22 +331,22 @@
   },
   {
     "Name": "MychIO.dll",
-    "SHA256": "780bb1e6818a848888a3e56d47453e596c99ec91775439c2d91ab181ab958f4d",
+    "SHA256": "6f17cfadb57b87d5aba8f1b37b20e16ab5a718e4aceb3303483a56453d6d7463",
     "RelativePath": "MajdataPlay_Data/Managed/MychIO.dll"
   },
   {
     "Name": "MychIO.pdb",
-    "SHA256": "658e63bce15ba4d4efef22ab00c0c258b7e46f4dcfa9317a45d7e74da83247a6",
+    "SHA256": "5fd9c4ba441b38f441ebc5c45e5966d4937e033a63f9a9991212a45978ff5ade",
     "RelativePath": "MajdataPlay_Data/Managed/MychIO.pdb"
   },
   {
     "Name": "Newtonsoft.Json.dll",
-    "SHA256": "da7ec789b59bc92a33e4c233b94dac6c11a128baca4a4f33de7a51c5a29ceb72",
+    "SHA256": "7cdf28b9eb87cbc1575a1f946d1622e6205ea4a5756e5ab55e4a0431cc4be89e",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll"
   },
   {
     "Name": "Newtonsoft.Json.pdb",
-    "SHA256": "34d0bd4a074d3b3d5ec4e337b3359052a1a95a6b88db9496cc11b682da43508c",
+    "SHA256": "90a15d9abae9493a4825ea94ff14e4b3c58d430b54ed1dadc3b9c8f41e38c345",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.pdb"
   },
   {
@@ -356,12 +366,12 @@
   },
   {
     "Name": "SkiaSharp.Unity.dll",
-    "SHA256": "11aa03aa7a699af3039c749a79a691f42dfda7d0a3d077769028b44a2c8d7167",
+    "SHA256": "06dbfbf9c23094c828e20de8198d1c4bffb546eb5853f043ddf66613df3e5ac3",
     "RelativePath": "MajdataPlay_Data/Managed/SkiaSharp.Unity.dll"
   },
   {
     "Name": "SkiaSharp.Unity.pdb",
-    "SHA256": "668df8236efe9bd3414936962e5d1e37527eca976f994ea4f57c0b483a658882",
+    "SHA256": "6f33ca2018ac9794d97076645a7438c339f491f4c2e07f703ca5bd563921f0f2",
     "RelativePath": "MajdataPlay_Data/Managed/SkiaSharp.Unity.pdb"
   },
   {
@@ -591,62 +601,62 @@
   },
   {
     "Name": "UniTask.Addressables.dll",
-    "SHA256": "59284bc8b16e36ea74cd4aecdd4ae10e5587052159884ef3742ad929815cfce0",
+    "SHA256": "1e2a4ade38b34385e5107716d67fb5e600b7b4708e9e5c5dc9fa9f5315031962",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.Addressables.dll"
   },
   {
     "Name": "UniTask.Addressables.pdb",
-    "SHA256": "562f1b0333c6205207a3212091ed8e71b0be613ba9ed2ccc253931e8bd36b38c",
+    "SHA256": "38b21aaa058c1b9ee3260ad3719f074568ea54ce003c451e56e6979905ac4982",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.Addressables.pdb"
   },
   {
     "Name": "UniTask.DOTween.dll",
-    "SHA256": "5bda42d21fa328b047ef891bebb9641ad600b6892f53ea78b58e5634a98e1d66",
+    "SHA256": "292528e19182e34f8f1687db2ba391e2684313c2994a47aba0f5143685827c77",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.DOTween.dll"
   },
   {
     "Name": "UniTask.DOTween.pdb",
-    "SHA256": "44a5ccd580d598df25521b94355b14941b2f826d921024a63824ccf66a8791c8",
+    "SHA256": "c6a4deca11bffa84237330d1a0cb169972d3c0ff740ffbab1234cfdf331d1b85",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.DOTween.pdb"
   },
   {
     "Name": "UniTask.Linq.dll",
-    "SHA256": "a3b3940bc340a8a5ec6c8b0c5f2e7f23406bde4615adff1a1b00abd7eebb1f3a",
+    "SHA256": "f65133ad8cdc5c985849bd8abe0dc43edcc2a3f370943b33b7defcc717df80f7",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.Linq.dll"
   },
   {
     "Name": "UniTask.Linq.pdb",
-    "SHA256": "9014d9a0f0a184d8754bd3762c6b0093985e03b3dfc4b5702821bd202355bf53",
+    "SHA256": "6450901ddc591a4d41d2ed3307378e72a83a49d7dd372c3d4f5bb1086020e8ae",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.Linq.pdb"
   },
   {
     "Name": "UniTask.TextMeshPro.dll",
-    "SHA256": "ac1ac1f94c0954eeed79c08341d722c59b2ce74d68cfa96613ad14852694a6a5",
+    "SHA256": "d631511acd6dfef24446e657d2071a68e458e323f85ddfd608067edf963f5e54",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.TextMeshPro.dll"
   },
   {
     "Name": "UniTask.TextMeshPro.pdb",
-    "SHA256": "ab24c944fac8b5d662cc039fc7700712aafac490c0dacdde543181c3767f7b33",
+    "SHA256": "cf3a81b45ba0a7e5f2021ffbecf53c5f2980143622e6684ed45efde3dc6c5177",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.TextMeshPro.pdb"
   },
   {
     "Name": "UniTask.dll",
-    "SHA256": "89bedb7454d980b18fea5963899f1e481b0120fbb49772979314c68d2f0f665f",
+    "SHA256": "77456d67bf0cd5e4000d4cc5ed2a285f3ba4f2b1085f7b402307cfae8c108ae1",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.dll"
   },
   {
     "Name": "UniTask.pdb",
-    "SHA256": "f7d3ee9f9fa0f1ceb2b47adfba6e9a757bdb6286987f06142ecb09f43c594c8e",
+    "SHA256": "e2e472e8eac89bffdb7476a456f2c3c092469dd20b94d4423603c34ba5abef19",
     "RelativePath": "MajdataPlay_Data/Managed/UniTask.pdb"
   },
   {
     "Name": "Unity.2D.Animation.Runtime.dll",
-    "SHA256": "f882db9745c407b59e98bdf070b0164add05227f07a1e0f708a37bfd554b635b",
+    "SHA256": "e6b96786926f69d0c3dcf40258dc7eac588fe0ac2bde531df33f59e2aa565008",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.2D.Animation.Runtime.dll"
   },
   {
     "Name": "Unity.2D.Animation.Runtime.pdb",
-    "SHA256": "bc8725218f17866f250b3cc32f9373997118ab456cd36b0bddccac34f8f1cdc1",
+    "SHA256": "d554fa134e07ca5c17398dcd880e0cfee64f82097666b7752ff4f5552773ea1e",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.2D.Animation.Runtime.pdb"
   },
   {
@@ -696,52 +706,52 @@
   },
   {
     "Name": "Unity.Collections.dll",
-    "SHA256": "1eb7008f8d7184d5aa1534f7cb8573564b9d0bf748f617c40369ea07259b1796",
+    "SHA256": "d104c118c2dbed804ab5624069d33569e2b42b4328127185cced185d6440ecfc",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.Collections.dll"
   },
   {
     "Name": "Unity.Collections.pdb",
-    "SHA256": "ec0e6fd1bf8ea5f565d495431f6cdfe249e2bf1e49794551f7b01dbb7199b7ec",
+    "SHA256": "ef53e89576b8d46ef890ea52d3bd40a66117250b21c689ee916be057f1f678a7",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.Collections.pdb"
   },
   {
     "Name": "Unity.InputSystem.ForUI.dll",
-    "SHA256": "fa88ee3aeabb2d61f3a460350c4b06138a87f2db6972cf22756772251df17f76",
+    "SHA256": "fb1b8ffc5cbfcf3748415ea41152c0226de4bf0af9c9463cd2bdb2c1f1a51ac3",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.InputSystem.ForUI.dll"
   },
   {
     "Name": "Unity.InputSystem.ForUI.pdb",
-    "SHA256": "3d6f98edb72501bcd774cac67f9548fd52be1b860d4e14291d22e1ed3c6dd733",
+    "SHA256": "4eaeb61d69bf352a61cfe3785c383f006a582626f5454b775a1b6f1ef53acf7d",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.InputSystem.ForUI.pdb"
   },
   {
     "Name": "Unity.InputSystem.dll",
-    "SHA256": "cc3b1b199dd891cf8635d60cad64b5a5048e07cfbd1f9e6297321abe6544773b",
+    "SHA256": "47aac84eaed6a2ff2dad1d78aa5545f185c8d43d05a9fed393f2096f34f7cea0",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.InputSystem.dll"
   },
   {
     "Name": "Unity.InputSystem.pdb",
-    "SHA256": "6f694dc3d600059d9cfa5da8f83287582ac4a9cccf3dba976b0a1393fff10992",
+    "SHA256": "7f2e84dd37616efb1e60168f889a5d86ca9f8a99533c511fb61497b23c8eaae1",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.InputSystem.pdb"
   },
   {
     "Name": "Unity.InternalAPIEngineBridge.001.dll",
-    "SHA256": "d78c499389078cd9b256143c49105a2cb12d5e3d34b9a75a66aee762c02fa39b",
+    "SHA256": "62adb4d21ea85cb8ccc04d7ac2787700cf15e5b75df319512e933d3c82f2f764",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.InternalAPIEngineBridge.001.dll"
   },
   {
     "Name": "Unity.InternalAPIEngineBridge.001.pdb",
-    "SHA256": "d1039ac827805300f59715d1817f79e20ae32d093065b1da14bdd9c9644dcf3e",
+    "SHA256": "2edf5d6a525cc006e297986a2fff063ee31b633386284b3056cfc03d137847eb",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb"
   },
   {
     "Name": "Unity.Mathematics.dll",
-    "SHA256": "8d33ebbe2b1c3d127d1dafacb3bfac11e422e18da7cf3c4fb036986cecbbdca2",
+    "SHA256": "dffcfb2eacdc94cbe452826d7ea4dbf8e95dff41f55f37858b488e4fa37e7ca8",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.Mathematics.dll"
   },
   {
     "Name": "Unity.Mathematics.pdb",
-    "SHA256": "f495b234cde676df01bb0f1fca5304bfd2f622dc52d582f302df7aa4865a747e",
+    "SHA256": "52a0969195767ef7d83be40839b24f9799af5db86f74de9021c1971c23eb7278",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.Mathematics.pdb"
   },
   {
@@ -751,12 +761,12 @@
   },
   {
     "Name": "Unity.RenderPipelines.Core.Runtime.dll",
-    "SHA256": "4cc2be4571f20633f98e5bce5eb93e4ea826fd0e04bc6bd48f01c8fe8611fb2e",
+    "SHA256": "e0ef8ee2a9d906d98654d86c35386b2146e8c54fb30db530d60ddb8da4036d6c",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll"
   },
   {
     "Name": "Unity.RenderPipelines.Core.Runtime.pdb",
-    "SHA256": "9e17eb642ee8ab27060c560da1386e50949886e15e0b0f20821a97bc482f3337",
+    "SHA256": "0d5d6c91253de919799a711c72eabfee8cfa51e9af5945e48c1796ad89e3250f",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb"
   },
   {
@@ -771,12 +781,12 @@
   },
   {
     "Name": "Unity.TextMeshPro.dll",
-    "SHA256": "5ad88666de8ee87cc52f1c352696a28b26f10414b57483dadab78cba04d4b2bf",
+    "SHA256": "dbdbff03f8c6f07a24995984ae56f9dee0cecce33ba533e6eb7a8697685a86c9",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.TextMeshPro.dll"
   },
   {
     "Name": "Unity.TextMeshPro.pdb",
-    "SHA256": "ad74bc09a15eb99183ae8333a5f15ee433762e306ac85589bb8a77f2dfe7ce66",
+    "SHA256": "3493247e8e45e426b0c7e8ce2bcb748958bdd52dc2722f6b88c6d05ac2bd8bcd",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.TextMeshPro.pdb"
   },
   {
@@ -791,12 +801,12 @@
   },
   {
     "Name": "Unity.VisualScripting.Core.dll",
-    "SHA256": "dc6914afa184dcf38130227076e1b97c93969d26e71397f1dffddcd3c80b9abf",
+    "SHA256": "855a72f240245a95c18055b973b97f5ed91b6a0f8dc67a997f42286f1771f7e4",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.VisualScripting.Core.dll"
   },
   {
     "Name": "Unity.VisualScripting.Core.pdb",
-    "SHA256": "9e077e6ce7c57ff4f2a8fd52f6f96f8eef7dd457d04475554f1ce3c40ef70de1",
+    "SHA256": "3dd8f77c2b34c714a76ba9fb1357d6fceb03c2c7df75b259965ac2c19893f61b",
     "RelativePath": "MajdataPlay_Data/Managed/Unity.VisualScripting.Core.pdb"
   },
   {
@@ -1181,12 +1191,12 @@
   },
   {
     "Name": "UnityEngine.UI.dll",
-    "SHA256": "66527ea725575e31e00802d85033cdf2b5b6ad6017e11f780929b5e96a66b0b9",
+    "SHA256": "f86b57028baf8fe081a6206ebd10e9614e4891b5c39604fcb33f65ae8dd04d7e",
     "RelativePath": "MajdataPlay_Data/Managed/UnityEngine.UI.dll"
   },
   {
     "Name": "UnityEngine.UI.pdb",
-    "SHA256": "7afc2f46e74a10f622d898bb7966d9918af510c7fa33cb16f01c059d946d6849",
+    "SHA256": "e3cf0d579b3b971037fe895708a99bf26b1ec752106ce755f23f2319ab0f63bf",
     "RelativePath": "MajdataPlay_Data/Managed/UnityEngine.UI.pdb"
   },
   {
@@ -1341,32 +1351,32 @@
   },
   {
     "Name": "UnityEngine.dll",
-    "SHA256": "f7cb32100db172c4807fd2f0cf44f85f60379e9b76c990ad2ce35c9ae48c9c84",
+    "SHA256": "f15b824a69116e3ee74a60ed9838cff34b65592142d27b55fb69ed828466470f",
     "RelativePath": "MajdataPlay_Data/Managed/UnityEngine.dll"
   },
   {
     "Name": "UnityEngine.pdb",
-    "SHA256": "e73941edcdbfc1064343d54cbd3b8434bcd192e0fe06348d5d6857a3b5fe73f9",
+    "SHA256": "a6ddbaca7bd39287405e176d3da92bf0de32ef0494e4bf94b2a3eb79cc300187",
     "RelativePath": "MajdataPlay_Data/Managed/UnityEngine.pdb"
   },
   {
     "Name": "VLCUnity.dll",
-    "SHA256": "3bc57443436ac342aae18d89950a799ccdf9be5e2f7df47cbc74147b238d8524",
+    "SHA256": "0b8711eecb1683ecf9e4dd87bc1ea4afa0139d1773ac088349ec1bd25f64e995",
     "RelativePath": "MajdataPlay_Data/Managed/VLCUnity.dll"
   },
   {
     "Name": "VLCUnity.pdb",
-    "SHA256": "ed638078fb860324140947a0f33a2d49d6c301e6db9b662b04e60fa4b3efacea",
+    "SHA256": "e8305dad180395a3d6cf259f0ba40ea86a8bbacd4c17193a609a470229de2048",
     "RelativePath": "MajdataPlay_Data/Managed/VLCUnity.pdb"
   },
   {
     "Name": "ZString.dll",
-    "SHA256": "e847f3c0b96563611766a2f86f5dfc0201b7aef609fc908972e19d6163830394",
+    "SHA256": "4c9beeeee47df235ab6d09b43e3d09ff1bf2880b73fa72d09115651edfa355fc",
     "RelativePath": "MajdataPlay_Data/Managed/ZString.dll"
   },
   {
     "Name": "ZString.pdb",
-    "SHA256": "e68eae240fe564987d43815aaff350de1deea03c2a6897baa045b83ea8cd4fb7",
+    "SHA256": "03998139ccd20d8188bc4b38b97a52d821966fa84dc0de01c778761f76e878d4",
     "RelativePath": "MajdataPlay_Data/Managed/ZString.pdb"
   },
   {
@@ -1410,6 +1420,11 @@
     "RelativePath": "MajdataPlay_Data/Plugins/x86_64/bass.dll"
   },
   {
+    "Name": "bass_aac.dll",
+    "SHA256": "dad348f88782447860edc00c992028e8ebcbe30e6b898e7740541d8666ac9163",
+    "RelativePath": "MajdataPlay_Data/Plugins/x86_64/bass_aac.dll"
+  },
+  {
     "Name": "bass_fx.dll",
     "SHA256": "a6e1847eef52d882b4137af514d834c2e220daceb417c821d1e502fb7a34c84a",
     "RelativePath": "MajdataPlay_Data/Plugins/x86_64/bass_fx.dll"
@@ -1423,6 +1438,11 @@
     "Name": "bassmix.dll",
     "SHA256": "f782cae8090700a456c9e7aeaa7770c3b90cb60a1e765c4b3cbae739d3b4d58d",
     "RelativePath": "MajdataPlay_Data/Plugins/x86_64/bassmix.dll"
+  },
+  {
+    "Name": "bassopus.dll",
+    "SHA256": "242476111eab0232da48d8e26adf1cb64d4561095752794fc13e75a1ab0885c4",
+    "RelativePath": "MajdataPlay_Data/Plugins/x86_64/bassopus.dll"
   },
   {
     "Name": "basswasapi.dll",
@@ -3356,27 +3376,27 @@
   },
   {
     "Name": "ScriptingAssemblies.json",
-    "SHA256": "b5b9c3deb9a64dee0dec46679f8137a5c3a2417c67c16d41d8ad73771c2e092f",
+    "SHA256": "bc0cae0a82e414817ece5d4a57b4ec8a4fd4b4414becc8760c5d2e847913fe12",
     "RelativePath": "MajdataPlay_Data/ScriptingAssemblies.json"
   },
   {
     "Name": "en-US.json",
-    "SHA256": "f327d7ca4c01337a3237362f66e492e0dea016ca378c8797cbc6e5b95f03ef24",
+    "SHA256": "5425de3680112fe64ec4b5eada31db45905a5f8fd4b31fdb5b81aae2278bff11",
     "RelativePath": "MajdataPlay_Data/StreamingAssets/Langs/en-US.json"
   },
   {
     "Name": "ja-JP.json",
-    "SHA256": "f941e0cb6b393906e5c76ca5fa9a4cf5530566e572b030d46a11b14eb6c1d923",
+    "SHA256": "9bdbcc63b9413e8df0ddd90a7560a9e9fc94ae222f07964304b6ccd21a20c1b4",
     "RelativePath": "MajdataPlay_Data/StreamingAssets/Langs/ja-JP.json"
   },
   {
     "Name": "zh-CN.json",
-    "SHA256": "4c3e5ce9bf418781aee77b8602a3f525b849b0cf701d05cd6ce1ad0f1c5f8262",
+    "SHA256": "ba325bdf6d3516a93035264bfc9a583f76f4c86c3eeb11623a78b3511150fe4b",
     "RelativePath": "MajdataPlay_Data/StreamingAssets/Langs/zh-CN.json"
   },
   {
     "Name": "zh-TW.json",
-    "SHA256": "8eedced12b76b6f1c7cf2b77a0a6d151340269e8925a3a7f34aa923e1b1da7d8",
+    "SHA256": "7d61d7bc9d6255f6b84b23ffd7a7de3cde16767ceaeabbf82853dad3c3933d94",
     "RelativePath": "MajdataPlay_Data/StreamingAssets/Langs/zh-TW.json"
   },
   {
@@ -3796,17 +3816,17 @@
   },
   {
     "Name": "boot.config",
-    "SHA256": "a37716b6162e62cfae0387ddf6c0174e9066f3118b8ed7fcd68e78d1a9bd0a30",
+    "SHA256": "51f4d9f80ecc0d040d50689f4c384762818706a511cdca37465e37c3040b545d",
     "RelativePath": "MajdataPlay_Data/boot.config"
   },
   {
     "Name": "globalgamemanagers",
-    "SHA256": "e7c276dd86a9b269d7879fdcea27f4c41eedb975493c9d3fc21711dab80f82f1",
+    "SHA256": "c5f5c4cfb54d0806b374d73a86f92a3cadbed66fc050392bc40a46191b06e3d5",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers"
   },
   {
     "Name": "globalgamemanagers.assets",
-    "SHA256": "955f008033b27b77a7bcead3e83684955e2a5c33b0f53f051f561bda1e1f0838",
+    "SHA256": "4a0e9e9744e5c91e17842b88d3d79c533333b372dc9a68a7de386735b0ade2ed",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers.assets"
   },
   {
@@ -3816,72 +3836,72 @@
   },
   {
     "Name": "level0",
-    "SHA256": "05d247253e039c526e47f993dc30c79e28e80f14fd1034e627173cdab9b7a45e",
+    "SHA256": "9e36d7c74ef76999b506b58d17b6cebf8a34d160aa5d14b4e65a1404d01660d3",
     "RelativePath": "MajdataPlay_Data/level0"
   },
   {
     "Name": "level1",
-    "SHA256": "9b694e0cf4bd2a411f4d836421553344de37503361b74677ed513a9b8ad6e5df",
+    "SHA256": "e2fd35085f9975b362366a2e1e9bcd9680a8b489934f0041f6e23a5fc618f6a4",
     "RelativePath": "MajdataPlay_Data/level1"
   },
   {
     "Name": "level10",
-    "SHA256": "8c2fa6b731c1f7316c1a6235939623ae22e4bacddf7aef894ac09230fea41986",
+    "SHA256": "1079c7b267c45c7a1b9314e076e3b62a022a85baf1296ee9b59849f14d4693f3",
     "RelativePath": "MajdataPlay_Data/level10"
   },
   {
     "Name": "level11",
-    "SHA256": "989beb7fa6a36d8723c0524b3800999c3c03fd24ed2724adfabdb77de9cc1402",
+    "SHA256": "cdb120dcd3101dd35dba259892d325e455a141aeaf8052424ed42a3ba35c79bc",
     "RelativePath": "MajdataPlay_Data/level11"
   },
   {
     "Name": "level12",
-    "SHA256": "0699b6b63051392fbdf992ebcf0f71d22cb3d579f6098adee5e30c44598d9c67",
+    "SHA256": "8049d318b11a3b8b721f019b0802b8f52947b799a54eb05d34e7afe8a34a0025",
     "RelativePath": "MajdataPlay_Data/level12"
   },
   {
     "Name": "level2",
-    "SHA256": "7718e95328ec39da781b6ebe6ddc0dc4bb1855924ecf07135c9c1155786c5e3f",
+    "SHA256": "04a0dbbcae02ec1f382d3cb747b885f95d93b2193a59d54380aaba102bf0f563",
     "RelativePath": "MajdataPlay_Data/level2"
   },
   {
     "Name": "level3",
-    "SHA256": "d553304ab6100d7a1f29597cc91aa830871f921dfca89ec33a70c8d697200305",
+    "SHA256": "ed7a0d7f03d75f3de1cbc6a043ddd98da4aa383742fbbead9da601c0ddeb04d7",
     "RelativePath": "MajdataPlay_Data/level3"
   },
   {
     "Name": "level4",
-    "SHA256": "3b25ff84013f1dcda1aefaa3f30002593bfc7465d69516a95ef26d5d9674e2e7",
+    "SHA256": "82328f8d016c74680d1c7f90b78145c267426896c6c969089d767fc7183f543c",
     "RelativePath": "MajdataPlay_Data/level4"
   },
   {
     "Name": "level5",
-    "SHA256": "e933a3ce257075d3f23e30fe25041971f2249ceea03d37d2ee23245cedacd93e",
+    "SHA256": "74b350ed5dbced58072fdd3342b87e6e3701432dcc4a07fd18c1c7f5a3300ac7",
     "RelativePath": "MajdataPlay_Data/level5"
   },
   {
     "Name": "level6",
-    "SHA256": "e153dd00aef53337bd66b4e1f4ec80f19ec24848bca3207b50a388a7406f3249",
+    "SHA256": "6dbb57cf282a6c53e71d644e0b68a5bf34ebecb9191eee6aad860e75d97fe386",
     "RelativePath": "MajdataPlay_Data/level6"
   },
   {
     "Name": "level7",
-    "SHA256": "80d5a65c4f92a014d4e22e7e71be86942e6377bbfd4877845f296abd1b22f2a0",
+    "SHA256": "9b0ef6000a83e36e3a770bab3c8f5d39cda49d8bb820c49531f9598154752cde",
     "RelativePath": "MajdataPlay_Data/level7"
   },
   {
     "Name": "level8",
-    "SHA256": "8625a4f1557341ba2a98e354d80f21dce41d7d90a73fa3ded0e505630970511b",
+    "SHA256": "f1ad6cbf3dcdfdb31e0b50431d343163cdafa95f58511b91ac704135c62056f8",
     "RelativePath": "MajdataPlay_Data/level8"
   },
   {
     "Name": "level9",
-    "SHA256": "583cac9af8de623792ab523e05cc05ef1fc4a5d2ba0d6ef671a0532c14504808",
+    "SHA256": "284bf9f5bdd06aa5929d7776f7b0f1088301bbedd7bd30d8c2c153d0cd764593",
     "RelativePath": "MajdataPlay_Data/level9"
   },
   {
     "Name": "resources.assets",
-    "SHA256": "b9ea6c77f29bbc4fe6c23402e2befb83159d9f0bed5574e7e683c0b8d830450d",
+    "SHA256": "b0d7e24f5958974e699e6da1f990438be27f2780bee6932b663ef48cae659dcd",
     "RelativePath": "MajdataPlay_Data/resources.assets"
   },
   {
@@ -3891,7 +3911,7 @@
   },
   {
     "Name": "sharedassets0.assets",
-    "SHA256": "ce783aa03676fe195476c12df183bb384465f3f0e2284801b0bb139b384a5d86",
+    "SHA256": "57b424a54376404e53a9739b853c1774275fe02a9e70e0c78cc0dff81da68786",
     "RelativePath": "MajdataPlay_Data/sharedassets0.assets"
   },
   {
@@ -3901,7 +3921,7 @@
   },
   {
     "Name": "sharedassets1.assets",
-    "SHA256": "0da80c318c5e484c78bd58b4e0097da67e7074b8870da1494e1a59d8129eeb3e",
+    "SHA256": "0b986b434100dfe62aab8447fa70222a561a70c98a029d4d8d1cd441f0a8bf68",
     "RelativePath": "MajdataPlay_Data/sharedassets1.assets"
   },
   {
@@ -3911,42 +3931,42 @@
   },
   {
     "Name": "sharedassets10.assets",
-    "SHA256": "5ac2b0cfe97717823e890537aafa3331a72f197d7db3e0593ddfe30d24f383fd",
+    "SHA256": "a4da7b5455e2a0cd4bf8020bf63b19a929b0bede2cdf1aed6600420dbdbadb1f",
     "RelativePath": "MajdataPlay_Data/sharedassets10.assets"
   },
   {
     "Name": "sharedassets11.assets",
-    "SHA256": "405dffeff9290e576befc6562cc208bcbc0ca7c8d564a9475b3890d547e82532",
+    "SHA256": "44d9f66880b3885ce91f5e443d1997e588622d5a555fb2d74fc2ef1dc1d9aeb2",
     "RelativePath": "MajdataPlay_Data/sharedassets11.assets"
   },
   {
     "Name": "sharedassets12.assets",
-    "SHA256": "39359723d431e80790b71ed426c7a213e143fa8660c60814a2d80cfde4dd48ac",
+    "SHA256": "5ae88344e5dacff8ab20cb48eb0de92d34257d946f3740906e151cc865b04038",
     "RelativePath": "MajdataPlay_Data/sharedassets12.assets"
   },
   {
     "Name": "sharedassets2.assets",
-    "SHA256": "48d746cb19a1300ee800374435f1569b33c39be526a82222f0c0875946d033d1",
+    "SHA256": "e009bd07a653e42a810e0b0cd3e5cb0bf0a0ad2b26ef0fe01062dce0a4793dcc",
     "RelativePath": "MajdataPlay_Data/sharedassets2.assets"
   },
   {
     "Name": "sharedassets2.assets.resS",
-    "SHA256": "43443cc66c5c2b94887930e4ad692c26af99757e669d23f58bd544febffcd64e",
+    "SHA256": "dcb31fcf316f1a1e8edbdec3bc6a4c3b3811223cd1350c9b6d09ef5e539f70b6",
     "RelativePath": "MajdataPlay_Data/sharedassets2.assets.resS"
   },
   {
     "Name": "sharedassets3.assets",
-    "SHA256": "907e65dff74801e2a8042cc4280c114e542e1eaaeb2757c891288f1c5e5e730c",
+    "SHA256": "1dd4ee2f88329b50674a9e294b1043076487d22ce30fd41b6e29f329e454fd5a",
     "RelativePath": "MajdataPlay_Data/sharedassets3.assets"
   },
   {
     "Name": "sharedassets3.assets.resS",
-    "SHA256": "3b248d21860b617ea6a1a5752793640c23c7faabf628a975de0a74e83e0fec55",
+    "SHA256": "208d41730d859ab32865c08f8ffdaebed51a9ad4589f210b2e7c285fb9d9b9af",
     "RelativePath": "MajdataPlay_Data/sharedassets3.assets.resS"
   },
   {
     "Name": "sharedassets4.assets",
-    "SHA256": "9d435cc8e5518742cd30a7303776c5e28c0b763092ccd38fe8a24b9028a922a3",
+    "SHA256": "59c19f6b8f0fcfd2ea2cd35be25112a0a4b2c73f4f2065ac57dcffd26fbea714",
     "RelativePath": "MajdataPlay_Data/sharedassets4.assets"
   },
   {
@@ -3956,7 +3976,7 @@
   },
   {
     "Name": "sharedassets5.assets",
-    "SHA256": "5812aa22c70f51bfcb1f8cc33ba9a556592c4290043069ed54ce4b58c84a26dd",
+    "SHA256": "5ac4f33676becc02fef7b806e71dadadcbfbb347f70208b8faf4d4b91937f1c2",
     "RelativePath": "MajdataPlay_Data/sharedassets5.assets"
   },
   {
@@ -3966,7 +3986,7 @@
   },
   {
     "Name": "sharedassets6.assets",
-    "SHA256": "71f0fe2dfb1a7053b5cbb321493e6a93c5a88f904bb586d312654d132936819b",
+    "SHA256": "2a83684f57c04d247f58fa29b3a7fde8c375320246fcc452549d0f0b7e8e1c85",
     "RelativePath": "MajdataPlay_Data/sharedassets6.assets"
   },
   {
@@ -3976,7 +3996,7 @@
   },
   {
     "Name": "sharedassets7.assets",
-    "SHA256": "24f1129c8f76676a06f0f90562f8af308cbf91532759bf26264c4c203110e950",
+    "SHA256": "ba25569562df40e7af7c55c644b1a3d0a4d9d3bd4ff203d1155154f704f1c8ac",
     "RelativePath": "MajdataPlay_Data/sharedassets7.assets"
   },
   {
@@ -3986,7 +4006,7 @@
   },
   {
     "Name": "sharedassets8.assets",
-    "SHA256": "4ce64c3a43ac66bc91a9634039b3a7ac50a24b00baee10669924a3ffad9978f1",
+    "SHA256": "39842b0c6865511171ceffa2cc2135243a3bb6e9f57ce2fbf743b300e1a307b0",
     "RelativePath": "MajdataPlay_Data/sharedassets8.assets"
   },
   {
@@ -3996,7 +4016,7 @@
   },
   {
     "Name": "sharedassets9.assets",
-    "SHA256": "b094d114a42e70087f49a6dc2bfbbe117c7703203c3a5a7a775108ccea6f6e39",
+    "SHA256": "84e3d29f9b86dc3fe1611dcb54dcc661f2c0169a869bf85fd20a2ea9ee5329bb",
     "RelativePath": "MajdataPlay_Data/sharedassets9.assets"
   },
   {
