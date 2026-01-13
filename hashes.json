@@ -251,12 +251,12 @@
   },
   {
     "Name": "Assembly-CSharp.dll",
-    "SHA256": "75681f92289c0d4f19e59d38e124dad66bbce099e809965ae4440ca33f4645bc",
+    "SHA256": "8296fc0a8ca590890976f006baa619e7e4ba0ded4bda52f5d8dd29db15c74f55",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll"
   },
   {
     "Name": "Assembly-CSharp.pdb",
-    "SHA256": "106f2e312605d681de9b07f9d192213dcf287a81815b35711009d78d63d2c7b0",
+    "SHA256": "133d925803a69c5ee4bef87f0866e378245b279cab166c82fb904abe249a4fa1",
     "RelativePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb"
   },
   {
@@ -341,12 +341,12 @@
   },
   {
     "Name": "Newtonsoft.Json.dll",
-    "SHA256": "7cdf28b9eb87cbc1575a1f946d1622e6205ea4a5756e5ab55e4a0431cc4be89e",
+    "SHA256": "089b4e1c1df0784e5d074ecadae198bb6ec0ecdb8ea1a286820da9f58c62e010",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll"
   },
   {
     "Name": "Newtonsoft.Json.pdb",
-    "SHA256": "90a15d9abae9493a4825ea94ff14e4b3c58d430b54ed1dadc3b9c8f41e38c345",
+    "SHA256": "254d33148c0d5cc7a30f95e6b9966dccf6329c6ac1029ff6bf280133f11746eb",
     "RelativePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.pdb"
   },
   {
@@ -3816,12 +3816,12 @@
   },
   {
     "Name": "boot.config",
-    "SHA256": "51f4d9f80ecc0d040d50689f4c384762818706a511cdca37465e37c3040b545d",
+    "SHA256": "e93dd9f62a43df964a55d23bf2ae7f571e24a0466143991136681619a3098bdb",
     "RelativePath": "MajdataPlay_Data/boot.config"
   },
   {
     "Name": "globalgamemanagers",
-    "SHA256": "c5f5c4cfb54d0806b374d73a86f92a3cadbed66fc050392bc40a46191b06e3d5",
+    "SHA256": "d88e39056cdf6f52178cb71c76cfcd6b86828cd203628e5a3a0147b0ce18928c",
     "RelativePath": "MajdataPlay_Data/globalgamemanagers"
   },
   {
@@ -3911,7 +3911,7 @@
   },
   {
     "Name": "sharedassets0.assets",
-    "SHA256": "57b424a54376404e53a9739b853c1774275fe02a9e70e0c78cc0dff81da68786",
+    "SHA256": "df9cfbb933134bf4b091ba83c751fd56625713ffb689ad16775310d6cbfd3169",
     "RelativePath": "MajdataPlay_Data/sharedassets0.assets"
   },
   {
@@ -3966,7 +3966,7 @@
   },
   {
     "Name": "sharedassets4.assets",
-    "SHA256": "59c19f6b8f0fcfd2ea2cd35be25112a0a4b2c73f4f2065ac57dcffd26fbea714",
+    "SHA256": "1ce0f382d8e558a209b669f20af362a0609b2b5d50eb7803a1f71c20ee2e5267",
     "RelativePath": "MajdataPlay_Data/sharedassets4.assets"
   },
   {
