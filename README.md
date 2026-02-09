@@ -34,6 +34,10 @@ git clone https://github.com/TeamMajdata/MajdataPlay_Build.git
 
 * [LeZi's Storage](https://storage.leziblog.com/MajdataPlay/Android)
 
+## 下载苹果版
+
+* 见[Release](https://github.com/TeamMajdata/MajdataPlay_Build/releases)页
+
 ## 教程
 
 * [设置教程](https://github.com/LingFeng-bbben/MajdataPlay/blob/beta1.0/Doc/Majplay.pdf)
