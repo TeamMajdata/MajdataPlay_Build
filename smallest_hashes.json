@@ -1,0 +1,3937 @@
+[
+  {
+    "name": "MajdataPlay.exe",
+    "filePath": "MajdataPlay.exe",
+    "checksum": "58e8923aeed69bbd3e699710aea575a6738f178e828491fdf038a90e9601d4cb"
+  },
+  {
+    "name": "app.info",
+    "filePath": "MajdataPlay_Data\\app.info",
+    "checksum": "08ac722c5e982c5cf889820191994d21509f962e2904183105b9a43b9abdcd18"
+  },
+  {
+    "name": "boot.config",
+    "filePath": "MajdataPlay_Data\\boot.config",
+    "checksum": "e094280da936ebb9c3df4228ca00bddb3225337f8aa1ad422323330e90cfb9ee"
+  },
+  {
+    "name": "globalgamemanagers",
+    "filePath": "MajdataPlay_Data\\globalgamemanagers",
+    "checksum": "211b84fd8245703979e842b913264acde45661f81c648cec9bf0201853526ebc"
+  },
+  {
+    "name": "globalgamemanagers.assets",
+    "filePath": "MajdataPlay_Data\\globalgamemanagers.assets",
+    "checksum": "4a0e9e9744e5c91e17842b88d3d79c533333b372dc9a68a7de386735b0ade2ed"
+  },
+  {
+    "name": "globalgamemanagers.assets.resS",
+    "filePath": "MajdataPlay_Data\\globalgamemanagers.assets.resS",
+    "checksum": "1b08eaf61bd7b74259407455eb4d1ffc98da38d4e58167e42391d1311668a16a"
+  },
+  {
+    "name": "level0",
+    "filePath": "MajdataPlay_Data\\level0",
+    "checksum": "9e36d7c74ef76999b506b58d17b6cebf8a34d160aa5d14b4e65a1404d01660d3"
+  },
+  {
+    "name": "level1",
+    "filePath": "MajdataPlay_Data\\level1",
+    "checksum": "e2fd35085f9975b362366a2e1e9bcd9680a8b489934f0041f6e23a5fc618f6a4"
+  },
+  {
+    "name": "level10",
+    "filePath": "MajdataPlay_Data\\level10",
+    "checksum": "1079c7b267c45c7a1b9314e076e3b62a022a85baf1296ee9b59849f14d4693f3"
+  },
+  {
+    "name": "level11",
+    "filePath": "MajdataPlay_Data\\level11",
+    "checksum": "cdb120dcd3101dd35dba259892d325e455a141aeaf8052424ed42a3ba35c79bc"
+  },
+  {
+    "name": "level12",
+    "filePath": "MajdataPlay_Data\\level12",
+    "checksum": "8049d318b11a3b8b721f019b0802b8f52947b799a54eb05d34e7afe8a34a0025"
+  },
+  {
+    "name": "level2",
+    "filePath": "MajdataPlay_Data\\level2",
+    "checksum": "04a0dbbcae02ec1f382d3cb747b885f95d93b2193a59d54380aaba102bf0f563"
+  },
+  {
+    "name": "level3",
+    "filePath": "MajdataPlay_Data\\level3",
+    "checksum": "ed7a0d7f03d75f3de1cbc6a043ddd98da4aa383742fbbead9da601c0ddeb04d7"
+  },
+  {
+    "name": "level4",
+    "filePath": "MajdataPlay_Data\\level4",
+    "checksum": "82328f8d016c74680d1c7f90b78145c267426896c6c969089d767fc7183f543c"
+  },
+  {
+    "name": "level5",
+    "filePath": "MajdataPlay_Data\\level5",
+    "checksum": "74b350ed5dbced58072fdd3342b87e6e3701432dcc4a07fd18c1c7f5a3300ac7"
+  },
+  {
+    "name": "level6",
+    "filePath": "MajdataPlay_Data\\level6",
+    "checksum": "6dbb57cf282a6c53e71d644e0b68a5bf34ebecb9191eee6aad860e75d97fe386"
+  },
+  {
+    "name": "level7",
+    "filePath": "MajdataPlay_Data\\level7",
+    "checksum": "9b0ef6000a83e36e3a770bab3c8f5d39cda49d8bb820c49531f9598154752cde"
+  },
+  {
+    "name": "level8",
+    "filePath": "MajdataPlay_Data\\level8",
+    "checksum": "f1ad6cbf3dcdfdb31e0b50431d343163cdafa95f58511b91ac704135c62056f8"
+  },
+  {
+    "name": "level9",
+    "filePath": "MajdataPlay_Data\\level9",
+    "checksum": "284bf9f5bdd06aa5929d7776f7b0f1088301bbedd7bd30d8c2c153d0cd764593"
+  },
+  {
+    "name": "Accessibility.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Accessibility.dll",
+    "checksum": "c2230ddf16b42660115287a1371dec1cd249f731a1b7299b9c3dde84e57816e5"
+  },
+  {
+    "name": "Assembly-CSharp-firstpass.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Assembly-CSharp-firstpass.dll",
+    "checksum": "ba6e673c917bfd133bb8d05769149875c2ae882e698d33bd646d72fd5fd38b26"
+  },
+  {
+    "name": "Assembly-CSharp-firstpass.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Assembly-CSharp-firstpass.pdb",
+    "checksum": "fd05443bfdbada6a97cf597c584c997d57f3c0fd73e9a5064cdcd079833351d9"
+  },
+  {
+    "name": "Assembly-CSharp.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Assembly-CSharp.dll",
+    "checksum": "d105e14597febadc975b2266eb6207c77b5f8cb08b77251a0fb001dd2ab132f0"
+  },
+  {
+    "name": "Assembly-CSharp.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Assembly-CSharp.pdb",
+    "checksum": "80f58c869244ed68dae157b4ee52160690b7bfe851731b6fb022f8689ed19596"
+  },
+  {
+    "name": "AsyncLock.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\AsyncLock.dll",
+    "checksum": "f82b6f168867925d92c2935e0a76be3017ac207d4ffe3907c1c7f04ad66a6c77"
+  },
+  {
+    "name": "LibVLCSharp.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\LibVLCSharp.dll",
+    "checksum": "ebb7f599313564bf4d335b4bd31ca64f5b5db37ae888158aa9c05929cab52aa1"
+  },
+  {
+    "name": "MajSimai.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\MajSimai.dll",
+    "checksum": "5da219be4574d1eaa7944977402031bb0a812e32e6bd087958e875ce3def1223"
+  },
+  {
+    "name": "ManagedBass.Aac.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.Aac.dll",
+    "checksum": "ac5b8ca329aeb5ddb94d74f0bf1f79f6e4eff4430162f2433c36142c4395c30a"
+  },
+  {
+    "name": "ManagedBass.Asio.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.Asio.dll",
+    "checksum": "b6a2c5ddaedd392605e859629787b7d55d7b3710e1f8bcb8d0b9ba62ca955a61"
+  },
+  {
+    "name": "ManagedBass.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.dll",
+    "checksum": "8a2be3c05a783cfab2664a32b0ffed56012a723cf841e7962aef7b1019b0036e"
+  },
+  {
+    "name": "ManagedBass.Fx.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.Fx.dll",
+    "checksum": "77594f519035fa17d370fb02c52c9b2c03da3044ebd6081a973a6516b7ee6692"
+  },
+  {
+    "name": "ManagedBass.Mix.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.Mix.dll",
+    "checksum": "430f44c7a677f260137ff68eb8d15ef82c1704840a52fcdc83395871b45c63c6"
+  },
+  {
+    "name": "ManagedBass.Opus.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.Opus.dll",
+    "checksum": "01cf327c6a9f8259f10b7dc6708480225b2b940f8f2d9bd23453b318c33d94c6"
+  },
+  {
+    "name": "ManagedBass.Wasapi.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ManagedBass.Wasapi.dll",
+    "checksum": "b17bf3d8ff67debc0888c78af788cdf08457a7a7726b64df287c720a3cc069cc"
+  },
+  {
+    "name": "Microsoft.Bcl.AsyncInterfaces.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Microsoft.Bcl.AsyncInterfaces.dll",
+    "checksum": "0b6f9b5ef96cf05fbe679787615fe7dd7e213e888a2802589dc8bcd0cdf30d64"
+  },
+  {
+    "name": "Microsoft.CSharp.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Microsoft.CSharp.dll",
+    "checksum": "97022e35a79c870b162d0d4b5c1f1fc1dc7e7aaaf81b82dfb0ec0b79cef0538c"
+  },
+  {
+    "name": "Microsoft.Extensions.Primitives.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Microsoft.Extensions.Primitives.dll",
+    "checksum": "4a8903ced2676177a35f93f458aac52e2ef434514b7bc59a40a5ffdd42245885"
+  },
+  {
+    "name": "Mono.Security.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Mono.Security.dll",
+    "checksum": "e4a71207f302636cee42c8f8ce41fd3330258ccd626658dc5d690cb34243ea4d"
+  },
+  {
+    "name": "mscorlib.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\mscorlib.dll",
+    "checksum": "6bb19d29b2b5aa6bcf046f9c988c635b639562b7793eb58e8c9d1646a606b4d6"
+  },
+  {
+    "name": "MychIO.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\MychIO.dll",
+    "checksum": "61b5f089f0a5637bdbece9aa5ae52ba678d2106eb189e4f9a3f93c974418a720"
+  },
+  {
+    "name": "MychIO.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\MychIO.pdb",
+    "checksum": "6f7244e96eeef8401f336638a47bda9553a64ff70f33d8fb42e8a7d9ff31744c"
+  },
+  {
+    "name": "netstandard.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\netstandard.dll",
+    "checksum": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
+  },
+  {
+    "name": "Newtonsoft.Json.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Newtonsoft.Json.dll",
+    "checksum": "a0201d427a8769a71af3fd86514944ee589c04d8238091dfd1a8c7016fbbde87"
+  },
+  {
+    "name": "Newtonsoft.Json.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Newtonsoft.Json.pdb",
+    "checksum": "88b94810a0bf4bc0db812328c47071370cdb1d992c7877f80b569379a6a1525b"
+  },
+  {
+    "name": "QRCoder.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\QRCoder.dll",
+    "checksum": "e66cb4e6bc39eef181be725ef32e99087aa180ee5dacd7cdd36c1d3ae23ec866"
+  },
+  {
+    "name": "Semver.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Semver.dll",
+    "checksum": "1aec75b4631fc79ec937fa1f62df4ade1e1c862ba2b53c6dc42619055642c858"
+  },
+  {
+    "name": "SkiaSharp.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\SkiaSharp.dll",
+    "checksum": "08b6c595a3824fda7c5369ba2a6f79bbddf4dd59a585d52b9506bac347815d15"
+  },
+  {
+    "name": "SkiaSharp.Extended.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\SkiaSharp.Extended.dll",
+    "checksum": "d4371e5a0a06659790fb7cd8fa71aeab09d6f5929faac14f0c33e55afb0227b2"
+  },
+  {
+    "name": "SkiaSharp.Unity.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\SkiaSharp.Unity.dll",
+    "checksum": "65c3c081d631d0e2e4a051da89006705c6431c3874a3870ecaf81652dc44f4df"
+  },
+  {
+    "name": "SkiaSharp.Unity.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\SkiaSharp.Unity.pdb",
+    "checksum": "f61a5467da7d85475cc5ade5d4ea2fdc4732bb984eb1772cff3040ddd41f060a"
+  },
+  {
+    "name": "System.Buffers.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Buffers.dll",
+    "checksum": "762f8fdbe975e05b76be5fe996c53ce7c75e4a2830f2f50b02a5948ef6ba0aeb"
+  },
+  {
+    "name": "System.Collections.Concurrent.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Collections.Concurrent.dll",
+    "checksum": "695fe54cc7bbc1be7d00b4ff032b00600f6478adce247778a35641193058af6c"
+  },
+  {
+    "name": "System.Collections.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Collections.dll",
+    "checksum": "2c29e42916c7ab1ec30aa529554dd85b3408a70d7de691152ae3885ed9fd1c11"
+  },
+  {
+    "name": "System.ComponentModel.Composition.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.ComponentModel.Composition.dll",
+    "checksum": "6e74ecc6addac8f7d4050501b74d0db334ae3b8a505c7a6a84ad9084edd6d649"
+  },
+  {
+    "name": "System.Configuration.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Configuration.dll",
+    "checksum": "856df2f5cbb0228abc79528248b08ce7ed14de99c6565f15d8c75dbd9a6fbefd"
+  },
+  {
+    "name": "System.Core.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Core.dll",
+    "checksum": "7531efdf2b738ac34c47a9b55f78004801d538a141adec3d8ca0e44983fd872d"
+  },
+  {
+    "name": "System.Data.DataSetExtensions.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Data.DataSetExtensions.dll",
+    "checksum": "e7c7dd10d360af54e685208644739437be2ee7be501b6035d06850b4cf329ea4"
+  },
+  {
+    "name": "System.Data.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Data.dll",
+    "checksum": "c560aeaefe42fac3c448d964eb761941155dfcd23d8921b5cf50bc661c6f55be"
+  },
+  {
+    "name": "System.Deployment.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Deployment.dll",
+    "checksum": "26858b48c45f1334e14c2edca3502f449111391c4721317fba5070702f8f5dfe"
+  },
+  {
+    "name": "System.Diagnostics.Debug.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Diagnostics.Debug.dll",
+    "checksum": "86fe141fd7038baea6502b17d9241dcc99c3cc9e6edf0dcd8be12c195c6836a0"
+  },
+  {
+    "name": "System.Diagnostics.Tracing.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Diagnostics.Tracing.dll",
+    "checksum": "3a7f44e3b20a03cef6fe8b164a5c193d50bd30ee0aab26a7857d6b1944da64fd"
+  },
+  {
+    "name": "System.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.dll",
+    "checksum": "427eb25e3eb10ad31e924c7082c5ceef31778daff3c0be46a19a3bba41ee78fc"
+  },
+  {
+    "name": "System.Drawing.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Drawing.dll",
+    "checksum": "7e64aba4ffedb7211215511e7d643bb901bb41f502e3b3b2f33cf490baed2d47"
+  },
+  {
+    "name": "System.EnterpriseServices.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.EnterpriseServices.dll",
+    "checksum": "e37dbf351bce8777284b6634447bc9c8f8f1805cd93e6e22bb71c9ae57c95789"
+  },
+  {
+    "name": "System.IO.Compression.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.IO.Compression.dll",
+    "checksum": "fa676e52d9bef2a2d0a35382deec786d766f224a12c5f6a38c3525aa0686f1da"
+  },
+  {
+    "name": "System.IO.Compression.FileSystem.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.IO.Compression.FileSystem.dll",
+    "checksum": "ef541af83b3f175511d4b8dcc7d52fecfd14f876d5a6b7f4d532e587dabf79dd"
+  },
+  {
+    "name": "System.IO.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.IO.dll",
+    "checksum": "afd39e48cde9bc2e6166b25b6b0833e21cd3f1903c06bf19900c947520b38169"
+  },
+  {
+    "name": "System.IO.FileSystem.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.IO.FileSystem.dll",
+    "checksum": "5055d2643b0463e186846f156a4a8d13b17eb0a02088a3d822fdc842e41d5ece"
+  },
+  {
+    "name": "System.IO.Pipelines.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.IO.Pipelines.dll",
+    "checksum": "693915aafc21fbe83e7cfba136d79e15616d6a8a7347aef47c957f35de94382f"
+  },
+  {
+    "name": "System.Linq.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Linq.dll",
+    "checksum": "9829901f8f27ed596764823bc6b1728c933d444d210469883f0932d970dd4a9d"
+  },
+  {
+    "name": "System.Memory.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Memory.dll",
+    "checksum": "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a"
+  },
+  {
+    "name": "System.Net.Http.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Net.Http.dll",
+    "checksum": "f2ccbbd8c5c32bc95f7403ec54fd69af936edbe65acd365d2570441799bc36ae"
+  },
+  {
+    "name": "System.Numerics.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Numerics.dll",
+    "checksum": "bd9d1c63fcd58e37f3202b59b20d3c83fa97ba6953e97c36f1607c85f2f706a5"
+  },
+  {
+    "name": "System.Numerics.Vectors.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Numerics.Vectors.dll",
+    "checksum": "093cee067f8ffd26ee920f407497343a6f1c1d94352ac9bd9fd482e562d767a1"
+  },
+  {
+    "name": "System.ObjectModel.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.ObjectModel.dll",
+    "checksum": "7ffa997a0c1f2c4d8a8d4dbf90e1c5e3bd52f3185e036c9dde11cb38a1f9f55e"
+  },
+  {
+    "name": "System.Runtime.CompilerServices.Unsafe.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Runtime.CompilerServices.Unsafe.dll",
+    "checksum": "50299880173f35722f6e2f29a87d6f52d9bb1d9307d81ed43b43e3e7c6a2e5e5"
+  },
+  {
+    "name": "System.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Runtime.dll",
+    "checksum": "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd"
+  },
+  {
+    "name": "System.Runtime.Extensions.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Runtime.Extensions.dll",
+    "checksum": "b64655f85720718b65b81a03a5d6cdcbddf07fd0bd96daa10e550db80f461e14"
+  },
+  {
+    "name": "System.Runtime.InteropServices.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Runtime.InteropServices.dll",
+    "checksum": "e3671531c2c72fd3c923d4a3614feb468af456e51517cb7574b9b91ff724df8d"
+  },
+  {
+    "name": "System.Runtime.Serialization.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Runtime.Serialization.dll",
+    "checksum": "c83927d3cba97030081b48ba2e8768739339af4c97fe92f703737c782f40f686"
+  },
+  {
+    "name": "System.Runtime.Serialization.Formatters.Soap.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Runtime.Serialization.Formatters.Soap.dll",
+    "checksum": "b81051e5c486e741d21be7710a14bf3cbc5eb5f8120d3293f80c6284405121da"
+  },
+  {
+    "name": "System.Security.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Security.dll",
+    "checksum": "aceafa3db9bb70fb21625f4d9e1538964af099ede6085c22d68d29a738d72d52"
+  },
+  {
+    "name": "System.ServiceModel.Internals.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.ServiceModel.Internals.dll",
+    "checksum": "7a280ab5b93c268dd596fe177e559cb0c6cf201442909791ec0d078945be01e8"
+  },
+  {
+    "name": "System.Text.Encoding.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Text.Encoding.dll",
+    "checksum": "ed4a4fbed6779fb8dd380af181d01902fd378d1bf3c6dc2d0068c715021aaed2"
+  },
+  {
+    "name": "System.Text.Encodings.Web.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Text.Encodings.Web.dll",
+    "checksum": "594ae31577b5d6478587184e46b50342fd77c4c570f7b1d14fd6ab3868282a76"
+  },
+  {
+    "name": "System.Text.Json.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Text.Json.dll",
+    "checksum": "302d4f3e25e8297c25f6faa2ad704aa529b688da58a62ad4c6e3fff49d8240ab"
+  },
+  {
+    "name": "System.Threading.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Threading.dll",
+    "checksum": "d5df86c9afba9dd48d30858b0d1dc044d0d2e574cc515d8b1beebb905c12edd7"
+  },
+  {
+    "name": "System.Threading.Tasks.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Threading.Tasks.dll",
+    "checksum": "1d402b1280179f7dcc4a46318dca9de445bca1981511653a3324b288e958a294"
+  },
+  {
+    "name": "System.Threading.Tasks.Extensions.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Threading.Tasks.Extensions.dll",
+    "checksum": "96150abdca5df4446b376560e069d59b3550212deda8cbdd316272f6b834f597"
+  },
+  {
+    "name": "System.Transactions.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Transactions.dll",
+    "checksum": "f185aaae7df812d4ad597800cbfa854d35764f6a2f31407dbef1a6e9b01cc7b1"
+  },
+  {
+    "name": "System.ValueTuple.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.ValueTuple.dll",
+    "checksum": "f341fdcd30bfe1615b8cdcb0da0fb8c60dfae0b7aaf9238fe1cd5b721df16eb1"
+  },
+  {
+    "name": "System.Windows.Forms.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Windows.Forms.dll",
+    "checksum": "f6e797ee0f0bdd153ef32e145450c9acb08f7861fe82cb5e711c2df1cece3769"
+  },
+  {
+    "name": "System.Xml.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Xml.dll",
+    "checksum": "f327c073dc0d07fa50763b012bde89a39ce0223577bd19bd1fef0d31270dee09"
+  },
+  {
+    "name": "System.Xml.Linq.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\System.Xml.Linq.dll",
+    "checksum": "dac66f986a71331540980a0cef6a6dd15ef8973548fd5f39ecfafa6fd7f163de"
+  },
+  {
+    "name": "UniTask.Addressables.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.Addressables.dll",
+    "checksum": "f53e410f6667f8d8937c9b367233dd695b5aed5333f6dc4101a731b96a249e3e"
+  },
+  {
+    "name": "UniTask.Addressables.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.Addressables.pdb",
+    "checksum": "c5ba2535a7963918aa862839ff5da937a847148d36179f09cafa3cbbaaf0f361"
+  },
+  {
+    "name": "UniTask.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.dll",
+    "checksum": "3116ee3e1ca35d12531be209e5037449f41040062d530e45f6a674b97ba23062"
+  },
+  {
+    "name": "UniTask.DOTween.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.DOTween.dll",
+    "checksum": "9b5e564e5b2110a070f55e255a8484c6d9cd9cec25d59f97bc22256cc49c6c66"
+  },
+  {
+    "name": "UniTask.DOTween.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.DOTween.pdb",
+    "checksum": "45dd05ba7788bad72e6c025e16a7b09921167ce6c5611cb151e5b39849fede8c"
+  },
+  {
+    "name": "UniTask.Linq.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.Linq.dll",
+    "checksum": "6ce8b2d0b93522e48834354c00eebac0423b530f131c33b9abc66d21d2e0250a"
+  },
+  {
+    "name": "UniTask.Linq.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.Linq.pdb",
+    "checksum": "ecc0f097b5c59ef8339128a7274e3f003f206c7f62353422961b63f3ddbdf291"
+  },
+  {
+    "name": "UniTask.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.pdb",
+    "checksum": "abe207fdc6f720c72dfb189107365c1571a1e4bffbf4a626975bf4ef4b4cff92"
+  },
+  {
+    "name": "UniTask.TextMeshPro.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.TextMeshPro.dll",
+    "checksum": "278400cc963749fcc1b70ccd908cf52fe577cd10ebfcf3b714d8ffd6251385b1"
+  },
+  {
+    "name": "UniTask.TextMeshPro.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UniTask.TextMeshPro.pdb",
+    "checksum": "9f88cd8ca789d5c0b2d356f4036ef0e1ce4be95899c78c59c348a337bf0a3904"
+  },
+  {
+    "name": "Unity.2D.Animation.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.Animation.Runtime.dll",
+    "checksum": "b7ef51c301efceee68ec660741529c3ec5d53611af16c099ccb9b01d77e8d3e6"
+  },
+  {
+    "name": "Unity.2D.Animation.Runtime.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.Animation.Runtime.pdb",
+    "checksum": "55498af2aa605e7ea2095244b438cb774e7772eb618e73794eea315a396307e2"
+  },
+  {
+    "name": "Unity.2D.Common.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.Common.Runtime.dll",
+    "checksum": "24182f1483b2e44ae40d0cb58dccb0f9066a4e1f68084b8c5999103f6edd6e37"
+  },
+  {
+    "name": "Unity.2D.IK.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.IK.Runtime.dll",
+    "checksum": "5765b4b6d0674a115a70a13eb6a1a61d224b1547dad071764bdec300db191186"
+  },
+  {
+    "name": "Unity.2D.PixelPerfect.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.PixelPerfect.dll",
+    "checksum": "2883ccae6f03e2ac17d1170b9f3bdee5086fff689a48bc587895f47ddc1aedf8"
+  },
+  {
+    "name": "Unity.2D.SpriteShape.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.SpriteShape.Runtime.dll",
+    "checksum": "53cf30826074546036f5ab68ba1b6b11d3ad7c9be20893e24c8d18add242882a"
+  },
+  {
+    "name": "Unity.2D.Tilemap.Extras.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.2D.Tilemap.Extras.dll",
+    "checksum": "85f64a6c258c032513582db928f9323484bb12455be720c29aacf24784721615"
+  },
+  {
+    "name": "Unity.Burst.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Burst.dll",
+    "checksum": "55ab4a0f70c20d8e01d6c8b8b4668173855b7acd238384268d23084301c244fe"
+  },
+  {
+    "name": "Unity.Burst.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Burst.pdb",
+    "checksum": "66a318aba4a36ec713454740de595d9f41d6afaec8e917449138a5271eeba910"
+  },
+  {
+    "name": "Unity.Burst.Unsafe.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Burst.Unsafe.dll",
+    "checksum": "9fea099706060b53141b1d9a6f24faa0eb3f582947ab5f97eaa0a7cb07404a33"
+  },
+  {
+    "name": "Unity.Collections.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Collections.dll",
+    "checksum": "3c5654d49a432a3a1b57e7879c7c4da20dffeb7caba473b2ac1b9945551aca1e"
+  },
+  {
+    "name": "Unity.Collections.LowLevel.ILSupport.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Collections.LowLevel.ILSupport.dll",
+    "checksum": "ffa3c86258a8bb33427b5b3af15585b0128b882366b76cc0d634e73665c99878"
+  },
+  {
+    "name": "Unity.Collections.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Collections.pdb",
+    "checksum": "b7d0c56aed9f52c366605fbd4c0a3c759394c2401cd026b705e575c3ad3f0dbf"
+  },
+  {
+    "name": "Unity.InputSystem.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.InputSystem.dll",
+    "checksum": "bdf1dcb42ac37617cc91e625d1bf6a3ed83df06c6448f12d3a2b8c9265e0ee81"
+  },
+  {
+    "name": "Unity.InputSystem.ForUI.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.InputSystem.ForUI.dll",
+    "checksum": "de40cf9f0b8f7c40180cab5c20c62219ef6ed4a403a2f526d062ee18d99a2ba0"
+  },
+  {
+    "name": "Unity.InputSystem.ForUI.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.InputSystem.ForUI.pdb",
+    "checksum": "aaba7087dcef05a19379f47eb634a8e9b2caaea5ae6b6d26ac1b0e38121986ef"
+  },
+  {
+    "name": "Unity.InputSystem.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.InputSystem.pdb",
+    "checksum": "2ed32353bcb3e8a7b300b532d8992f08ac3368efe5b5e95d356967de010011b4"
+  },
+  {
+    "name": "Unity.InternalAPIEngineBridge.001.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.InternalAPIEngineBridge.001.dll",
+    "checksum": "687aef017fce79f0cfcfd634db33387705bbba4b4015d150623f4dd7713d9f4d"
+  },
+  {
+    "name": "Unity.InternalAPIEngineBridge.001.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.InternalAPIEngineBridge.001.pdb",
+    "checksum": "9fdd3fa4549b605d0ad50e937472a38c30bac70e61096222ad05c039e4753107"
+  },
+  {
+    "name": "Unity.Mathematics.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Mathematics.dll",
+    "checksum": "f66a0f1153eaade0ad2e70a675ff309d48a85e1390beb64e1790db621c4b7c17"
+  },
+  {
+    "name": "Unity.Mathematics.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Mathematics.pdb",
+    "checksum": "0757c6fbb8271ed5a5c8d39e921d692e0f7e85f5dbc25ae5d75b1a0095c6f051"
+  },
+  {
+    "name": "Unity.MemoryProfiler.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.MemoryProfiler.dll",
+    "checksum": "d7a5d0b59661ec403dcb0bf85ef2ac73c7bbb4c223a349ca469ed69979f764ea"
+  },
+  {
+    "name": "Unity.RenderPipelines.Core.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.RenderPipelines.Core.Runtime.dll",
+    "checksum": "39ab61ae3e2231d309509a2df9f365a5c5813932f284db9356d22f2e448cfb5e"
+  },
+  {
+    "name": "Unity.RenderPipelines.Core.Runtime.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.RenderPipelines.Core.Runtime.pdb",
+    "checksum": "a4ab02b3d73b45b7500c953587716067f44c2d88ce88218c95bbbd3dcc418a69"
+  },
+  {
+    "name": "Unity.RenderPipelines.Core.ShaderLibrary.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.RenderPipelines.Core.ShaderLibrary.dll",
+    "checksum": "cf1e1615f4d524a4049543bbc4544e99ac9a7b97d936d0da8f734e6e2382b805"
+  },
+  {
+    "name": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+    "checksum": "53b0e84e1ba63933b56557b79304c1661915a17f70d067e91e841939008d2a7d"
+  },
+  {
+    "name": "Unity.TextMeshPro.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.TextMeshPro.dll",
+    "checksum": "97a2d08b2542dd0d10411aa09c352bd476d2fd94fdc24ed73ff6de53e93ca435"
+  },
+  {
+    "name": "Unity.TextMeshPro.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.TextMeshPro.pdb",
+    "checksum": "bc3e5f1632e677a858b355841aa44ee64209e66db1965b23fa3a506779032c6c"
+  },
+  {
+    "name": "Unity.Timeline.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.Timeline.dll",
+    "checksum": "80941848d8447fa09994e367d9705e0a4fd3ec50e53f08b19e71b35a03a5889e"
+  },
+  {
+    "name": "Unity.VisualScripting.Antlr3.Runtime.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.VisualScripting.Antlr3.Runtime.dll",
+    "checksum": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
+  },
+  {
+    "name": "Unity.VisualScripting.Core.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.VisualScripting.Core.dll",
+    "checksum": "afc6e64b54cb881219bdbbd6ce8e7c93412ebf589c4d1d2fa8c916a35fd043b7"
+  },
+  {
+    "name": "Unity.VisualScripting.Core.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.VisualScripting.Core.pdb",
+    "checksum": "45fd392375f57df415ab656c74dfd40fcbd6aa7747d608d38f14eace5b735aa0"
+  },
+  {
+    "name": "Unity.VisualScripting.DocCodeExamples.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.VisualScripting.DocCodeExamples.dll",
+    "checksum": "a3f99f6e0b9763c88f8ecd99f04c1b152aadac43d42c70fe5c136a8ddd52a880"
+  },
+  {
+    "name": "Unity.VisualScripting.Flow.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.VisualScripting.Flow.dll",
+    "checksum": "49ff52bad85bb11041bcb0c8f1de862367b3a957a45833274df1f7af735bbd49"
+  },
+  {
+    "name": "Unity.VisualScripting.State.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\Unity.VisualScripting.State.dll",
+    "checksum": "369f79d638a60b0c352b767e70dfe59c4b7b43f140656c94df8abf442313e176"
+  },
+  {
+    "name": "UnityEngine.AccessibilityModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AccessibilityModule.dll",
+    "checksum": "d2ca8ee3abe51ef6cfbe36e85da7abb2467a066ca1cbead06569c563bca395dc"
+  },
+  {
+    "name": "UnityEngine.AIModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AIModule.dll",
+    "checksum": "b894e6d967d6f6922be33b8d7e600fc6c30887626280e371fb3a6d4cb9534732"
+  },
+  {
+    "name": "UnityEngine.AIModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AIModule.pdb",
+    "checksum": "3cb121ee81871ccc055383e19fa210956a1723a398faa909ca5bb10da994fd0b"
+  },
+  {
+    "name": "UnityEngine.AndroidJNIModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AndroidJNIModule.dll",
+    "checksum": "3956aaf18b37a976c808c20be9cf96ebe0c7cc1ae7ccaf095bbde361d3018076"
+  },
+  {
+    "name": "UnityEngine.AndroidJNIModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AndroidJNIModule.pdb",
+    "checksum": "7501a5f98ab18899bbdd4b9db184cd90d43b9f27aad3cf2924f8dfb5e43ebdc3"
+  },
+  {
+    "name": "UnityEngine.AnimationModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AnimationModule.dll",
+    "checksum": "cd46048b06631bbf31197783f44cb533596f9b204fd54baf022779029c07513a"
+  },
+  {
+    "name": "UnityEngine.AnimationModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AnimationModule.pdb",
+    "checksum": "f35feae2b1d2d06ebad78c955e9665b0536019a2ff0cc52fa558246526187493"
+  },
+  {
+    "name": "UnityEngine.ARModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ARModule.dll",
+    "checksum": "6852de616a277574053f24394d40f21d17a09d6006b6b7f190ba1e1c9d13a1fb"
+  },
+  {
+    "name": "UnityEngine.AssetBundleModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AssetBundleModule.dll",
+    "checksum": "3cf89be8a58f6409f0485f84fff641eb152b40210a4109e3b8d1ace04efea67f"
+  },
+  {
+    "name": "UnityEngine.AssetBundleModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AssetBundleModule.pdb",
+    "checksum": "21ce307ccb8e565fa19f6d99bb9e3a0fb56b36e6168b9489bac5f860a96a1d2d"
+  },
+  {
+    "name": "UnityEngine.AudioModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AudioModule.dll",
+    "checksum": "37fd0b44fd3b6f51f4ee170904f0c84cf7e21d0ec97f0118c05cd77ee391fdf8"
+  },
+  {
+    "name": "UnityEngine.AudioModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.AudioModule.pdb",
+    "checksum": "452126d29d9690fbae987775ebdb885b881137e57e3cff019bd72cccb8a10aaa"
+  },
+  {
+    "name": "UnityEngine.ClothModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ClothModule.dll",
+    "checksum": "cd7b0b958d3bcdd7b94aa1773ed5cdaae454c75092000bb3cc29ffee58d46ff5"
+  },
+  {
+    "name": "UnityEngine.ClusterInputModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ClusterInputModule.dll",
+    "checksum": "6b97c5292ce609054fdd83420fc7f0e0adcf4ab74d14442112b83a43ecac3a57"
+  },
+  {
+    "name": "UnityEngine.ClusterRendererModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ClusterRendererModule.dll",
+    "checksum": "47108f31ed81095340121eb777c2e53de3bb1e3bec9b708cd1c2e22ab5a6ea48"
+  },
+  {
+    "name": "UnityEngine.ContentLoadModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ContentLoadModule.dll",
+    "checksum": "6e36b3242f01271fa3a15ac50462de8f95f1f98090e50d7e6ad3174c4ab41eef"
+  },
+  {
+    "name": "UnityEngine.CoreModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.CoreModule.dll",
+    "checksum": "2e8bc4cbde5bfc5b3376a0d61586ebe5b1aadde06c35d2c842cf830dc6e6279a"
+  },
+  {
+    "name": "UnityEngine.CoreModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.CoreModule.pdb",
+    "checksum": "9319b39fafe55f8711e42a4575cd249978ddf0ce2ab5dab251d050f748669c7c"
+  },
+  {
+    "name": "UnityEngine.CrashReportingModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.CrashReportingModule.dll",
+    "checksum": "b2668cb5e2a98af13540807b12e428b95b7e62ce4baff6af35534b41d43a3fd7"
+  },
+  {
+    "name": "UnityEngine.DirectorModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.DirectorModule.dll",
+    "checksum": "5b64ae853f98cf6febbc3979d3a459d702273595201222e7ffbbf78a58e49024"
+  },
+  {
+    "name": "UnityEngine.DirectorModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.DirectorModule.pdb",
+    "checksum": "09be065f22a16efdb33456d7f5a42692fe9f138bfe9c7103130f076cc7fc8f85"
+  },
+  {
+    "name": "UnityEngine.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.dll",
+    "checksum": "f15b824a69116e3ee74a60ed9838cff34b65592142d27b55fb69ed828466470f"
+  },
+  {
+    "name": "UnityEngine.DSPGraphModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.DSPGraphModule.dll",
+    "checksum": "193877d676d092b9e07e438c3466a03e9bfd60479e6f88a9f9a42ba84736538c"
+  },
+  {
+    "name": "UnityEngine.GameCenterModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.GameCenterModule.dll",
+    "checksum": "8ec40727b67330a54aa631557d19f15a0d04a835b591aa9f273194d491531572"
+  },
+  {
+    "name": "UnityEngine.GIModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.GIModule.dll",
+    "checksum": "6d75fc53b8af6a9112610b8c8f6a244f24c7ca279bc1b2333d93bb32a10619ba"
+  },
+  {
+    "name": "UnityEngine.GridModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.GridModule.dll",
+    "checksum": "2308a88424bfabd4b51aff6fc3e5be721d8290f4f206a85710530de51f8dfd7c"
+  },
+  {
+    "name": "UnityEngine.GridModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.GridModule.pdb",
+    "checksum": "07d87a3ecbc47c42b40c068f08ca4db0b025a75a8daa5a74d876d90f9913d673"
+  },
+  {
+    "name": "UnityEngine.HotReloadModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.HotReloadModule.dll",
+    "checksum": "97637495f4edb3c90aec67105066ffe3250be0e12d64173a6969bfd117783ccf"
+  },
+  {
+    "name": "UnityEngine.ImageConversionModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ImageConversionModule.dll",
+    "checksum": "5532efd29216b48e04816f38fcce07bacb3cc1dcfa7fbb86e6ce1b4daa138611"
+  },
+  {
+    "name": "UnityEngine.ImageConversionModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ImageConversionModule.pdb",
+    "checksum": "0793aceaf5a7ec546857352789bbb5bfd0bb1e9613331484f5adfd92f9bcc1e1"
+  },
+  {
+    "name": "UnityEngine.IMGUIModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.IMGUIModule.dll",
+    "checksum": "aab1d0c3ba52a13cf7b17d9acf02611e958d4951bc52e194d7a4142e94d34b67"
+  },
+  {
+    "name": "UnityEngine.IMGUIModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.IMGUIModule.pdb",
+    "checksum": "aa58c9c0301f15eb02436929f61758c51348cc960f740d27a3a369079f71be6c"
+  },
+  {
+    "name": "UnityEngine.InputLegacyModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.InputLegacyModule.dll",
+    "checksum": "f20c5df6ef16aadeeb2f13daaa220bba388e23f68a2fb95d1ff770a4b0d8146e"
+  },
+  {
+    "name": "UnityEngine.InputLegacyModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.InputLegacyModule.pdb",
+    "checksum": "5140ad5d6673135c8fbd791d2eb6453cd313d51388d08583ad0068100b7de32b"
+  },
+  {
+    "name": "UnityEngine.InputModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.InputModule.dll",
+    "checksum": "3ba3c5e61ba2b4e75eaebcce46b28a6bc444aa4774e78261929f898a66cbeb73"
+  },
+  {
+    "name": "UnityEngine.InputModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.InputModule.pdb",
+    "checksum": "4d4aee32620442334692adaf0491227cc87ef97baa43546978eafb6976a6cbf6"
+  },
+  {
+    "name": "UnityEngine.JSONSerializeModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.JSONSerializeModule.dll",
+    "checksum": "983414d7e61fc493ad43aa3520bd26baf30ce8e25081db7220e4b706f9f7693e"
+  },
+  {
+    "name": "UnityEngine.JSONSerializeModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.JSONSerializeModule.pdb",
+    "checksum": "2f27c6afa675d3d96187cdf3e46ef11ce8a6eeb2a905137a1bfbc6896b4f3ada"
+  },
+  {
+    "name": "UnityEngine.LocalizationModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.LocalizationModule.dll",
+    "checksum": "5a2e3e78d3a8c5a0d6ed9f532e9ce476d564f2462fc7e89fda7e190c5c57d9e1"
+  },
+  {
+    "name": "UnityEngine.NVIDIAModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.NVIDIAModule.dll",
+    "checksum": "60fdb3032f25362098bf1dd7199a4a395abfc00932923aa02fb57644480081f7"
+  },
+  {
+    "name": "UnityEngine.ParticleSystemModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ParticleSystemModule.dll",
+    "checksum": "29a309419e609cb30d2dbd5bda39276cb1463021099557c032331ee229b043f9"
+  },
+  {
+    "name": "UnityEngine.ParticleSystemModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ParticleSystemModule.pdb",
+    "checksum": "aa35df13d15048667546098abe4e40f18fe16d022e7599305fbd79e53437b043"
+  },
+  {
+    "name": "UnityEngine.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.pdb",
+    "checksum": "a6ddbaca7bd39287405e176d3da92bf0de32ef0494e4bf94b2a3eb79cc300187"
+  },
+  {
+    "name": "UnityEngine.PerformanceReportingModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.PerformanceReportingModule.dll",
+    "checksum": "f825925678027cc3ed7d0c1e549d6ea374c76e1fed5a6d58c9cab959249a5533"
+  },
+  {
+    "name": "UnityEngine.Physics2DModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.Physics2DModule.dll",
+    "checksum": "a90cf9d50faa5acbc8e93494289375fb861503d5f2944ef7133ab9178d318f27"
+  },
+  {
+    "name": "UnityEngine.Physics2DModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.Physics2DModule.pdb",
+    "checksum": "535a08ffc298fbda66cda873c46735e2dca4fae45874c8e63f3eab9bf0fe9fa2"
+  },
+  {
+    "name": "UnityEngine.PhysicsModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.PhysicsModule.dll",
+    "checksum": "2bb5a75fb6408aa08f32cb4c235a57f8343c965b9cd8af91c00536765c8cb4cb"
+  },
+  {
+    "name": "UnityEngine.PhysicsModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.PhysicsModule.pdb",
+    "checksum": "9285a36903238465de20f14dec95da28f20ac74623587aea1aff75065a46cfc4"
+  },
+  {
+    "name": "UnityEngine.ProfilerModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ProfilerModule.dll",
+    "checksum": "723ec1148c53474731ca093310bffaf577ba9bf1695b483fd6711ef54e4524b1"
+  },
+  {
+    "name": "UnityEngine.PropertiesModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.PropertiesModule.dll",
+    "checksum": "6453fa4e4e3c0306e0ec7648dc57bd419d4c16744b2e3d34f1c37203f7fb5593"
+  },
+  {
+    "name": "UnityEngine.PropertiesModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.PropertiesModule.pdb",
+    "checksum": "a59cfbd7de0b0d5850bb22a3ea07bebc87bf6112d498449ac6f4899fc396eddf"
+  },
+  {
+    "name": "UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+    "checksum": "29642ae937426d1fff2fad8aea6a7c8c0f72abdde2211c2eb607a802c0974f57"
+  },
+  {
+    "name": "UnityEngine.ScreenCaptureModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.ScreenCaptureModule.dll",
+    "checksum": "68326be44f7d0e517b332785677c8a52b202dd4bfb97e6ea4eec20ec87330b9a"
+  },
+  {
+    "name": "UnityEngine.SharedInternalsModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SharedInternalsModule.dll",
+    "checksum": "83d8a5f704a2ccb063314bf3496f2104256e7940f0f73e28fef338acf046554d"
+  },
+  {
+    "name": "UnityEngine.SharedInternalsModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SharedInternalsModule.pdb",
+    "checksum": "1d2d4c6f9cb19b96db83b2793c33bde64828281b5cfc3bd470970571c80b5cbf"
+  },
+  {
+    "name": "UnityEngine.SpriteMaskModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SpriteMaskModule.dll",
+    "checksum": "eba2ad17295040d2e5d69b80cfdee5d8e4ef8945dd58a46c614b14b107bdfea0"
+  },
+  {
+    "name": "UnityEngine.SpriteMaskModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SpriteMaskModule.pdb",
+    "checksum": "19a993cd3e89e0e69e0a1d8cbfdd38881539e99dc495872cb950a045880edd27"
+  },
+  {
+    "name": "UnityEngine.SpriteShapeModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SpriteShapeModule.dll",
+    "checksum": "87cd1316a57b7e54b8d65e7f66fd25672192f24b2dda26d55adcaec36714d457"
+  },
+  {
+    "name": "UnityEngine.SpriteShapeModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SpriteShapeModule.pdb",
+    "checksum": "b437fdd0bd02e73fc53c3561ffec7da06b3b3e02295e12e67195de5dcde89e34"
+  },
+  {
+    "name": "UnityEngine.StreamingModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.StreamingModule.dll",
+    "checksum": "ed27fe430ab307062186274429933928eb307d3178af9d250f3a9ff45f70cfee"
+  },
+  {
+    "name": "UnityEngine.SubstanceModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SubstanceModule.dll",
+    "checksum": "ed041d9165b59b59fb93a1cb306752c6ef3e43a6e51076c99108854f7bca959b"
+  },
+  {
+    "name": "UnityEngine.SubsystemsModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SubsystemsModule.dll",
+    "checksum": "35d562afbaa829bc75181efe24c379c2cfbdb95d69702b552924100f281cebf0"
+  },
+  {
+    "name": "UnityEngine.SubsystemsModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.SubsystemsModule.pdb",
+    "checksum": "b7c99f58f60662217d078fdae71ddf6a2f0d034e0d9f7b401e6ea3ef13ac7b55"
+  },
+  {
+    "name": "UnityEngine.TerrainModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TerrainModule.dll",
+    "checksum": "4d1efe1af7b64c093aa9ad2d34ce4def06587a739c33225e3f18bda5aa656303"
+  },
+  {
+    "name": "UnityEngine.TerrainModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TerrainModule.pdb",
+    "checksum": "4b4671c8ad3e064f73849ba1ca49f4801b781492ef55ef889bc8b709079917fd"
+  },
+  {
+    "name": "UnityEngine.TerrainPhysicsModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TerrainPhysicsModule.dll",
+    "checksum": "a7f350a0d59e7c8e5ccf1180d088cc37ae08fa20c518a9815f5a73dd2634bb5b"
+  },
+  {
+    "name": "UnityEngine.TextCoreFontEngineModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.dll",
+    "checksum": "b0d87eb4ee8731eecb2506dc68e9982ae73f17568b6b94726963ab44df098034"
+  },
+  {
+    "name": "UnityEngine.TextCoreFontEngineModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.pdb",
+    "checksum": "546e78ae300e52ccefd12dac540ba5c5b5fb9109538ef196082b5f9aad49525a"
+  },
+  {
+    "name": "UnityEngine.TextCoreTextEngineModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.dll",
+    "checksum": "8e3538c077171cf605945074ef1e76a0d1e946a582b10aafeae135de2113323b"
+  },
+  {
+    "name": "UnityEngine.TextCoreTextEngineModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.pdb",
+    "checksum": "56cc7405479581fbddf9ed0f90b7059991847349203ab9ea09505804cf63e601"
+  },
+  {
+    "name": "UnityEngine.TextRenderingModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TextRenderingModule.dll",
+    "checksum": "e5a0a4b2ed35ef023f8da9979333d88d32a4c83cc8e9bcf805de9255accd8a4c"
+  },
+  {
+    "name": "UnityEngine.TextRenderingModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TextRenderingModule.pdb",
+    "checksum": "0f6c77277b59940d3df689433fe437c8d2468bdea49142a4789c6da515e13fed"
+  },
+  {
+    "name": "UnityEngine.TilemapModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TilemapModule.dll",
+    "checksum": "262ba9932a1a7a6b426b9b237c4b34108a9cbb5a49f48d4ee7b646719ef89f6f"
+  },
+  {
+    "name": "UnityEngine.TilemapModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TilemapModule.pdb",
+    "checksum": "778c1c37f08f6c27ac0fd01ba21ece9034fbded958b6927768ff3522f80ea038"
+  },
+  {
+    "name": "UnityEngine.TLSModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.TLSModule.dll",
+    "checksum": "a75ebb8eeea338c222fb93f4860898bff72adc17da8de9725cdf3afbd3fe3a56"
+  },
+  {
+    "name": "UnityEngine.UI.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UI.dll",
+    "checksum": "92f10329487bf8c901cf0972be61420d3f30c148eb705a686ffcab6b26540a77"
+  },
+  {
+    "name": "UnityEngine.UI.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UI.pdb",
+    "checksum": "18505cdc6745e06fa5ca3b4d8031177c878e6b52e865603d1cd56c905a3b6031"
+  },
+  {
+    "name": "UnityEngine.UIElementsModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UIElementsModule.dll",
+    "checksum": "4737fc4c3f47a0c81ee9a082db3482989ee495ec7b929a3feff126d10e264a04"
+  },
+  {
+    "name": "UnityEngine.UIElementsModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UIElementsModule.pdb",
+    "checksum": "ddaf38ae2a9a5e300700339c93b1de27248b40ce1b4f3e52924de721def7abce"
+  },
+  {
+    "name": "UnityEngine.UIModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UIModule.dll",
+    "checksum": "ada3dd4768723fb4dcf46c8b85b69285038dc89a47882bfb3e7e1906a430bc45"
+  },
+  {
+    "name": "UnityEngine.UIModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UIModule.pdb",
+    "checksum": "c29d482b84266a3e36ffbe67f17ca73cf9b8e3443d4eb5a982e885bd239af132"
+  },
+  {
+    "name": "UnityEngine.UmbraModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UmbraModule.dll",
+    "checksum": "de35bed0784b2de860d238db2119104800c1649a81b26c7bcf3ae53aff97da1f"
+  },
+  {
+    "name": "UnityEngine.UnityAnalyticsCommonModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityAnalyticsCommonModule.dll",
+    "checksum": "0d1ee7561d1a0a2134e650cede9bb40ef67f9189fb192c6c02e66fd87c217a56"
+  },
+  {
+    "name": "UnityEngine.UnityAnalyticsModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityAnalyticsModule.dll",
+    "checksum": "639f207164b234c38dcd31d18ca93991846a6c85399a8874ebec327efe417108"
+  },
+  {
+    "name": "UnityEngine.UnityAnalyticsModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityAnalyticsModule.pdb",
+    "checksum": "89cb8ac5fa9ea91d0e6ea9e45082eaaa4ecc37e13755a99dcc706942365643a4"
+  },
+  {
+    "name": "UnityEngine.UnityConnectModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityConnectModule.dll",
+    "checksum": "97895c7fe8ed79c87070b5dbc3a28ff8fdea672c4f613bb4b6c9fb9696c06739"
+  },
+  {
+    "name": "UnityEngine.UnityCurlModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityCurlModule.dll",
+    "checksum": "210a4dfc70931ecfebfd8c438aa22b96093db0f6497de363f8569278d51f32a0"
+  },
+  {
+    "name": "UnityEngine.UnityTestProtocolModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityTestProtocolModule.dll",
+    "checksum": "1af71d542d61f83752030d4c04e2687d0fb065a3350949ecbf30da0beb5e5147"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestAssetBundleModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll",
+    "checksum": "ad3c4f0a1c3bc4ef094656ad6570a8af51ec80f9119304970238d55f539fda08"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestAudioModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll",
+    "checksum": "01736ea44eecdd9d67584748b4b135e5f3099391fa78b1d24f3c0cd0074c3390"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestAudioModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.pdb",
+    "checksum": "e49cc86b581d759d21e5232b29a7e9ac62d62c8447d343a7e9f87248aee569b2"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestModule.dll",
+    "checksum": "888e04a18a2386138f6c18ba9ed31a78e6f516193754f9d09b310431e905c696"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestModule.pdb",
+    "checksum": "f7be652ba49a040114e27cc0f776140e4a1c1457a1d3b44f8b29b220ccef8d08"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestTextureModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll",
+    "checksum": "e7861f84b01910fa37cf85eb2474ef66d707ac974ebc4ed7c0654630f88c8966"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestTextureModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.pdb",
+    "checksum": "47954420751a9c379081e3a2ce76ec505388ab3e89d8a65defa5c3eba2748931"
+  },
+  {
+    "name": "UnityEngine.UnityWebRequestWWWModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll",
+    "checksum": "86d151ef704c553af865b619831faf129de6ca2712da717f38fac5f77f670be5"
+  },
+  {
+    "name": "UnityEngine.VehiclesModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VehiclesModule.dll",
+    "checksum": "a6580068ad82ebb0ed65f0afcce8c4a096ae57f49281dbc02363c9b7032cc945"
+  },
+  {
+    "name": "UnityEngine.VFXModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VFXModule.dll",
+    "checksum": "9b69e3b1fa170a58a27fc7a5c636d40c21409ea8b0fae6aa91f3b171a704fad5"
+  },
+  {
+    "name": "UnityEngine.VFXModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VFXModule.pdb",
+    "checksum": "8e147dd0c8105467e298b0eaa4c2fbefd9f63864988f54907c135af8dd1844dd"
+  },
+  {
+    "name": "UnityEngine.VideoModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VideoModule.dll",
+    "checksum": "770ea01460b5cc68502ff44d1ff4be9caa4e7f5af619ba9e4246a4f6bef66e82"
+  },
+  {
+    "name": "UnityEngine.VideoModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VideoModule.pdb",
+    "checksum": "222f94a4078acc7b522ff07769ed2cbb75c4bff5528b22aeff042b797686a84b"
+  },
+  {
+    "name": "UnityEngine.VirtualTexturingModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VirtualTexturingModule.dll",
+    "checksum": "318db77a174fecc01b2c6b53f13ce1675806ce5d3de3e8cd06456eaeb37b3fd3"
+  },
+  {
+    "name": "UnityEngine.VRModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VRModule.dll",
+    "checksum": "71918405321edbfa220a97e6c9026c1319fc6e1d87f2bc4645a942d1c72b741b"
+  },
+  {
+    "name": "UnityEngine.VRModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.VRModule.pdb",
+    "checksum": "88f01a87f37d822355567fa6aab43097848b0672aaf7396b13917202db3f0569"
+  },
+  {
+    "name": "UnityEngine.WindModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.WindModule.dll",
+    "checksum": "736765529b48210f222df8ab7183ed3cfd7f65aa525f4ddc6ce354ceaf713286"
+  },
+  {
+    "name": "UnityEngine.XRModule.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.XRModule.dll",
+    "checksum": "73b97da889b65cf26d04f273198603dfa9523b8fa8199c3e0a62e336860bb3fd"
+  },
+  {
+    "name": "UnityEngine.XRModule.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\UnityEngine.XRModule.pdb",
+    "checksum": "f23ea4bafc61caf18c86d2921bf24da261574b89b61b6872c8e377f06ac97808"
+  },
+  {
+    "name": "VLCUnity.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\VLCUnity.dll",
+    "checksum": "d121f1eb0e27d09fe9e1020d96ae1055c219b7e0b77d1332ce6592e5b393ff15"
+  },
+  {
+    "name": "VLCUnity.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\VLCUnity.pdb",
+    "checksum": "48ea54a8392990cff0b02f3bc325588cd904025b73cebbf4acd4154a38de2798"
+  },
+  {
+    "name": "websocket-sharp.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\websocket-sharp.dll",
+    "checksum": "4def36800e49faeebeb9b013505bc653588568c8538d8dd486029bca2129eec0"
+  },
+  {
+    "name": "ZString.dll",
+    "filePath": "MajdataPlay_Data\\Managed\\ZString.dll",
+    "checksum": "3de7d8a140f85fdd653ef864d20a5304a11a4c9b65e4a7d1aa073e29a1a7a8eb"
+  },
+  {
+    "name": "ZString.pdb",
+    "filePath": "MajdataPlay_Data\\Managed\\ZString.pdb",
+    "checksum": "ed4a58a9bf7d7146473ea80f6841227b0db55c283cd75f100d2d99df1b78daef"
+  },
+  {
+    "name": "bass.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\bass.dll",
+    "checksum": "4c92a8c9ef753e79840aa8d625c1426095dd0eb1f611750ddc62463b9bd1df42"
+  },
+  {
+    "name": "bassasio.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\bassasio.dll",
+    "checksum": "cc0445655687ed5a7ec2b466bad4e4b2436497a12fe5d41f386cc76feac39696"
+  },
+  {
+    "name": "bassmix.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\bassmix.dll",
+    "checksum": "f782cae8090700a456c9e7aeaa7770c3b90cb60a1e765c4b3cbae739d3b4d58d"
+  },
+  {
+    "name": "bassopus.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\bassopus.dll",
+    "checksum": "242476111eab0232da48d8e26adf1cb64d4561095752794fc13e75a1ab0885c4"
+  },
+  {
+    "name": "basswasapi.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\basswasapi.dll",
+    "checksum": "6f0869c11431e01f759fbe1cd6080299c833c519eb8ab1feae12106907b1fbd1"
+  },
+  {
+    "name": "bass_aac.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\bass_aac.dll",
+    "checksum": "dad348f88782447860edc00c992028e8ebcbe30e6b898e7740541d8666ac9163"
+  },
+  {
+    "name": "bass_fx.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\bass_fx.dll",
+    "checksum": "a6e1847eef52d882b4137af514d834c2e220daceb417c821d1e502fb7a34c84a"
+  },
+  {
+    "name": "libaccess_concat_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_concat_plugin.dll",
+    "checksum": "8895e406a9ff60858d8b7f4bede246febd50261558cc8ff81fde0a1b6ac557a1"
+  },
+  {
+    "name": "libaccess_http_put_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_http_put_plugin.dll",
+    "checksum": "e678838de705aeaa3e33a5a14361c57a9efdfe70e27d611fbb1b8fb1c98b4075"
+  },
+  {
+    "name": "libaccess_imem_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_imem_plugin.dll",
+    "checksum": "ff7ac6a3f478fe73066bf959eca92608843e87a01163a25e2b2cc211139ae37d"
+  },
+  {
+    "name": "libaccess_mms_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_mms_plugin.dll",
+    "checksum": "650180051216ff7c3343aa442cadf4d31b2938ab1efc95b94d2bc571d3b004a4"
+  },
+  {
+    "name": "libaccess_output_dummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_dummy_plugin.dll",
+    "checksum": "1a5a0186df5e80277fac81d2287c74076a7308c3b1fc35408a8ab48bd6c60f7d"
+  },
+  {
+    "name": "libaccess_output_file_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_file_plugin.dll",
+    "checksum": "d65904ecbea0f98e2970ecfc3c279b9121c2ac814cc28150b7e1a0ac71410eeb"
+  },
+  {
+    "name": "libaccess_output_http_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_http_plugin.dll",
+    "checksum": "8e7de593165ca42a1b260844521324935986f7eb5f113e175452faa76c375559"
+  },
+  {
+    "name": "libaccess_output_livehttp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_livehttp_plugin.dll",
+    "checksum": "0f287203dd0ccc415136be9ac27ffaba7a043456a9c68f77269e1bc15e4741d7"
+  },
+  {
+    "name": "libaccess_output_rist_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_rist_plugin.dll",
+    "checksum": "f044b4924f4034c26152c5bdc366f47a02360c459f9b24ba4ee2d530274e6eb4"
+  },
+  {
+    "name": "libaccess_output_shout_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_shout_plugin.dll",
+    "checksum": "79c3aba56978abd39dc40ad566feede1655a1756dfb6b8cd2b1101fb07a8bf86"
+  },
+  {
+    "name": "libaccess_output_srt_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_output_srt_plugin.dll",
+    "checksum": "3fed9b8e3d0a06e359ec7265f24c1756c5f78fc6ed827ad142092927198519a9"
+  },
+  {
+    "name": "libaccess_srt_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_srt_plugin.dll",
+    "checksum": "a0a0ca4044b5aade84529b7dbd1811e6a90d891dcb6b9722bc34c5f236977418"
+  },
+  {
+    "name": "libaccess_wasapi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaccess_wasapi_plugin.dll",
+    "checksum": "e67b11df494e35156c1a1c4b670f16b62ef4f51834f1c88d972f104b6f71bfa9"
+  },
+  {
+    "name": "libadaptive_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libadaptive_plugin.dll",
+    "checksum": "2f5fd9c65d69166c963118b514b45e8ac54f310013b8ebf5a940c08c8132d9ed"
+  },
+  {
+    "name": "libaddonsfsstorage_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaddonsfsstorage_plugin.dll",
+    "checksum": "ba872e0881c9b2598cf3d6450958945c031d9adc1c0023cd6964824930b673e5"
+  },
+  {
+    "name": "libaddonsvorepository_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaddonsvorepository_plugin.dll",
+    "checksum": "c7ea206ae9228c667ebe420f0390455f9c66b302d8abd9498cf72008806b6792"
+  },
+  {
+    "name": "libadf_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libadf_plugin.dll",
+    "checksum": "cbc7666e8a3d11dae6d5eaa3391e0704d763f1dd1323ca6a40391ab93071c74e"
+  },
+  {
+    "name": "libadjust_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libadjust_plugin.dll",
+    "checksum": "54056eef7c89e6bc26ebefd660b4e323ce5343ebd429603979ef873a53fb6e48"
+  },
+  {
+    "name": "libadpcm_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libadpcm_plugin.dll",
+    "checksum": "d7af339acb50bab882ad1b8920515fb7daab8ffc11bd359924ca2c6278354c6a"
+  },
+  {
+    "name": "libadummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libadummy_plugin.dll",
+    "checksum": "819371c036f23362406e31ac806e1aac1785c81f094f086c2eefa3670d6a893d"
+  },
+  {
+    "name": "libaes3_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaes3_plugin.dll",
+    "checksum": "6c3c7bdab02303d5e0c51b92e161948343cf27f6b110213ad8e3a5b9f818d00e"
+  },
+  {
+    "name": "libafile_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libafile_plugin.dll",
+    "checksum": "934fec17956f6508eda2d273c60f4433eb5405c04a912f239ae08c6e1d24ae5d"
+  },
+  {
+    "name": "libaiff_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaiff_plugin.dll",
+    "checksum": "f8eb93da6310688523f2ed9ee0fd39220a8d2ae553e6f0200dc19f9afe9e8526"
+  },
+  {
+    "name": "libalphamask_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libalphamask_plugin.dll",
+    "checksum": "02242ddc9e816e953e391a586d2e38e4eff0bd35bbea78f832fa0d06a6cc182b"
+  },
+  {
+    "name": "libamem_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libamem_plugin.dll",
+    "checksum": "3f4ef5a777d7ee072d318f9fa92fe96fb8d1a0782120ab573afc0160790b732f"
+  },
+  {
+    "name": "libamt_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libamt_plugin.dll",
+    "checksum": "db2b8937ad81f56f1de07f88a60d86e12551d3ec202fcc09ef390b40efb1bf6b"
+  },
+  {
+    "name": "libanaglyph_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libanaglyph_plugin.dll",
+    "checksum": "3d77357d90c73eba91b76d100cbda77e6a15e0871986a9c9cf00b1f28d593f55"
+  },
+  {
+    "name": "libantiflicker_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libantiflicker_plugin.dll",
+    "checksum": "bb0a219ad4e7e5050632feb75cb33b79cc2b6ab5a8590a71c271a3c68fea07d1"
+  },
+  {
+    "name": "libaom_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaom_plugin.dll",
+    "checksum": "70d44410d1fc2689bd9755cc0ec38fff0b4480ec8a5955ba0528d5adb12becb5"
+  },
+  {
+    "name": "libaraw_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaraw_plugin.dll",
+    "checksum": "6d295bfc9e1189ea75c6b4c334169584da2491cce2232d9563db5964cf544b21"
+  },
+  {
+    "name": "libarchive_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libarchive_plugin.dll",
+    "checksum": "d66a7d7c55dcdc789ebd26b3a7dec7c628a852eb321d45974818510e547b317a"
+  },
+  {
+    "name": "libaribcam_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaribcam_plugin.dll",
+    "checksum": "f40ece9c8ff8c0d61af8ed76a9841fc378b32b651ad5835ea8317ad723c42acc"
+  },
+  {
+    "name": "libaribcaption_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaribcaption_plugin.dll",
+    "checksum": "b0b53b467927dbfc2b2b140abb4a1f1d5ca8afd3302ed19a553a72a73e7df54a"
+  },
+  {
+    "name": "libasf_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libasf_plugin.dll",
+    "checksum": "58ee968082f10a9ce0907005996b4e82f0529a550fa01bad5ccd11a8a493b64e"
+  },
+  {
+    "name": "libaudiobargraph_a_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaudiobargraph_a_plugin.dll",
+    "checksum": "3bf3627eb1b7f4ea4903b112599ac7e8b502e5a65fab0d5d09eab8851a1ba0a0"
+  },
+  {
+    "name": "libaudiobargraph_v_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaudiobargraph_v_plugin.dll",
+    "checksum": "094989fa4dcaefbdb81c53bf0f189ecabf28ff3af3e2c2a7a14184c9bdb3061f"
+  },
+  {
+    "name": "libaudioscrobbler_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaudioscrobbler_plugin.dll",
+    "checksum": "d3258207a95b5d847bb33ea50be310c69e8fc2b5d5c396355e783fb2433f92ea"
+  },
+  {
+    "name": "libaudio_format_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libaudio_format_plugin.dll",
+    "checksum": "20c5f9ead0b2134dabda24a683e22087419acaf9a2ed8216441a3af01df3ae9e"
+  },
+  {
+    "name": "libau_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libau_plugin.dll",
+    "checksum": "a51a84fc962983b2de98fb54fbec4c2e4303dbffdacd580f033e07095414e3e7"
+  },
+  {
+    "name": "libavcodec_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libavcodec_plugin.dll",
+    "checksum": "f6e6d8ab338b85952d8a34cf7980b8249b5520c20bf0f71ac059481f5bc3e7bb"
+  },
+  {
+    "name": "libavi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libavi_plugin.dll",
+    "checksum": "b51e427cdd671c16929ff816473d9d5a62174e5297d853ffc4e989f3ed41e0e5"
+  },
+  {
+    "name": "libball_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libball_plugin.dll",
+    "checksum": "c12a864899ad888fae1790d8d106239c6234ce8f94567ba771af86ba556d954c"
+  },
+  {
+    "name": "libblendbench_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libblendbench_plugin.dll",
+    "checksum": "cda00b81f15a69a3d69b79d64d28688edde08f1c822c094dff5674c7d5b6f1e8"
+  },
+  {
+    "name": "libblend_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libblend_plugin.dll",
+    "checksum": "30e9c71005fee3ceacd77ecf2ba6ef49b6529035f936b4e2b8805d11bd8263f6"
+  },
+  {
+    "name": "libbluescreen_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libbluescreen_plugin.dll",
+    "checksum": "a7f061d631ce329a43f75e315981f22488160010e07ebd11d6d19a89f4a3edfd"
+  },
+  {
+    "name": "libcaca_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcaca_plugin.dll",
+    "checksum": "5edfcaa39a4f83b58bcb95b3b146024d351241eddb5bfeea115eca6973ed1c33"
+  },
+  {
+    "name": "libcache_read_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcache_read_plugin.dll",
+    "checksum": "f348b4c116de611cfe829d9d46ee4c394490b2b74f56d7a8770c4818588f9d99"
+  },
+  {
+    "name": "libcaf_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcaf_plugin.dll",
+    "checksum": "3298bb908f56c8975333085ad4ba2e0bf5c1d64d58dc571c01cb40e6becbc417"
+  },
+  {
+    "name": "libcanvas_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcanvas_plugin.dll",
+    "checksum": "77d69e158a0b3fe70f70d0cb24d294e31c43730e72384c1be5df2c0352c3c452"
+  },
+  {
+    "name": "libcc_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcc_plugin.dll",
+    "checksum": "bf2573ab87a4d1a7cfb9f2f600868d098d78f5c7ad304b57104c1686ace26813"
+  },
+  {
+    "name": "libcdda_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcdda_plugin.dll",
+    "checksum": "3f903647dc547d78f8f64b39c4a18a28e75ae55ef553fae6d9d3729339cda0dc"
+  },
+  {
+    "name": "libcdg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcdg_plugin.dll",
+    "checksum": "7ced2238f448d909a78c399486aab2823897c190016efe9c7f090a8a645ae72f"
+  },
+  {
+    "name": "libcenter_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcenter_plugin.dll",
+    "checksum": "b2851dab93f34f6f677ab60f4a5f7c495871f45501719895418328c563ce3eaa"
+  },
+  {
+    "name": "libchain_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libchain_plugin.dll",
+    "checksum": "e324be9f7cb3fcbfdeefd713468e9f84368912ddf0b0f2260ca242b2089ff5bd"
+  },
+  {
+    "name": "libchorus_flanger_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libchorus_flanger_plugin.dll",
+    "checksum": "4babc57f5182838428ac92c79f1ed20d857c918ae4c7009daa3bbb9b28f69462"
+  },
+  {
+    "name": "libclone_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libclone_plugin.dll",
+    "checksum": "b42878e6a8b8e91d56c35ddeb07c1bd1d7d39898a07c9bab5ff112f9223af19a"
+  },
+  {
+    "name": "libcolorthres_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcolorthres_plugin.dll",
+    "checksum": "1b142db22fa9d5fe76226b5a97f74131feddd90c6c929cd86cc1613d01778baa"
+  },
+  {
+    "name": "libcompressor_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcompressor_plugin.dll",
+    "checksum": "f4423ad02a29e93dcb1ec32d2a47fad2b2ffb82b72b587bf28ba364241460f93"
+  },
+  {
+    "name": "libconsole_logger_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libconsole_logger_plugin.dll",
+    "checksum": "cb238a42c1aad3a1878fc933fe427f37a5767da3f7739bf9f1bc4b0e97a114bc"
+  },
+  {
+    "name": "libcroppadd_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcroppadd_plugin.dll",
+    "checksum": "8d6116900852ead1ad9db1818c933cd51ab210659568ba374c11bd6148f028c0"
+  },
+  {
+    "name": "libcvdsub_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libcvdsub_plugin.dll",
+    "checksum": "e51678bf9c98aa204bcd9394fe9d6182ab2fcc1e0a85d3b627a5ab6a2c041871"
+  },
+  {
+    "name": "libd3d11va_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libd3d11va_plugin.dll",
+    "checksum": "1dd65a60f4da8295adf6b1337fe19e723811d93f720e78a54bae964d7cea622b"
+  },
+  {
+    "name": "libdata_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdata_plugin.dll",
+    "checksum": "649d6c68ed6dc73f475ec06d7b31529716f06ddb8b8e76071579ba6973e46e36"
+  },
+  {
+    "name": "libdav1d_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdav1d_plugin.dll",
+    "checksum": "5fd7d1fec0f79b814f830331b0fd328687cb88c606230099655c26524fb5499f"
+  },
+  {
+    "name": "libdcp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdcp_plugin.dll",
+    "checksum": "56ed5bad25b8f0e8c9ed8051288852155e167d84ac378d0e4eb3b3a5e60a7890"
+  },
+  {
+    "name": "libddummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libddummy_plugin.dll",
+    "checksum": "72b46430eaf268e5052d161d7baaec969c9e26d6c986ca1ff1ca948c1b7eaa37"
+  },
+  {
+    "name": "libdecklinkoutput_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdecklinkoutput_plugin.dll",
+    "checksum": "c1aa2d407289711e057e679bb3e1bea1feb3bdebef0724e51f559ffeef71998d"
+  },
+  {
+    "name": "libdecklink_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdecklink_plugin.dll",
+    "checksum": "4b01a2a81e20c6beb963b010bd91954da4839d2020fa892056a455eef6b40f34"
+  },
+  {
+    "name": "libdeinterlace_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdeinterlace_plugin.dll",
+    "checksum": "7079ba36dab2ceaa26e1cfd0c0ce1a40fd5cb909c6c88365ae6e4031f9364fff"
+  },
+  {
+    "name": "libdemuxdump_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdemuxdump_plugin.dll",
+    "checksum": "f7c7cb7e4224588019d1476bbe579fdede1f82cdcf428f8c4fea6de0418813a8"
+  },
+  {
+    "name": "libdemux_cdg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdemux_cdg_plugin.dll",
+    "checksum": "5f25a17a060c819640ee8433e8ef8d55cf73c607b473b76757d6680858d624e3"
+  },
+  {
+    "name": "libdemux_chromecast_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdemux_chromecast_plugin.dll",
+    "checksum": "af4d3d4d6755bad52da8b2601555b186b36f15155229b796cce98000ac840bdd"
+  },
+  {
+    "name": "libdemux_stl_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdemux_stl_plugin.dll",
+    "checksum": "3911aa04495978c1457fd881c92523efe4b1224e29fa9f3f13f89cc4d62af69f"
+  },
+  {
+    "name": "libdirect3d11_filters_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdirect3d11_filters_plugin.dll",
+    "checksum": "010f8a484d135c5d3cbc4e85e5c1243da90e0b98403861609b287b522c2ffdae"
+  },
+  {
+    "name": "libdirect3d11_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdirect3d11_plugin.dll",
+    "checksum": "8fd27c0d4623f79288089fe38d9bd6de163d72287b2467ff091a3e584ece91aa"
+  },
+  {
+    "name": "libdirect3d9_filters_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdirect3d9_filters_plugin.dll",
+    "checksum": "fc76bd76bec7ff605a4dda5f36e9e74e28a2dbe72953bba7179461c33f6ea50f"
+  },
+  {
+    "name": "libdirect3d9_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdirect3d9_plugin.dll",
+    "checksum": "f61d8a8b8df105f8b99ab3c431c3f8caed2f20b8ae935ea783934a907dfd8f53"
+  },
+  {
+    "name": "libdirectory_demux_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdirectory_demux_plugin.dll",
+    "checksum": "114051a05364a9ead53ef8a8f4917a47e252ae5a819a15f4ffc57656f209a09c"
+  },
+  {
+    "name": "libdmo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdmo_plugin.dll",
+    "checksum": "b88983bb3eb05f0f727471bfd4ae39271e8a0f3de9f11d61571b1ebaaac6a070"
+  },
+  {
+    "name": "libdmxmus_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdmxmus_plugin.dll",
+    "checksum": "0fc48a51fbbfdb79884ec01ddb044d00973070d44491e9d4764e4539effb9dd9"
+  },
+  {
+    "name": "libdolby_surround_decoder_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdolby_surround_decoder_plugin.dll",
+    "checksum": "c2c670df138f639ddb0268881f2e491f544aaeae898524b84d576bc929c57b91"
+  },
+  {
+    "name": "libdrawable_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdrawable_plugin.dll",
+    "checksum": "ee3285a88a2cc17a17f42bc78d1cb405df4243bd3517dc461669cc7f6c23c840"
+  },
+  {
+    "name": "libdshow_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdshow_plugin.dll",
+    "checksum": "a44ea7fcf7e9578afd4d2a099a022d993118a589626c5fe4377887271b9d8f22"
+  },
+  {
+    "name": "libdtv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdtv_plugin.dll",
+    "checksum": "23ff87f502e5151f8e9424fbb0f2757b3e2bc88c4050394f4c3f4ea6aa81a2ad"
+  },
+  {
+    "name": "libdummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdummy_plugin.dll",
+    "checksum": "0782e0f377c8d3754ab9a8c46d608777c4e777d964bebae65e0a39b373d49313"
+  },
+  {
+    "name": "libdvbsub_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdvbsub_plugin.dll",
+    "checksum": "5248f82359f60596612039a7bc8a4bd3e801897d09b7ee1002d15c921c736eb0"
+  },
+  {
+    "name": "libdxva2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdxva2_plugin.dll",
+    "checksum": "48930b6b87a972908747e464ed5ebc99ee4045bc08700e789fd55ff2e70bcfcb"
+  },
+  {
+    "name": "libdynamicoverlay_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libdynamicoverlay_plugin.dll",
+    "checksum": "8cc044fe8b0e9ea0cb792fda5c7ea5ca693049b822c41689975d8b3e48c58f2b"
+  },
+  {
+    "name": "libebur128_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libebur128_plugin.dll",
+    "checksum": "bce73e692330dc50f92dd43913c7d6e42f0affce5ab2ef8c4d61c4cf15e61a22"
+  },
+  {
+    "name": "libedgedetection_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libedgedetection_plugin.dll",
+    "checksum": "f982f9f70562ba8934719fb4d033d255f2ecb5ba0a3ab0dfa79730ade53a8a68"
+  },
+  {
+    "name": "libedummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libedummy_plugin.dll",
+    "checksum": "44b4dbe10c9c26e066e90dd783ab9026581eb4fb6efdf71ea004590dd44e7421"
+  },
+  {
+    "name": "libequalizer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libequalizer_plugin.dll",
+    "checksum": "2312b8290ec18d8a2a69633531e8b45651b5618b96e47232ac2681245d5ff53d"
+  },
+  {
+    "name": "liberase_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liberase_plugin.dll",
+    "checksum": "8106e1b65811871a8314a41006b0a43c80f949d2472973dd1931b2ce65776de8"
+  },
+  {
+    "name": "libes_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libes_plugin.dll",
+    "checksum": "54c3c6b3797805ece4384453a30ee23ea4dcdc193fb4f100391a4d0635ad13ba"
+  },
+  {
+    "name": "libexport_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libexport_plugin.dll",
+    "checksum": "1428329c360299f735e3a4dd7eaad9ea1f959d4e0a2cbc04ad998a3fd3943e70"
+  },
+  {
+    "name": "libextract_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libextract_plugin.dll",
+    "checksum": "50b2616e12e0350f4b4dd290c0e058d860d8eda718618c44c5757ca7f971e8ab"
+  },
+  {
+    "name": "libfilesystem_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfilesystem_plugin.dll",
+    "checksum": "9b0496e48da9196a3b671cc593a3ead38d51bbe406c5f8907cfb581ffb76c6a2"
+  },
+  {
+    "name": "libfile_keystore_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfile_keystore_plugin.dll",
+    "checksum": "e06769aaa6c7ca0c33a9415d0c5a79f3968295e9384643349110667603107279"
+  },
+  {
+    "name": "libfile_logger_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfile_logger_plugin.dll",
+    "checksum": "4778ef5823d573e6afb044815c27b6d940115117f12abf6a5312a40ae5c9e85f"
+  },
+  {
+    "name": "libfingerprinter_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfingerprinter_plugin.dll",
+    "checksum": "bfc5d0409801fab7b7f877d1789d55d4d151c8a91827dbd646ad4150d1ef1e4e"
+  },
+  {
+    "name": "libflacsys_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libflacsys_plugin.dll",
+    "checksum": "4f67bff6c006a6672455973fd6d0e7ca4cedb187bfc3efc0b2331f07f55bf642"
+  },
+  {
+    "name": "libflac_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libflac_plugin.dll",
+    "checksum": "7f8d167acc2b18e88d5116037b503ba4f08e2c3e31fab73d6c46ceccb88148bf"
+  },
+  {
+    "name": "libflaschen_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libflaschen_plugin.dll",
+    "checksum": "92f8f262be4667a8d43c6f51a9d4829349046b24a13e7b9b01b014f5c6411b43"
+  },
+  {
+    "name": "libfloat_mixer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfloat_mixer_plugin.dll",
+    "checksum": "e0c1dd402e6c2fca027d89c8f17b8a59441d9f2e55481ff461489288bfb406e0"
+  },
+  {
+    "name": "libfluidsynth_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfluidsynth_plugin.dll",
+    "checksum": "e34e748f808b9308f94d5fb062c786cf0577ac77337811e15f706353758185cb"
+  },
+  {
+    "name": "libfolder_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfolder_plugin.dll",
+    "checksum": "96adfac33654f37b2ba06bd50d6c420048f6ee459053c8531a5e3802d1c04b74"
+  },
+  {
+    "name": "libformatcrop_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libformatcrop_plugin.dll",
+    "checksum": "7bd0b2e05ee7b815cb50b3a1e268c981cac9a7376d968afce18679d1e386d53b"
+  },
+  {
+    "name": "libfps_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfps_plugin.dll",
+    "checksum": "9756e8f7de8adc59fb33cca0f3ce760309b8f036844312e2a7694345d0c62a5d"
+  },
+  {
+    "name": "libfreetype_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfreetype_plugin.dll",
+    "checksum": "44f9746c5d21784eba23cd0e4321a71be2d8e88116162284b41b80737f81c60a"
+  },
+  {
+    "name": "libfreeze_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libfreeze_plugin.dll",
+    "checksum": "9c985058148dbfefc2ae81488b3c38d836055a3f777cb92f2686984f401285c5"
+  },
+  {
+    "name": "libftp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libftp_plugin.dll",
+    "checksum": "adaab34d8159c025809ba8a5d3bb482c02a0c3477ab0bc384a498347bf0b86d1"
+  },
+  {
+    "name": "libg64rtp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libg64rtp_plugin.dll",
+    "checksum": "f2824295bde07286053862c14755e7b3eba41dc640d0a2fdf077cc67845ff15e"
+  },
+  {
+    "name": "libg711_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libg711_plugin.dll",
+    "checksum": "e40a735efc84f3004e05f2863629cde87cd040a8f000e3cb09627454fc7da368"
+  },
+  {
+    "name": "libgain_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgain_plugin.dll",
+    "checksum": "05a9c0cddd929fa8338d42e8d9ea50f64904dc77bfa250c50a8e5a71ad8b05a4"
+  },
+  {
+    "name": "libgaussianblur_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgaussianblur_plugin.dll",
+    "checksum": "c542c897f804250bfa7d45deac6abbcfa5239786ba43d80c71e307c99256f567"
+  },
+  {
+    "name": "libgestures_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgestures_plugin.dll",
+    "checksum": "d52dd9a2249d50cd45638de9bd9adede8800a446a732951edeafb408b6573d88"
+  },
+  {
+    "name": "libglblend_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglblend_plugin.dll",
+    "checksum": "159d3d7b0f104d1579c956967991ab1b25f0e19f7d90b7d788f529319511c544"
+  },
+  {
+    "name": "libglfilter_draw_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglfilter_draw_plugin.dll",
+    "checksum": "05ccbc646e177ee45f048f6ee57355a5e64b8fdb46b19381969d37341e882320"
+  },
+  {
+    "name": "libglinterop_dxva2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglinterop_dxva2_plugin.dll",
+    "checksum": "0163be37ada55ce23ec3ba4c4be0099d049bea124adc26e6e56028cc95e70290"
+  },
+  {
+    "name": "libglinterop_nvdec_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglinterop_nvdec_plugin.dll",
+    "checksum": "0d8481167d55f82e95a816a31605f2371968a05296b40be402690071da1983d7"
+  },
+  {
+    "name": "libglinterop_sw_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglinterop_sw_plugin.dll",
+    "checksum": "736f671fcf7654fd7ddf32368108b0f7fcda91a69a5edcf4a60b822ebe04f622"
+  },
+  {
+    "name": "libglspectrum_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglspectrum_plugin.dll",
+    "checksum": "5604e6013822e1972cfc7d90ff121d152198e72557f92206060531c2e41cb76f"
+  },
+  {
+    "name": "libglwin32_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libglwin32_plugin.dll",
+    "checksum": "982cbc48496e28d2a767bfa2ca90f85ba7cfc7662000c29575a3509ad38587eb"
+  },
+  {
+    "name": "libgl_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgl_plugin.dll",
+    "checksum": "cc672fd4249134b8019a3ed6d2667cd44a18ac3d876a26500c5a18de0e6b08da"
+  },
+  {
+    "name": "libgme_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgme_plugin.dll",
+    "checksum": "f3547cc5e3b9a4bf8fc2d544c42a74a0fa6a267f57a689d0862e64717e540b91"
+  },
+  {
+    "name": "libgnutls_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgnutls_plugin.dll",
+    "checksum": "a0af041c2b104593421574fe58675400faee3d7cfea1e9bbb16de014eef8e826"
+  },
+  {
+    "name": "libgoom_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgoom_plugin.dll",
+    "checksum": "345000bd948f4e0e9cd5c467f28eee1819f44ffcc8c4164ba7803953051ff4a1"
+  },
+  {
+    "name": "libgopher_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgopher_plugin.dll",
+    "checksum": "4c11ecaae7a1624cafee514134b8f17bd3e878ba795b2ea3173b45969e48e40b"
+  },
+  {
+    "name": "libgradfun_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgradfun_plugin.dll",
+    "checksum": "9937de0b6f637e7b56516540956c1b625ffb146ec39236097997bbd875099aa5"
+  },
+  {
+    "name": "libgradient_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgradient_plugin.dll",
+    "checksum": "92ef52457f88cefb4470092e7252fc03f10fb10f4d222d0986d765e5093c63c5"
+  },
+  {
+    "name": "libgrain_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgrain_plugin.dll",
+    "checksum": "3c63c583c211cc57f614c75698c8861031d2174df1a5dfcace02ce3499aecf61"
+  },
+  {
+    "name": "libgrey_yuv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libgrey_yuv_plugin.dll",
+    "checksum": "d30add8e7b8dc35f50438c50f992777f0f4f122450310ac2226f03d97c1b6901"
+  },
+  {
+    "name": "libh26x_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libh26x_plugin.dll",
+    "checksum": "f2a0c3d14e6cd409d501ef5a0daa8c484a3676dc4f0b45bbb2c7f1bb543a64a8"
+  },
+  {
+    "name": "libhds_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libhds_plugin.dll",
+    "checksum": "ce5fa90787b37a42964d73c04788e02477442454ecbed941ebe5062c6843a645"
+  },
+  {
+    "name": "libheadphone_channel_mixer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libheadphone_channel_mixer_plugin.dll",
+    "checksum": "a0a46df0421462d1698d80998959307846d8bb0cf24d13c0cd311119b2749c2c"
+  },
+  {
+    "name": "libhotkeys_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libhotkeys_plugin.dll",
+    "checksum": "12267ef400f7cb7b6c3adb7b2e6a4c12a0de0a2ab51098d0e0476140b6faa9df"
+  },
+  {
+    "name": "libhqdn3d_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libhqdn3d_plugin.dll",
+    "checksum": "cfad40672f25290bef14c69b3210080fd2322c17570c37ae5f4f34804825ff56"
+  },
+  {
+    "name": "libhttps_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libhttps_plugin.dll",
+    "checksum": "af42793ff4c94fc55c0a7a2a71e2efc6834c430de19e9b5a05e01972cce372d7"
+  },
+  {
+    "name": "libhttp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libhttp_plugin.dll",
+    "checksum": "7ea28dfcbe8320add2f9085b25a881340f20d8e0b41e500317d23b60b12b2f90"
+  },
+  {
+    "name": "libhx_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libhx_plugin.dll",
+    "checksum": "24d5c7b750857c3fa286abb385c437f94675066b582e64a5bb2a75131ffa9245"
+  },
+  {
+    "name": "libi420_nv12_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi420_nv12_plugin.dll",
+    "checksum": "0b975f806eb1338ce650e0c858f9619a1ee8c77ff431572f7827bc63be74f584"
+  },
+  {
+    "name": "libi420_rgb_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi420_rgb_plugin.dll",
+    "checksum": "f5625f0c6d6551d9aea19c69feca109fbbf311b2fc44cb28ee7dff19b95a80bf"
+  },
+  {
+    "name": "libi420_rgb_sse2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi420_rgb_sse2_plugin.dll",
+    "checksum": "475e4199b382bc4bd64d20420eb733212693c2d690b329822eec4d41e2aa70c2"
+  },
+  {
+    "name": "libi420_yuy2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi420_yuy2_plugin.dll",
+    "checksum": "13ffbc1cf962f9e242e3a04dce670b47ba993508426f8cd60876d54ef9de152e"
+  },
+  {
+    "name": "libi420_yuy2_sse2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi420_yuy2_sse2_plugin.dll",
+    "checksum": "cd1b363d372460fbb11662be028733bf9eb863fa117b1cd51a90270755dac3b8"
+  },
+  {
+    "name": "libi422_i420_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi422_i420_plugin.dll",
+    "checksum": "87e950be31519cf1d03c3f57bcb46ed8c08c7dfc4d1048df413fe163ea16a3e9"
+  },
+  {
+    "name": "libi422_yuy2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi422_yuy2_plugin.dll",
+    "checksum": "9f2cfa35c168bc5fc010ed6cd67bc6ea4044dbc53512c940f7b8f5a53497d8c5"
+  },
+  {
+    "name": "libi422_yuy2_sse2_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libi422_yuy2_sse2_plugin.dll",
+    "checksum": "e0ddf561884861a8d3498d4f894d21d7198e40b0e77013ec9a663e8fd43c8275"
+  },
+  {
+    "name": "libidummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libidummy_plugin.dll",
+    "checksum": "faf14988c488975aa078cf815bf673c59b96891fe4a98fd64668857caa7d5371"
+  },
+  {
+    "name": "libimage_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libimage_plugin.dll",
+    "checksum": "8e609aa9f00595fba39a6832d97d30ab7b7f9787a5a9d18fa6d7cba6eaf11104"
+  },
+  {
+    "name": "libimem_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libimem_plugin.dll",
+    "checksum": "dd378a37238785e3d42e41f4ca1d113cecd84c145a01a7a498946fe10b1279de"
+  },
+  {
+    "name": "libinflate_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libinflate_plugin.dll",
+    "checksum": "3d4967f210b10465dfdee2d1c42628e372abe7b1ce63d7d1e9f801bb502b0c4e"
+  },
+  {
+    "name": "libinteger_mixer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libinteger_mixer_plugin.dll",
+    "checksum": "15cfd2b0509ee997310a534a79c1c46da908a43213156594879b8506f17464bc"
+  },
+  {
+    "name": "libinvert_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libinvert_plugin.dll",
+    "checksum": "344d286c51ff5e1ff3197d49867ebe9b4066bb2759eee7bc9b69bbe235e6d954"
+  },
+  {
+    "name": "libjson_tracer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libjson_tracer_plugin.dll",
+    "checksum": "f6b59315de325f26999db6bd092cf1844e41b05c84c31f4aaafb6a7f29b5bf04"
+  },
+  {
+    "name": "libkaraoke_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libkaraoke_plugin.dll",
+    "checksum": "6ff3b9971e9923d7b41e72a5c272f990aac348df17bbe288264e8d8cdb808be7"
+  },
+  {
+    "name": "libkate_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libkate_plugin.dll",
+    "checksum": "b77184ecca715f86b63d11730dc59377f8ede77e8010a08dcf206be35459ba7e"
+  },
+  {
+    "name": "liblibass_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liblibass_plugin.dll",
+    "checksum": "a9be652b007e9eeaf22b8cd82008117f41d53a965aafa29f6a217bb426e0b3ce"
+  },
+  {
+    "name": "liblibbluray_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liblibbluray_plugin.dll",
+    "checksum": "671d8e4efedcdd689808df917fed1d5cf7ab3f2d0297b073ed71d4debac0cbd6"
+  },
+  {
+    "name": "liblive555_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liblive555_plugin.dll",
+    "checksum": "4ca357e02e55d4f5882c7ab1bafc2d75cf1f8e4124077d3fd72a3b4617efe397"
+  },
+  {
+    "name": "liblogo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liblogo_plugin.dll",
+    "checksum": "47904ed53d3322f5a8186165317b4486b82dfbd01d5b39f91e9958137c956535"
+  },
+  {
+    "name": "liblpcm_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liblpcm_plugin.dll",
+    "checksum": "5b2de81cf5cea3ccdfb0632a3f6dec5fc1d477788da0b2194e2f7773ad983f96"
+  },
+  {
+    "name": "liblua_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liblua_plugin.dll",
+    "checksum": "121ca0b450eb2150ada23b2f79c33d5673603b19181c3912abab864ee73cab89"
+  },
+  {
+    "name": "libmagnify_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmagnify_plugin.dll",
+    "checksum": "d073e9fc4577f3b90a00ff9ab6839cfb6353bff63bbcb1920c70a1ab1079bde8"
+  },
+  {
+    "name": "libmarq_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmarq_plugin.dll",
+    "checksum": "f7c4bbdf8423baf859434d58a138deb114fdcd6383490673b6fb1fe326d203c6"
+  },
+  {
+    "name": "libmedialibrary_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmedialibrary_plugin.dll",
+    "checksum": "6a7761b3f86258ce4a5462f8b72ee32b170257c0da780a6aac97d68126002273"
+  },
+  {
+    "name": "libmemory_keystore_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmemory_keystore_plugin.dll",
+    "checksum": "fb647fb4a478d33d8a349479c27306f07f00278849074c9b1f8cd289d3a4f866"
+  },
+  {
+    "name": "libmft_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmft_plugin.dll",
+    "checksum": "c43e6a47283cf88445aca5446bee25081cd8c9327a9d28807509aa62d4df9fd6"
+  },
+  {
+    "name": "libmicrodns_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmicrodns_plugin.dll",
+    "checksum": "20492a96cf25dd17bdd2573dca5fd066f1e23df7c12e6569a999f576912b6169"
+  },
+  {
+    "name": "libmirror_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmirror_plugin.dll",
+    "checksum": "1ea9132c523d5acbb5342acc2f02aab65a403be9f33a89b8ff3870b81bb2f318"
+  },
+  {
+    "name": "libmjpeg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmjpeg_plugin.dll",
+    "checksum": "4a28d65eaf8d8df1572901ffbea21a0af128cce4d26586698624026f67bb569d"
+  },
+  {
+    "name": "libmkv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmkv_plugin.dll",
+    "checksum": "6c027c0b834ee5f710b8f0821c84254a990d91eadb496da368f4e666031c0886"
+  },
+  {
+    "name": "libmmdevice_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmmdevice_plugin.dll",
+    "checksum": "155fe9ab4b91dc543012ba1feab864a6c230239702beaabfb2e3ef89e6de0295"
+  },
+  {
+    "name": "libmod_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmod_plugin.dll",
+    "checksum": "a1ac0f43f49172a1cab3c84df5bb40c12104685f7b08ed254b814388911bc188"
+  },
+  {
+    "name": "libmono_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmono_plugin.dll",
+    "checksum": "bee97843521a43bda674c994f3bfdb7b1eb231d353b714f3886a95cb3f78e8e3"
+  },
+  {
+    "name": "libmosaic_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmosaic_plugin.dll",
+    "checksum": "947447c67605362436b69596f0c775b547d0ae25e6ec670b4d57c9fd2830c094"
+  },
+  {
+    "name": "libmotionblur_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmotionblur_plugin.dll",
+    "checksum": "dd83d4dce35631afeae7431269e541689f23daf99f63972ecad18c73e892a797"
+  },
+  {
+    "name": "libmotiondetect_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmotiondetect_plugin.dll",
+    "checksum": "ed172c738c0600354ec6f7551e0afaeada02f7f614169759fcfc7fb29f1b5440"
+  },
+  {
+    "name": "libmp4_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmp4_plugin.dll",
+    "checksum": "edc6532a1436ffa0c5b4a450ab05238d6c3e9f349e68175da3ba7650cdcaa961"
+  },
+  {
+    "name": "libmpc_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmpc_plugin.dll",
+    "checksum": "6a7e900b98cbc0c2101756299c172a1846c8be136fe5bf494994bd56674e7ef4"
+  },
+  {
+    "name": "libmpg123_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmpg123_plugin.dll",
+    "checksum": "eece7af24e52290dcb7a1c8d896d36c024e65d9ae40efd9c9bda72fc7a9534ef"
+  },
+  {
+    "name": "libmpgv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmpgv_plugin.dll",
+    "checksum": "87cf3a688363925e3cdd3bba3e348b165257b8490182fcb92fb49d61627d32ee"
+  },
+  {
+    "name": "libmux_asf_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_asf_plugin.dll",
+    "checksum": "9c4b8f92656a0e8490eff44548f7a1ea2dbc5cd9ba97c9459cb99ea5d0315dbe"
+  },
+  {
+    "name": "libmux_avi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_avi_plugin.dll",
+    "checksum": "5a93f572f0fd764fe906b00280cab598902787845af1a6ee23bcd629138f339c"
+  },
+  {
+    "name": "libmux_dummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_dummy_plugin.dll",
+    "checksum": "6ab39ec654466660c88adea1f9232a8375700df67f99afd401b25269f42b49ec"
+  },
+  {
+    "name": "libmux_mp4_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_mp4_plugin.dll",
+    "checksum": "689f915046f6c9380b88caa026757fddb53d2b1dc6e55a934c36ea36b1f43b35"
+  },
+  {
+    "name": "libmux_mpjpeg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_mpjpeg_plugin.dll",
+    "checksum": "12f1b3d0426030c5abe4e02be8b18dd891e85326ff466d3f20576f2944c33b93"
+  },
+  {
+    "name": "libmux_ogg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_ogg_plugin.dll",
+    "checksum": "a93a5cef2dfe0126dd11982f5a084ecbef47990710315deabdd0ec223c04d2d5"
+  },
+  {
+    "name": "libmux_ps_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_ps_plugin.dll",
+    "checksum": "a0f9dd9abef45a0d517f58a9afc5914625d0ff7490aadd99b084b22bcdf7e402"
+  },
+  {
+    "name": "libmux_ts_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_ts_plugin.dll",
+    "checksum": "e57052ca113d9c90c92e082262bfafb46d2f8599c86f533a45453b0b9f3004b6"
+  },
+  {
+    "name": "libmux_wav_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libmux_wav_plugin.dll",
+    "checksum": "257c2abd339b7b355602ea72f329bb149d94c77fe14bc99d6bbd0a1d18362137"
+  },
+  {
+    "name": "libnfs_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnfs_plugin.dll",
+    "checksum": "9daf1b3419e088b31bd43fa3f39d5701df6ef6c346779c0e86cc8910a2793863"
+  },
+  {
+    "name": "libnormvol_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnormvol_plugin.dll",
+    "checksum": "60da59ec8442d41ad0ac3b5f94ceb1169631f0bc89b7ec9117e2f71ca9eaad2c"
+  },
+  {
+    "name": "libnoseek_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnoseek_plugin.dll",
+    "checksum": "843b20def71c8d42cf9be840a12f5e62bd08686b758089b9cd02ea7ec182b6fb"
+  },
+  {
+    "name": "libnsv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnsv_plugin.dll",
+    "checksum": "9eb358fd1c4fd42ca43cf845000687643f6e249d2592e2675ed74a0ac0a6728e"
+  },
+  {
+    "name": "libntservice_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libntservice_plugin.dll",
+    "checksum": "2ee9de2ec3626fabfa8d78c99cbc0fbf3936abd409643db5d7e285549c88a743"
+  },
+  {
+    "name": "libnuv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnuv_plugin.dll",
+    "checksum": "268972af3f880166fde8b832f84b3122be8517836ead220f8382b532cc2674ae"
+  },
+  {
+    "name": "libnvdec_chroma_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnvdec_chroma_plugin.dll",
+    "checksum": "893a7613993ac06fd68c876def92751d6777d3c6189450a90e3c1999cf429cff"
+  },
+  {
+    "name": "libnvdec_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libnvdec_plugin.dll",
+    "checksum": "12ec71f67223f02e6721428e8a6fe8bde067fe9ec4b9eaa8446e3af0fff23df0"
+  },
+  {
+    "name": "liboggspots_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liboggspots_plugin.dll",
+    "checksum": "4513ef1403149f58000a023f3405d2e8692518c2b7f9d78a8c39eccda26b47de"
+  },
+  {
+    "name": "libogg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libogg_plugin.dll",
+    "checksum": "adeeb5242080d505a6ec18a29474f76936e9c2996fb2170ef05f72f97395f54a"
+  },
+  {
+    "name": "liboldmovie_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liboldmovie_plugin.dll",
+    "checksum": "b45f04af6e66cbab94c55aa59a0efae035c7d80b5c9f5769a59bf5afef52ece4"
+  },
+  {
+    "name": "libopus_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libopus_plugin.dll",
+    "checksum": "c4f033a1c072b7378e8b372ba84b24e5f5eed3550579f3d6e018541ecf1e1379"
+  },
+  {
+    "name": "liborient_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\liborient_plugin.dll",
+    "checksum": "87b44f4d6d4563e2b978cfcbc2753454a31e5b26f8411786307b63254be3be52"
+  },
+  {
+    "name": "libpacketizer_a52_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_a52_plugin.dll",
+    "checksum": "20a974157fbb0e97631816234bf3e1fcdd4fa503408063080c69f2cf9a52b226"
+  },
+  {
+    "name": "libpacketizer_av1_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_av1_plugin.dll",
+    "checksum": "20907314e13e7a8da5e0fcee2d3233e1e3e545f8335a2e2c1361deb8147ea980"
+  },
+  {
+    "name": "libpacketizer_copy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_copy_plugin.dll",
+    "checksum": "0c0332891ed3e66d52754e7c0a4dbd851c6935ed12fa35d40194b8a3da37764d"
+  },
+  {
+    "name": "libpacketizer_dts_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_dts_plugin.dll",
+    "checksum": "32c786a51c7b9201b4316a690124a41c427a72a28dd9a1d1a5ca048d7dc3b255"
+  },
+  {
+    "name": "libpacketizer_flac_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_flac_plugin.dll",
+    "checksum": "155fe05e28e7fc8ffcd59e99e4b7c1e19d788b72b12970ec2d4a280992773138"
+  },
+  {
+    "name": "libpacketizer_h264_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_h264_plugin.dll",
+    "checksum": "79ab59553aae388f16c209df08d49ace6ca6f70d01e196f1f2862133e0734e73"
+  },
+  {
+    "name": "libpacketizer_hevc_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_hevc_plugin.dll",
+    "checksum": "5f017103c6300a8eef1e2cf86dda6129aa732e16e4bad8c89311b62fbaf2a2d1"
+  },
+  {
+    "name": "libpacketizer_mjpeg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_mjpeg_plugin.dll",
+    "checksum": "437a2556dba3c74676e829ae4bc2ff8fd57703126a11a234182f16368b0e4d37"
+  },
+  {
+    "name": "libpacketizer_mlp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_mlp_plugin.dll",
+    "checksum": "9218ff1f62623de56448dcc2a75c691a2ecc32272b08281baf35d87d2826cffe"
+  },
+  {
+    "name": "libpacketizer_mpeg4audio_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_mpeg4audio_plugin.dll",
+    "checksum": "40e00605a3d4cf6dd9cd866e81488154b2d4489af3df678b64c30cdfed32bf3b"
+  },
+  {
+    "name": "libpacketizer_mpeg4video_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_mpeg4video_plugin.dll",
+    "checksum": "71e99ed349a2bc25bf603ff7dcb3adfdb4bc8bbcafb7e3915d03eee27e2569a0"
+  },
+  {
+    "name": "libpacketizer_mpegaudio_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_mpegaudio_plugin.dll",
+    "checksum": "f8a30bd7a9e1933445dd6c3c59a5ff2a97f2e560500161e49e33954e7a4865cd"
+  },
+  {
+    "name": "libpacketizer_mpegvideo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_mpegvideo_plugin.dll",
+    "checksum": "f4bc15ef39492f16106f950a6585b4795be7c7d44d043bfebd12f975e1440098"
+  },
+  {
+    "name": "libpacketizer_vc1_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpacketizer_vc1_plugin.dll",
+    "checksum": "ebb5a007ea7a5abebc0e02e4af1aaf548dc5ad2fe0b22ec6d19f0e13377bcb68"
+  },
+  {
+    "name": "libpanoramix_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpanoramix_plugin.dll",
+    "checksum": "6c5603cd9145a957b2f7ee0f841f2334604f0e05b06ac3971fa0bdfa2ae3f5f9"
+  },
+  {
+    "name": "libparam_eq_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libparam_eq_plugin.dll",
+    "checksum": "fbdc076e6731d306bf94488f86804c320ac2fa1e05a939d6234f31f4f06d3e47"
+  },
+  {
+    "name": "libplacebo_gl_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libplacebo_gl_plugin.dll",
+    "checksum": "f982df519d43fd92db1209ccda3eb51d1cbb7591034d69d105416fa1db009e04"
+  },
+  {
+    "name": "libplacebo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libplacebo_plugin.dll",
+    "checksum": "1473ea952c7407c542976b8951d8157352ea6db2820ab922cdb3f70be3039436"
+  },
+  {
+    "name": "libplacebo_vk_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libplacebo_vk_plugin.dll",
+    "checksum": "db93626348221b432ee0771c511840de6eb8ad185eb154fafd1865fbd715c5f8"
+  },
+  {
+    "name": "libplaylist_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libplaylist_plugin.dll",
+    "checksum": "47be3f17e75afbfde7f0be7d4deab9ba093a55c6d12d0d4afec5e415ba8d6df6"
+  },
+  {
+    "name": "libpl_scale_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpl_scale_plugin.dll",
+    "checksum": "b5def4ed4b70a8ba2d3cf07eff0f8519f4b548e856567ed047663cba742a8d6c"
+  },
+  {
+    "name": "libpng_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpng_plugin.dll",
+    "checksum": "f4b7a49a0f86f402d3a6e6ae5138102f74680011a7794787b84f245cf5bfe830"
+  },
+  {
+    "name": "libpodcast_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpodcast_plugin.dll",
+    "checksum": "91ac75edb40b0feef6f3922efd8b89b855abced14e016c880afa95d18c629aa6"
+  },
+  {
+    "name": "libposterize_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libposterize_plugin.dll",
+    "checksum": "0db8af85a1d2a030667771bed1cb4472fa42889f9f28b78b65761d19ba8d344b"
+  },
+  {
+    "name": "libprefetch_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libprefetch_plugin.dll",
+    "checksum": "553ccf2dce1e2bb3452d066e4a290f25409e98e1f664c4b52bd20d8001e37232"
+  },
+  {
+    "name": "libprojectm_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libprojectm_plugin.dll",
+    "checksum": "e6469fdb33d4b5047917d9e154a4113a841482a034301a212d758d1b7389b903"
+  },
+  {
+    "name": "libpsychedelic_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpsychedelic_plugin.dll",
+    "checksum": "699205dd3fab5180de8f858494f4452d0ea70d26ab7332bf89bf7bd63d9ad9c1"
+  },
+  {
+    "name": "libps_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libps_plugin.dll",
+    "checksum": "51397e9dc7bbaa1e370ead37d1889ce856068821680e09a69595c94f216c2e5e"
+  },
+  {
+    "name": "libpuzzle_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpuzzle_plugin.dll",
+    "checksum": "bbca087c6cad34b2fb58d0fffb630bf1d37677887d84fea78f78ba197770903b"
+  },
+  {
+    "name": "libpva_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libpva_plugin.dll",
+    "checksum": "b09834c2a48be49caf144a51eb105385e35faf2085af325f301358e73751c95f"
+  },
+  {
+    "name": "libqsv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libqsv_plugin.dll",
+    "checksum": "bad4d22618227c5ec0539316e44207f1f8f4355e65ff11f2aa63f0165866db29"
+  },
+  {
+    "name": "librawaud_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librawaud_plugin.dll",
+    "checksum": "3fb523e10f89bd2fec01f1fb199b6475c86a5b28f2c9705923dd170fb98fd71a"
+  },
+  {
+    "name": "librawdv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librawdv_plugin.dll",
+    "checksum": "6d0bae5902d7bba1c1a89a5e7fa09e31856471cc83cc4c087b3e68a2f9f351b2"
+  },
+  {
+    "name": "librawvideo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librawvideo_plugin.dll",
+    "checksum": "659f40026202b06630b55c796b1c1fcac91e391773a6d04ea50623a54c036c78"
+  },
+  {
+    "name": "librawvid_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librawvid_plugin.dll",
+    "checksum": "5e58348c6176e41a023bd841281a85a560fabf8ae13417879d2da02a6d9c3d0c"
+  },
+  {
+    "name": "librc_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librc_plugin.dll",
+    "checksum": "bfa7afe67de22883f77b8081596e4e796f25d9e35b9513af9d9bd3e96e1934c6"
+  },
+  {
+    "name": "librecord_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librecord_plugin.dll",
+    "checksum": "59b0549b80d9a2a1b06c6dbc520d9bb3025c5bc21bb345262b8e589b53cc3113"
+  },
+  {
+    "name": "libremap_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libremap_plugin.dll",
+    "checksum": "3153d8c795b4f4fa1f13d2626896ee416b4ef3f0fe1e4990fb08f71111333c52"
+  },
+  {
+    "name": "libripple_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libripple_plugin.dll",
+    "checksum": "4375d8742d76f6734943d1aa2427d1e0fa595a58621f5765fb410309fda93705"
+  },
+  {
+    "name": "librist_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librist_plugin.dll",
+    "checksum": "13000baafac81e56a772cd5267edf06d80eaeb5ef1f813171a442604d0e3a6f1"
+  },
+  {
+    "name": "librnnoise_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librnnoise_plugin.dll",
+    "checksum": "ba7f9e8675835ec149994e8daeadc1c297fca39eaa84479324d2759c36b2c0a2"
+  },
+  {
+    "name": "librotate_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librotate_plugin.dll",
+    "checksum": "8a9d65e15a410a6ec3c1d271c640b44207e9f8c4c1aae9acead161f7881de705"
+  },
+  {
+    "name": "librss_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librss_plugin.dll",
+    "checksum": "0c7e6ed708678135e7fa1e0b3e4af080113b4eefdb0ae01883fe0a7a340ed84d"
+  },
+  {
+    "name": "librtpvideo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtpvideo_plugin.dll",
+    "checksum": "1ed3b163463f6c3dd9ca0c34c397a47e99bfe1f6e67c6f5aa30b46cd7f602215"
+  },
+  {
+    "name": "librtp_ac3_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_ac3_plugin.dll",
+    "checksum": "1db9af0d55b8cead30e0c4c1fea2f4ad065ef2b93dc3e050f546944d13bd181c"
+  },
+  {
+    "name": "librtp_h264_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_h264_plugin.dll",
+    "checksum": "c527beff50c40bcda377b8dec046a00dccac23c653aba2aca73ebd324c0ea701"
+  },
+  {
+    "name": "librtp_h265_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_h265_plugin.dll",
+    "checksum": "5d4fe38ac624995e02d8ded1a37bf9ef202bc78697f7b34503151c9f72abbbaf"
+  },
+  {
+    "name": "librtp_mpeg12_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_mpeg12_plugin.dll",
+    "checksum": "a08618342a9cdb22fba684b6e2d9658c362fb311685dc092a275d9c24b295231"
+  },
+  {
+    "name": "librtp_mpeg4_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_mpeg4_plugin.dll",
+    "checksum": "fc5191fdb4da314dffd07cad666a4595ea070670d7c2139ba3b73285802f41b4"
+  },
+  {
+    "name": "librtp_opus_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_opus_plugin.dll",
+    "checksum": "70b9358d2625530ffaf3355de0f84a47900fea083f688c2b26094278dcfe0188"
+  },
+  {
+    "name": "librtp_pcm_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_pcm_plugin.dll",
+    "checksum": "b29c90589c8b7cc9ad05d141509e3bc2687de7bcb9a9228126e99ce23461d8cb"
+  },
+  {
+    "name": "librtp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_plugin.dll",
+    "checksum": "d63c644931990fa8dbb4bf4677ecfb72de8379a9303c2efccfc358f34e5db1f4"
+  },
+  {
+    "name": "librtp_rawvid_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_rawvid_plugin.dll",
+    "checksum": "70954fe1a6903c9b6f4a4b36f3d3f35c06503efa2d6bc44f79386fb06ec77ba9"
+  },
+  {
+    "name": "librtp_raw_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_raw_plugin.dll",
+    "checksum": "669b3949240a5b3a3fd5850ea77fa169317284d42b73828c1e650e80662e825e"
+  },
+  {
+    "name": "librtp_xiph_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librtp_xiph_plugin.dll",
+    "checksum": "085f82794ecb7d0fce07cf62a6fa036de413ce0eca356144297482225a289c66"
+  },
+  {
+    "name": "librv32_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\librv32_plugin.dll",
+    "checksum": "ac1f9deb2f354b65d3ce8cb25a216ce6483b7c04e24e6a503e9e355b2ef35124"
+  },
+  {
+    "name": "libsapi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsapi_plugin.dll",
+    "checksum": "51cbc1dde32d003216465b4e5f4e6a0d903d81d53223053cb5584fa3d05e8d17"
+  },
+  {
+    "name": "libsap_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsap_plugin.dll",
+    "checksum": "0444c320e92c8af4dc084f3c61f3a7fd820478da67b69092cecec80d58bc64ed"
+  },
+  {
+    "name": "libsatip_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsatip_plugin.dll",
+    "checksum": "171b8ec8bcfda535047ad2899a79fe59a4465807066ba1471d190492119c1c15"
+  },
+  {
+    "name": "libscaletempo_pitch_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscaletempo_pitch_plugin.dll",
+    "checksum": "81f02d1d3c348848fa1b11dc58ab12195423ff5fa74d4592ac820478a1c613b8"
+  },
+  {
+    "name": "libscaletempo_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscaletempo_plugin.dll",
+    "checksum": "26f82ecfcb90eb6e62b79daf309186a78eae2ec7d09c677d585005ce41fb9e51"
+  },
+  {
+    "name": "libscale_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscale_plugin.dll",
+    "checksum": "9aa19e2c9b2153aac7d269298a9a1bbc3590438900779232fb4451b335e54329"
+  },
+  {
+    "name": "libscene_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscene_plugin.dll",
+    "checksum": "d89191c675eec7c9c6f2d14739f81bd06db378d1630e4e2e1f85b925f0605053"
+  },
+  {
+    "name": "libschroedinger_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libschroedinger_plugin.dll",
+    "checksum": "cafab057ee56a7f119950b6f58122517e6e9c4b26e07dc2af1abfbd445cfd757"
+  },
+  {
+    "name": "libscreen_win_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscreen_win_plugin.dll",
+    "checksum": "0889c5fa8c1ec78b4c9203a07707594255ca10a8b3572e2496ece237051e6f7a"
+  },
+  {
+    "name": "libscte18_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscte18_plugin.dll",
+    "checksum": "ac6ce5a2b4c311fc77a3a0e926a0402adb96e1eeda1c0f359c82b3299609d15e"
+  },
+  {
+    "name": "libscte27_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libscte27_plugin.dll",
+    "checksum": "290827f1f9b198b452c5abaa6b8ce3f097a4d21b883c0fe9eaed2d2286e0dac3"
+  },
+  {
+    "name": "libsdp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsdp_plugin.dll",
+    "checksum": "6cfadca5d196278395782a21fb0fc9a39a2cd9e3f7b27108fe150016f024072c"
+  },
+  {
+    "name": "libsepia_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsepia_plugin.dll",
+    "checksum": "7fca6dab034f3085cb5468b09ea1657d26b0e8233b79d6b34c12b720fc67797d"
+  },
+  {
+    "name": "libsftp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsftp_plugin.dll",
+    "checksum": "690efd947e4f82e77a0e69c023f9cb22678cff0c35d4ad71c780781e30eed011"
+  },
+  {
+    "name": "libsharpen_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsharpen_plugin.dll",
+    "checksum": "ac99d0dbf4716e8584738f1204b46ed9075c51c1253d871ab7db28049d026e64"
+  },
+  {
+    "name": "libshm_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libshm_plugin.dll",
+    "checksum": "aa3d88235390aa9f7ff14f7d9f2700a9185aba1776a24bd2bc706425bcb94672"
+  },
+  {
+    "name": "libsimple_channel_mixer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsimple_channel_mixer_plugin.dll",
+    "checksum": "a43f5e0b2a922ca2be8a1822aa33bce141558ea01ce7f8c2f5ac513ccf2faf3c"
+  },
+  {
+    "name": "libSkiaSharp.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libSkiaSharp.dll",
+    "checksum": "b241cd1204608c00daf6a1e494415e526efda92b500176ce211daa89be5c0596"
+  },
+  {
+    "name": "libskiptags_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libskiptags_plugin.dll",
+    "checksum": "600c3c84ad867b134fcf79fc16c1ce9e4afd57cd9c15198b48991145dabe0ef3"
+  },
+  {
+    "name": "libsmf_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsmf_plugin.dll",
+    "checksum": "20fe33c71f865f070dbf37cccee8cb8de29cede81fa46bd0dfb07ca8be4d3a68"
+  },
+  {
+    "name": "libsoxr_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsoxr_plugin.dll",
+    "checksum": "917dda8074a70a6e9afc3c4903dd7b868dd36dfc014e631dd5a77c5b30122934"
+  },
+  {
+    "name": "libspatialaudio_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libspatialaudio_plugin.dll",
+    "checksum": "1dc9327193da44cb18e41266fa3f6b15b4549c6cba5b69552496344ca051ca83"
+  },
+  {
+    "name": "libspatializer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libspatializer_plugin.dll",
+    "checksum": "16c2b13d0b5b0cb96399ec1a30351f1706160e8804be4dd2589ac62085509e96"
+  },
+  {
+    "name": "libspdif_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libspdif_plugin.dll",
+    "checksum": "48d51ae9370a96ec1e28694fd0006f9a27d4f68e015b29ecba5ef56b1d402901"
+  },
+  {
+    "name": "libspeex_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libspeex_plugin.dll",
+    "checksum": "62e90526975aba7cd532747d4459cef9f3191771baff9ded0f90bbb50a2aff2d"
+  },
+  {
+    "name": "libspeex_resampler_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libspeex_resampler_plugin.dll",
+    "checksum": "afdeee26250273a6eda50d7d75c39c9ebf0c324d18f4405d58a4bbdc76f4d5d1"
+  },
+  {
+    "name": "libspudec_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libspudec_plugin.dll",
+    "checksum": "2b64e3577752190d68321424a26665a34d3abeab302c5e4fb0602e25c6c532f2"
+  },
+  {
+    "name": "libstats_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstats_plugin.dll",
+    "checksum": "352870028c35496ab86b0aaca57e49cf9d40077f6ba7b52019f62243a6146abd"
+  },
+  {
+    "name": "libstereopan_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstereopan_plugin.dll",
+    "checksum": "9ba1337155621ae71bfd2743a0be4c697cf098d91ae26d0345ed9c39d3f2af2b"
+  },
+  {
+    "name": "libstereo_widen_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstereo_widen_plugin.dll",
+    "checksum": "99b7ea65fa830cc6ce7e2a2ac512f9453e8a89eee2954ae70ff8c3ce6078ea84"
+  },
+  {
+    "name": "libstl_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstl_plugin.dll",
+    "checksum": "fb268f5630c285746be0ef926a670ae9979a7713e19675960a1d40b59d67680c"
+  },
+  {
+    "name": "libstream_out_autodel_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_autodel_plugin.dll",
+    "checksum": "98f5817fde3a5e20d513d8345d3d5d841b68e758da267e00ea283266b2cf4eea"
+  },
+  {
+    "name": "libstream_out_bridge_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_bridge_plugin.dll",
+    "checksum": "0c16cdbec1da02bc5d4a27127f27e0c063fd2316c541683ea5fa8656101b1da3"
+  },
+  {
+    "name": "libstream_out_chromaprint_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_chromaprint_plugin.dll",
+    "checksum": "0b5806eca47a3301a42cc962a76b4fcaaaeff07afc44fc6c5efd6608743f0256"
+  },
+  {
+    "name": "libstream_out_chromecast_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_chromecast_plugin.dll",
+    "checksum": "5b013ed5f8de586c5030063bd8137effb394ebadb33ebe12ef00d9dbbd7b8df8"
+  },
+  {
+    "name": "libstream_out_cycle_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_cycle_plugin.dll",
+    "checksum": "5dac1c187fd55f27b71d0b0ac3ef9d1de18462b0405ecea3b4d08839aeeae8ef"
+  },
+  {
+    "name": "libstream_out_delay_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_delay_plugin.dll",
+    "checksum": "a53dd20b503ab1d198a23bcb5c317c182e0b8a3ec67e80444e859fa496a5f63c"
+  },
+  {
+    "name": "libstream_out_display_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_display_plugin.dll",
+    "checksum": "81d3ce5e76704c55d399e5505184b59e046b717ac3174c2dc2b3ef92c53e67d7"
+  },
+  {
+    "name": "libstream_out_dummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_dummy_plugin.dll",
+    "checksum": "8c88799789ad6159e6920ec3df0e275161f49098bf84d044aa02763dffa61c29"
+  },
+  {
+    "name": "libstream_out_duplicate_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_duplicate_plugin.dll",
+    "checksum": "d353a4d2491c04f365ecc231580eae67c300107440bdb8c3247e35afc84c48dc"
+  },
+  {
+    "name": "libstream_out_es_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_es_plugin.dll",
+    "checksum": "5e4e2c9676d4053186ea62308a903b6f06974715266f3fb495cf7e5f5ec92ea5"
+  },
+  {
+    "name": "libstream_out_gather_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_gather_plugin.dll",
+    "checksum": "e86bf75f95afdba214842e35ead18a885bf1e6172e9398b8339c173be74ba3db"
+  },
+  {
+    "name": "libstream_out_hls_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_hls_plugin.dll",
+    "checksum": "cbf53a62f8471ebce931464acf271d690bc55950e746f460c8e60779bfe5efb6"
+  },
+  {
+    "name": "libstream_out_mosaic_bridge_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_mosaic_bridge_plugin.dll",
+    "checksum": "dc67eeeffcc9be887f0a1b78306c1a4d0bbb08d2a2a4fbf51c5308db356e2a85"
+  },
+  {
+    "name": "libstream_out_record_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_record_plugin.dll",
+    "checksum": "4f93daa4566d7316b67b16e9d0371b99a3bdb1a303a192befe45484a4e7f28c7"
+  },
+  {
+    "name": "libstream_out_rtp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_rtp_plugin.dll",
+    "checksum": "4f52fcab976c01cbb8a6210ca87cfb01485ac0e4eb32dfba5ef6afff219fc8a2"
+  },
+  {
+    "name": "libstream_out_sdi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_sdi_plugin.dll",
+    "checksum": "a70ad2dab8426884f8054232d417a4b8699bb6843f55adf5310c040f934d8eb5"
+  },
+  {
+    "name": "libstream_out_setid_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_setid_plugin.dll",
+    "checksum": "a14f34c53f7c824cf7ac244ee1e5a3d17688e194056b10504cf7dec9abdf2269"
+  },
+  {
+    "name": "libstream_out_smem_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_smem_plugin.dll",
+    "checksum": "5caaca40114c6daa638ede4a257ef9281fd3eb7bb248d75188e11f7073b988e1"
+  },
+  {
+    "name": "libstream_out_standard_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_standard_plugin.dll",
+    "checksum": "1a419074cfcc4b71d1708300919ed3fd84213d25e75764a70da8a1ec26a37d02"
+  },
+  {
+    "name": "libstream_out_stats_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_stats_plugin.dll",
+    "checksum": "62c322614e26c991a94d599682b50028ead796226362a4423832c5867943902a"
+  },
+  {
+    "name": "libstream_out_trace_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_trace_plugin.dll",
+    "checksum": "208613a617a49eadae6263c0d3c7fa5e43ed76a084963773d24ef7fcfd204627"
+  },
+  {
+    "name": "libstream_out_transcode_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_transcode_plugin.dll",
+    "checksum": "f258264458088214fa919b4683860ed358b2b59db5cf98935d601a5cde06090a"
+  },
+  {
+    "name": "libstream_out_udp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libstream_out_udp_plugin.dll",
+    "checksum": "efefba2939f821c4f96285870aed4eb6b5512d48d2b408381ab8c506c8c14fe5"
+  },
+  {
+    "name": "libsubsdec_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsubsdec_plugin.dll",
+    "checksum": "4505bd457a8f5258e5364865533c10acc1ea48fa6130391c29116afc3d97f8a1"
+  },
+  {
+    "name": "libsubsdelay_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsubsdelay_plugin.dll",
+    "checksum": "aa6ce13c3f60e15932bc18bd01c5b14f3660d4cd37299f01c7b3569f7e2aed35"
+  },
+  {
+    "name": "libsubstx3g_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsubstx3g_plugin.dll",
+    "checksum": "34944e97b217f5b7efc2bd396794bfd076f13d644632ecadbf9f446b98875148"
+  },
+  {
+    "name": "libsubsusf_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsubsusf_plugin.dll",
+    "checksum": "a89f41800ec4e986b1b4daac04ae12cf6ad5d2234defc84ddfcd889eaf121086"
+  },
+  {
+    "name": "libsubtitle_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsubtitle_plugin.dll",
+    "checksum": "b18a8260f7a76e3b46d860fc33df5dbc76ed0d94d18edcb26d8f56a6d07a3293"
+  },
+  {
+    "name": "libsvcdsub_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libsvcdsub_plugin.dll",
+    "checksum": "d213febd5c8773bdfb1656f35b63f774ea93eaf35453edc6581ca695821ede0c"
+  },
+  {
+    "name": "libswscale_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libswscale_plugin.dll",
+    "checksum": "bb402851d382cf420a0df275573b3bac3b153c1210367d2edd3b79aaa2d8c0c6"
+  },
+  {
+    "name": "libt140_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libt140_plugin.dll",
+    "checksum": "bdc01b068f349b6a7ac0fe2a1bc92d7dd183c0b9cc6a5d832952d10b9a912516"
+  },
+  {
+    "name": "libtaglib_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtaglib_plugin.dll",
+    "checksum": "7eaaaaa6bebbe920a55a16183ed4c6312f20092d4e79eaa42a16fce17957f137"
+  },
+  {
+    "name": "libtcp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtcp_plugin.dll",
+    "checksum": "c2f07f61fd9886ee5f42f86f82f8a915bf6ff33843ad73b644fcf7736b6a3ce8"
+  },
+  {
+    "name": "libtdummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtdummy_plugin.dll",
+    "checksum": "0514d68b28e70750eb3518816a019d0600c4229281a1ea207a2dc473e19a3041"
+  },
+  {
+    "name": "libtextst_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtextst_plugin.dll",
+    "checksum": "9be1daeb38a9631f16d5c63c33571e81a70092baa173991bc0172046bd8b2389"
+  },
+  {
+    "name": "libtheora_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtheora_plugin.dll",
+    "checksum": "f0d9803d02eb9d0070df4f7a4c3e8175a8a3e049f6d855b43745f807b43ad311"
+  },
+  {
+    "name": "libtimecode_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtimecode_plugin.dll",
+    "checksum": "8f807be489dc0326e5354159972e3cd6e01aabd68b5aaec4e42682c4bc41be83"
+  },
+  {
+    "name": "libtospdif_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtospdif_plugin.dll",
+    "checksum": "fd733c1246d38fde45f5405950dc924ed1b86807c4c38a874f8c5393142d3e40"
+  },
+  {
+    "name": "libtransform_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtransform_plugin.dll",
+    "checksum": "241d04931c6b110ebb7fd1f95415c86e36b57a745591a18677535a02e03ebeb7"
+  },
+  {
+    "name": "libtrivial_channel_mixer_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtrivial_channel_mixer_plugin.dll",
+    "checksum": "9878ac16572a2e8557f550a137ebdae20632e26fc30439f9480493834b61de92"
+  },
+  {
+    "name": "libts_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libts_plugin.dll",
+    "checksum": "9713996b9afdea1667785b70397cb6cd1dc21ee4c9b2bac358e2b221fd24ebde"
+  },
+  {
+    "name": "libtta_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtta_plugin.dll",
+    "checksum": "86cafb8e8232b7bcc971e8005dbd6384407d8791de6200c143057f08eefa180b"
+  },
+  {
+    "name": "libttml_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libttml_plugin.dll",
+    "checksum": "cecdd3d6f35d6eb074f47c2d9ec822c78a38145d46290ac66ed56637abe7e60e"
+  },
+  {
+    "name": "libtwolame_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libtwolame_plugin.dll",
+    "checksum": "f31fb0f4ff1a81af5680a9dc145a11aa0ae5ddfb9cfbce49eb5cc6e037907c96"
+  },
+  {
+    "name": "libty_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libty_plugin.dll",
+    "checksum": "7e0b961d4820d3003b1652e6df4933c5486b232f0536d67f2e74cde16d57cbb2"
+  },
+  {
+    "name": "libudp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libudp_plugin.dll",
+    "checksum": "dcb8027dde6f161c1f611a0b81652074ec8517014018fd4bca12b2287762fb0c"
+  },
+  {
+    "name": "libugly_resampler_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libugly_resampler_plugin.dll",
+    "checksum": "8597b6780b347574afe918999fda879651ed57e3972fb3abbbc18696ac5de11c"
+  },
+  {
+    "name": "libuleaddvaudio_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libuleaddvaudio_plugin.dll",
+    "checksum": "6a4b128ddc9a3ee326c490850a47754899cb1f7d53f0afaa48158c86d0fd11f7"
+  },
+  {
+    "name": "libunc_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libunc_plugin.dll",
+    "checksum": "e74c4c3b0e00fe0bf6ef4ed29f3292517b654d5d5bf27c2a90939fd5933126ec"
+  },
+  {
+    "name": "libupnp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libupnp_plugin.dll",
+    "checksum": "57ca33992970cd272bebb7e3e8c5420bdad35d89b395fd0a2eeeff108aa51692"
+  },
+  {
+    "name": "libvc1_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvc1_plugin.dll",
+    "checksum": "31f0111425783413424501cce29cfa11107dd58df526a11ab0bad4aa6d15332d"
+  },
+  {
+    "name": "libvcd_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvcd_plugin.dll",
+    "checksum": "34e427d5c0f2b625b616d10e30f2dd83dd52a83e7b1f1190358060f7cd130420"
+  },
+  {
+    "name": "libvdr_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvdr_plugin.dll",
+    "checksum": "c7f6360f56357fc47b7a9e5c2bdacc579544398076883294db3cbe1338ac5a5c"
+  },
+  {
+    "name": "libvdummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvdummy_plugin.dll",
+    "checksum": "97640c4bbf092afe280894480a1c95c356c386fe7a30a44ad3b7985de70e077a"
+  },
+  {
+    "name": "libvgl_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvgl_plugin.dll",
+    "checksum": "74b26b98a28850b9bdb08289da01940e32a3c300acd1d5621c59ecdba446f0a4"
+  },
+  {
+    "name": "libvhs_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvhs_plugin.dll",
+    "checksum": "dbf47401425e7d16c9776226c251b6fa699e50770b88097648424c86a98cf7d2"
+  },
+  {
+    "name": "libvideo_splitter_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvideo_splitter_plugin.dll",
+    "checksum": "1a08c72101548c79b07c40cec439e2e493313cc216d683e9ca1a3b596304836d"
+  },
+  {
+    "name": "libvisual_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvisual_plugin.dll",
+    "checksum": "5e91e51b7ed1f176d8ed3716a2bf7b89ad98317be5c2773600215ce6e6c1a9a3"
+  },
+  {
+    "name": "libvk_win32_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvk_win32_plugin.dll",
+    "checksum": "25871a77328608c2468fe68eeabd8d15de5284d0b9dbf55f23cf4ba9efcc84f7"
+  },
+  {
+    "name": "libvlc.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvlc.dll",
+    "checksum": "496909873cc220c350cfd54390f4ab29e993ed045417bbcd41f7baf09f10ecd9"
+  },
+  {
+    "name": "libvlccore.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvlccore.dll",
+    "checksum": "68e50091ef9b642b3f3a03278a25395f7491ae790d5298aa8ff1602f5d3543a6"
+  },
+  {
+    "name": "libvmem_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvmem_plugin.dll",
+    "checksum": "131a628aac11521b5cf980eb283ea6f7f1332d66bebfafad756c8d70c2764625"
+  },
+  {
+    "name": "libvobsub_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvobsub_plugin.dll",
+    "checksum": "fcf2b132ef788309fa20ad9662f5973110dbaca618b5248335edb1767f6d3fd0"
+  },
+  {
+    "name": "libvoc_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvoc_plugin.dll",
+    "checksum": "bc596b059e8a9c3452cc2839ff509adb72487dcaabc1c0ddaeb1b3da83f6d7fb"
+  },
+  {
+    "name": "libvorbis_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvorbis_plugin.dll",
+    "checksum": "4da25c73b143a0faa136cbb4a4d19d8ad0e2c1b9dd9ecd213554f7e755c5eeae"
+  },
+  {
+    "name": "libvpx_alpha_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvpx_alpha_plugin.dll",
+    "checksum": "283d000dba1430eb96e1e0a17a98c154ed2904a3a3161d87a6839e0077599532"
+  },
+  {
+    "name": "libvpx_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libvpx_plugin.dll",
+    "checksum": "91444af07915e447bda3b9b3de376c1ee30033829b74172810c6a0a19a080cac"
+  },
+  {
+    "name": "libwall_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwall_plugin.dll",
+    "checksum": "1df0afa014deae485450de4d49d7ac2944c9c101dfcbfb1dda430e27fb552e51"
+  },
+  {
+    "name": "libwasapi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwasapi_plugin.dll",
+    "checksum": "6626af4e241653a081d069eecf694e864e9dfe092bf15814342ef847987cadeb"
+  },
+  {
+    "name": "libwaveout_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwaveout_plugin.dll",
+    "checksum": "496d28e6dc91d515cd75ad60eb1f5bc223c48e4d7c3c792e7b71858fded3860e"
+  },
+  {
+    "name": "libwave_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwave_plugin.dll",
+    "checksum": "9731ed30bc8dd8e09a3a7fed6ad3a633f318a3b6896a228db849d252cea012ac"
+  },
+  {
+    "name": "libwav_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwav_plugin.dll",
+    "checksum": "f77f996e1bc662147e42de42ac46ae10237ebc7b261763cdf7f9f8f8d5409978"
+  },
+  {
+    "name": "libwdummy_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwdummy_plugin.dll",
+    "checksum": "89745162d92caec308c7b1a5edc7e53d66f2941a96a10e108bc1a11eaf63845a"
+  },
+  {
+    "name": "libwebvtt_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwebvtt_plugin.dll",
+    "checksum": "91ed2ff5fd2f5d6879de502fddab0b2997f524619145cc704a233aa3f3893780"
+  },
+  {
+    "name": "libwextern_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwextern_plugin.dll",
+    "checksum": "d988bc0d1db46038f89a406e0ccfc1f051271244d576309c87302b721724b484"
+  },
+  {
+    "name": "libwgl_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwgl_plugin.dll",
+    "checksum": "c8b433f2b8782b2ff2fd40ed946bee85974228314f0706b21f0c41b76a439ac4"
+  },
+  {
+    "name": "libwin32_window_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwin32_window_plugin.dll",
+    "checksum": "a96107b1484ec052642f01cea62426b0f9d562952bd218412f161cb36f94621e"
+  },
+  {
+    "name": "libwindrive_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwindrive_plugin.dll",
+    "checksum": "1b013de948b4c9d831a18abd2da119bc1dec2c40dd864f5e7e2b5ad511b8e8da"
+  },
+  {
+    "name": "libwingdi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwingdi_plugin.dll",
+    "checksum": "c4a1e757c3db47dce03f2659dc051923ac23233426da01728f6cc2a0692b9574"
+  },
+  {
+    "name": "libwinhibit_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwinhibit_plugin.dll",
+    "checksum": "d64565dbe148601d2c21332a2521487597d07c3131d88937efff9684ea5f761e"
+  },
+  {
+    "name": "libwinvolumes_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwinvolumes_plugin.dll",
+    "checksum": "13bc96a31903f0681bcca1c2311c211bcd9887aec25166ea1d41d95356875c1d"
+  },
+  {
+    "name": "libwin_hotkeys_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwin_hotkeys_plugin.dll",
+    "checksum": "df4fb24574b20d4fd3568858959e1f200382f9b379886dd8b1c2f797c5062d5b"
+  },
+  {
+    "name": "libwin_msg_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libwin_msg_plugin.dll",
+    "checksum": "c2ddbbc8a0fc4dd8d4f4fa92937f7e1249e70895878d8a1813677fa7c5f78745"
+  },
+  {
+    "name": "libxa_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libxa_plugin.dll",
+    "checksum": "52000ab48454f93b73561e79957774b935aa9271abf1a1da67bb15d350240fdd"
+  },
+  {
+    "name": "libxml_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libxml_plugin.dll",
+    "checksum": "4c8694953a314c21caddbddc6dc45ee5aa74000730f0a3ab57cfe2db1a66b580"
+  },
+  {
+    "name": "libyuvp_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libyuvp_plugin.dll",
+    "checksum": "05ba754947d5878313340abf5b9a04f834b690504541b1d0e0a5e600c3f7b9ff"
+  },
+  {
+    "name": "libyuv_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libyuv_plugin.dll",
+    "checksum": "cb05af4bd5d70f79f42902d309a4362845b424f427f1b26f2c7ae3d7cbc4f928"
+  },
+  {
+    "name": "libyuy2_i420_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libyuy2_i420_plugin.dll",
+    "checksum": "149a4e09ffebb8e83dd68b41e462148803566618d5359b6f77fefa37f29e258a"
+  },
+  {
+    "name": "libyuy2_i422_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libyuy2_i422_plugin.dll",
+    "checksum": "3a15b4cea9c3c4a1feea1fee3615b9d2ae5abed58a188887fb05569f287c5520"
+  },
+  {
+    "name": "libzvbi_plugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\libzvbi_plugin.dll",
+    "checksum": "173d2e841bdc5f42e7eebd810b9b268ae3f9c066a48656737b1b3ebde4636773"
+  },
+  {
+    "name": "lib_burst_generated.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\lib_burst_generated.dll",
+    "checksum": "0d7360d2addd3121f8dc3841928d116b893f266e0c0b8719d92cbc32b46461b6"
+  },
+  {
+    "name": "Live2DCubismCore.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\Live2DCubismCore.dll",
+    "checksum": "c581253fcf1a97b4bb41b724718ddb2068138d7c93754452272d1db3d8e27226"
+  },
+  {
+    "name": "UnityHidApiPlugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\UnityHidApiPlugin.dll",
+    "checksum": "2ddbbc6962eeee0f30782a1ccc68177379dec4a09a6c86964bf5bc42ae56604b"
+  },
+  {
+    "name": "UnityTouchPanelApiPlugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\UnityTouchPanelApiPlugin.dll",
+    "checksum": "f2f0d5f77b566e63790cc5d4ec301ebbff7a0b0c0b3b114a893ef853de0d3e91"
+  },
+  {
+    "name": "VLCUnityPlugin.dll",
+    "filePath": "MajdataPlay_Data\\Plugins\\x86_64\\VLCUnityPlugin.dll",
+    "checksum": "4097d637f37b9596b3ad4bcf59e94b12c0db21bb655eac014790dc5aa03ac8e1"
+  },
+  {
+    "name": "unity default resources",
+    "filePath": "MajdataPlay_Data\\Resources\\unity default resources",
+    "checksum": "d6c3c5465ee5f1d3479af42c0833754a6f0b6c2897bc0bf35d37d944b1ea258b"
+  },
+  {
+    "name": "unity_builtin_extra",
+    "filePath": "MajdataPlay_Data\\Resources\\unity_builtin_extra",
+    "checksum": "70d8e14e926b27975e1ff92bec5377ec2c50b34b67d3cb8682895c1f6b700838"
+  },
+  {
+    "name": "resources.assets",
+    "filePath": "MajdataPlay_Data\\resources.assets",
+    "checksum": "b0d7e24f5958974e699e6da1f990438be27f2780bee6932b663ef48cae659dcd"
+  },
+  {
+    "name": "resources.assets.resS",
+    "filePath": "MajdataPlay_Data\\resources.assets.resS",
+    "checksum": "ed8c1aaed756f3349a762fe8195590f90feebb14e782da874c93ac593d463bce"
+  },
+  {
+    "name": "RuntimeInitializeOnLoads.json",
+    "filePath": "MajdataPlay_Data\\RuntimeInitializeOnLoads.json",
+    "checksum": "6d0f1b622752258bfdc408353aa5874ae3a5fec9de1ac54ce061f0ed125391b7"
+  },
+  {
+    "name": "ScriptingAssemblies.json",
+    "filePath": "MajdataPlay_Data\\ScriptingAssemblies.json",
+    "checksum": "753e2af8060c3bb096042a02bc64a848ae021d6d78bb2af250c27470d6f02ebc"
+  },
+  {
+    "name": "sharedassets0.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets0.assets",
+    "checksum": "7a07a00166b9e6ce7e7871775215e20ed5d5ef0ae251427b27bed4d0bd7fad3d"
+  },
+  {
+    "name": "sharedassets0.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets0.assets.resS",
+    "checksum": "6fa408a469ce6ff406f54127e1b000c8d7e6262dac130017ed65709d8ce124b8"
+  },
+  {
+    "name": "sharedassets1.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets1.assets",
+    "checksum": "0b986b434100dfe62aab8447fa70222a561a70c98a029d4d8d1cd441f0a8bf68"
+  },
+  {
+    "name": "sharedassets1.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets1.assets.resS",
+    "checksum": "cac9af69aefcfbd253afa4ea419208e79d0d9137a177407e9361df780db24e32"
+  },
+  {
+    "name": "sharedassets10.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets10.assets",
+    "checksum": "a4da7b5455e2a0cd4bf8020bf63b19a929b0bede2cdf1aed6600420dbdbadb1f"
+  },
+  {
+    "name": "sharedassets11.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets11.assets",
+    "checksum": "44d9f66880b3885ce91f5e443d1997e588622d5a555fb2d74fc2ef1dc1d9aeb2"
+  },
+  {
+    "name": "sharedassets12.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets12.assets",
+    "checksum": "5ae88344e5dacff8ab20cb48eb0de92d34257d946f3740906e151cc865b04038"
+  },
+  {
+    "name": "sharedassets2.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets2.assets",
+    "checksum": "e009bd07a653e42a810e0b0cd3e5cb0bf0a0ad2b26ef0fe01062dce0a4793dcc"
+  },
+  {
+    "name": "sharedassets2.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets2.assets.resS",
+    "checksum": "dcb31fcf316f1a1e8edbdec3bc6a4c3b3811223cd1350c9b6d09ef5e539f70b6"
+  },
+  {
+    "name": "sharedassets3.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets3.assets",
+    "checksum": "1dd4ee2f88329b50674a9e294b1043076487d22ce30fd41b6e29f329e454fd5a"
+  },
+  {
+    "name": "sharedassets3.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets3.assets.resS",
+    "checksum": "208d41730d859ab32865c08f8ffdaebed51a9ad4589f210b2e7c285fb9d9b9af"
+  },
+  {
+    "name": "sharedassets4.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets4.assets",
+    "checksum": "5a8479106d00f1649182a5e7d747dda2cea1cc231fa9ddcea71d2cfbc5a3b1cc"
+  },
+  {
+    "name": "sharedassets4.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets4.assets.resS",
+    "checksum": "b587402c563a1c945466fb53a292796c392eba8d004c95fddfbd75f4986e5f93"
+  },
+  {
+    "name": "sharedassets5.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets5.assets",
+    "checksum": "5ac4f33676becc02fef7b806e71dadadcbfbb347f70208b8faf4d4b91937f1c2"
+  },
+  {
+    "name": "sharedassets5.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets5.assets.resS",
+    "checksum": "b90a042a0ca256c249d3847bdfcb797c20450c58889aa12445576b2f4aff2a36"
+  },
+  {
+    "name": "sharedassets6.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets6.assets",
+    "checksum": "2a83684f57c04d247f58fa29b3a7fde8c375320246fcc452549d0f0b7e8e1c85"
+  },
+  {
+    "name": "sharedassets6.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets6.assets.resS",
+    "checksum": "11acccd400cddb42ca8a7da0b5650684ee8aa4f2912bf2d6973976cab749d27e"
+  },
+  {
+    "name": "sharedassets7.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets7.assets",
+    "checksum": "ba25569562df40e7af7c55c644b1a3d0a4d9d3bd4ff203d1155154f704f1c8ac"
+  },
+  {
+    "name": "sharedassets7.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets7.assets.resS",
+    "checksum": "b347cd0991a77684a60d953cf9c913191614ad55341148cb9373c980bf2b35c9"
+  },
+  {
+    "name": "sharedassets8.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets8.assets",
+    "checksum": "39842b0c6865511171ceffa2cc2135243a3bb6e9f57ce2fbf743b300e1a307b0"
+  },
+  {
+    "name": "sharedassets8.assets.resS",
+    "filePath": "MajdataPlay_Data\\sharedassets8.assets.resS",
+    "checksum": "28db4b6038bd8ef90c72fe1341c4c9ec192990283ea5ac4cfa4e6594a69e7cb4"
+  },
+  {
+    "name": "sharedassets9.assets",
+    "filePath": "MajdataPlay_Data\\sharedassets9.assets",
+    "checksum": "84e3d29f9b86dc3fe1611dcb54dcc661f2c0169a869bf85fd20a2ea9ee5329bb"
+  },
+  {
+    "name": "en-US.json",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Langs\\en-US.json",
+    "checksum": "5904d271642ed8af0227e815c4821df04d656bc233083a01fce038c67e8dddc1"
+  },
+  {
+    "name": "ja-JP.json",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Langs\\ja-JP.json",
+    "checksum": "fe40c9ef77b482be6ce477278e323e4ee0636e38de673cdef7580ccc6dec15eb"
+  },
+  {
+    "name": "zh-CN.json",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Langs\\zh-CN.json",
+    "checksum": "60e73651b951d6cd8ad176df88d22e517b626b3c99fb01448458dc75e0e3512d"
+  },
+  {
+    "name": "zh-TW.json",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Langs\\zh-TW.json",
+    "checksum": "ec5b83f7c161ed5b43985e19059cfdb16341fd083f6604770dd87f1e78622a44"
+  },
+  {
+    "name": "mod.json",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Mods\\mod.json",
+    "checksum": "d2478e8b6aafb5ea08a3d6029b630ecc6cb13402f890551bc8804fc4ff59c0e6"
+  },
+  {
+    "name": "allperfect.mp4",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\MovieBG\\allperfect.mp4",
+    "checksum": "260a1bb25f2fc4726d2c234b0c77a859c044fcbfb0fe8112eddcf3dae7908382"
+  },
+  {
+    "name": "fullcombo.mp4",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\MovieBG\\fullcombo.mp4",
+    "checksum": "cf5e8ddba5fd323b66a98130773aeddbce46c60fc184b78d1230f2a15fac6b2b"
+  },
+  {
+    "name": "title.mp4",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\MovieBG\\title.mp4",
+    "checksum": "6aadaa3b07f01fdb9a83176a5b0886687b68ef85b6c572abedc1316053795275"
+  },
+  {
+    "name": "answer.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\answer.wav",
+    "checksum": "a32bc555f43f642a77bddcc913fde9ffcb0d5b03d5f69a8829a79b6747c42f89"
+  },
+  {
+    "name": "answer_clock.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\answer_clock.wav",
+    "checksum": "410796d7ffe5dd98413f90b821b4569fd2e4644057e9b5128670a6778a62dbad"
+  },
+  {
+    "name": "bgm_dan.mp3",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\bgm_dan.mp3",
+    "checksum": "7b7986a9fcaced090c747dd2815d2592b2c5525c7d8f59b09b27af49d4763af5"
+  },
+  {
+    "name": "bgm_explosion.mp3",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\bgm_explosion.mp3",
+    "checksum": "d7a93af5a487bfb91281e1f1c2b7bda4111061350b5dcadd55b4029de1c9c69d"
+  },
+  {
+    "name": "bgm_result.mp3",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\bgm_result.mp3",
+    "checksum": "454f74005312a8bac8d054ac644c59963cbc3c9f64e2a5e8eb0c58309a86a903"
+  },
+  {
+    "name": "bgm_select.mp3",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\bgm_select.mp3",
+    "checksum": "cb243157b3a5df8c625e4155ab770a4dc5aeeced0883009530f5a6d09e26b331"
+  },
+  {
+    "name": "bgm_title.mp3",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\bgm_title.mp3",
+    "checksum": "a5840279210fb38a979278553747f362fd2e6daac0030295d73bc468185f9b76"
+  },
+  {
+    "name": "break.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\break.wav",
+    "checksum": "a67dcaafc003b9179d2a8688698e40bef909da21add6876c98bcc870bc49bc79"
+  },
+  {
+    "name": "break_slide.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\break_slide.wav",
+    "checksum": "09852794a9a24c6079c15b6edec7c4ee671a944ca727946ad83b2432d78aa711"
+  },
+  {
+    "name": "break_tap.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\break_tap.wav",
+    "checksum": "a668d815c452d5b6edcbcedc2764f1e1a08a7a53cbab3a95536c0b9e555cf333"
+  },
+  {
+    "name": "slide.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\slide.wav",
+    "checksum": "2c5940fe9d5fd2f071f210365dd4419d99eb31869f52cef425358da9398df655"
+  },
+  {
+    "name": "slide_break_slide.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\slide_break_slide.wav",
+    "checksum": "29cdf31e1a7fc52877715ca064ce19119f6aa47eebde88fa62429f0209851457"
+  },
+  {
+    "name": "slide_break_start.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\slide_break_start.wav",
+    "checksum": "96654e59f4bf1043360ef9d9a28f5a502a2f923fcf2a7d5bb1dbddf03ef60f52"
+  },
+  {
+    "name": "tap_ex.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\tap_ex.wav",
+    "checksum": "21c380bf2a3eccf4e3202bb250adea80406bd9e845b970d55a05b65a649aaeda"
+  },
+  {
+    "name": "tap_good.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\tap_good.wav",
+    "checksum": "eb127609f2e8c4ef820fa4aade9803413769c1901a086b069dae67855b74ed2c"
+  },
+  {
+    "name": "tap_great.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\tap_great.wav",
+    "checksum": "0f69ca1c522831d7a30030fcca107206725fd379d8120594c1989e7b74ca1399"
+  },
+  {
+    "name": "tap_perfect.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\tap_perfect.wav",
+    "checksum": "15f84fa2d2562ce87c3412ff670282f99294e914fa67740bc522f77c6a4c599e"
+  },
+  {
+    "name": "touch.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\touch.wav",
+    "checksum": "c02739a195c65a848d8a79dd5ab0e38388174d43f67dc539f565eb504f3784a4"
+  },
+  {
+    "name": "touch_hanabi.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\touch_hanabi.wav",
+    "checksum": "8052100bf98b699bb2da27fa7f8ea3ae4853188654c7fddc315a70885cdea25c"
+  },
+  {
+    "name": "touch_Hold_riser.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\SFX\\touch_Hold_riser.wav",
+    "checksum": "22248e85cd56b6a1ee2a3c39cdd80aab93e1dd18aad1940d9e0dcc2fae017deb"
+  },
+  {
+    "name": "advanced.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\advanced.wav",
+    "checksum": "0e51d208e1350461151381a6be3c08f39bdd755be70c4118848906b73b329d81"
+  },
+  {
+    "name": "all_perfect.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\all_perfect.wav",
+    "checksum": "76b66825ad217fb2357f77adbbf20ec01121c341ea70b9fef6e677dc1f9e0063"
+  },
+  {
+    "name": "all_perfect_plus.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\all_perfect_plus.wav",
+    "checksum": "11599737250f8588b8df6761a264470b665e7cf8430fba87dc9b0e98807cd255"
+  },
+  {
+    "name": "ap_comment.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\ap_comment.wav",
+    "checksum": "85325a7a6997cff9cce4b95f0913daed9aff118ed8c2f14ed62cbd9a8734819d"
+  },
+  {
+    "name": "ap_comment_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\ap_comment_2.wav",
+    "checksum": "f633be6528f69709c5db7358a0d206e4d7dcae51e9bf6ea7c24c2b133e99300f"
+  },
+  {
+    "name": "basic.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\basic.wav",
+    "checksum": "c7a856ce67950d23e7379b6ce5880f0fb3a412391130258e5dba86721aa6bd83"
+  },
+  {
+    "name": "challenge_clear.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\challenge_clear.wav",
+    "checksum": "f427770e4df017b553e17c6c13a64283295853717bbcfc31cb9c2b4b6999b9fc"
+  },
+  {
+    "name": "challenge_fail.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\challenge_fail.wav",
+    "checksum": "1e0f9f8508fbe60cf35ec9282d0651b9ed1887289397b36423e7dd86713a65ba"
+  },
+  {
+    "name": "challenge_mode.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\challenge_mode.wav",
+    "checksum": "a0f30020a691708c855fd896d538ae80f1c6c9198387eec694320fcf74d93fa8"
+  },
+  {
+    "name": "clear.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\clear.wav",
+    "checksum": "6f5b1d836e733bc349787eb55651802faad3dac02cd3a4963ea90f34963f5435"
+  },
+  {
+    "name": "clear_comment.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\clear_comment.wav",
+    "checksum": "bdbb38910365ba46e52396c40f3f0410feb0ccf8e48fae1c4831fd91d4738f2b"
+  },
+  {
+    "name": "clear_comment_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\clear_comment_2.wav",
+    "checksum": "6178f8816cfe14496604199c1ca26ebc2f55e3fa42f08e8be614d6be3a807420"
+  },
+  {
+    "name": "clear_comment_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\clear_comment_3.wav",
+    "checksum": "a172a71e2bc03d4985b41f8f9b08c3cbef15e588db265868b7ebd6203cfb0e6e"
+  },
+  {
+    "name": "clear_comment_4.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\clear_comment_4.wav",
+    "checksum": "46fb900dcb6045ad066a17b3807492ebe7c7ac92d7b8ab5bec466402e5d645c4"
+  },
+  {
+    "name": "dianzan_comment.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\dianzan_comment.wav",
+    "checksum": "71b377c3cdabb94e589cf16f36ddc2d64790c82eeffcf9067c170952635c7610"
+  },
+  {
+    "name": "dianzan_comment_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\dianzan_comment_2.wav",
+    "checksum": "740966d4da6181edfad0f97bb66a128937ebc5a5059fec5af87ad0e0dee874f3"
+  },
+  {
+    "name": "dianzan_comment_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\dianzan_comment_3.wav",
+    "checksum": "f4f8ef88f9305bd729f5b954d32503d3be3419409597ac95746d740f08746037"
+  },
+  {
+    "name": "dian_zan.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\dian_zan.wav",
+    "checksum": "b6cf76bc0ba6746228bb0af1341b185b2de6b2b09a363e962d0f535062990783"
+  },
+  {
+    "name": "easy.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\easy.wav",
+    "checksum": "ca94a37b4853aa651f27e82dd08b66afbc12318dbde7b7414b681444c33d0f35"
+  },
+  {
+    "name": "expert.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\expert.wav",
+    "checksum": "5c6a62a934b746133a0b3292111b8c5b7c75ff162fdc8a89c5ebe1bc1804084a"
+  },
+  {
+    "name": "fail_comment.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fail_comment.wav",
+    "checksum": "98fd3bd05173fbb83742e4430ec48120695304fe43d4c21cda9324fd7cade617"
+  },
+  {
+    "name": "fail_comment_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fail_comment_2.wav",
+    "checksum": "e3f4f7b8626f31ab58c890680990566a4680a39109a96b12f0c77baf08a0aa34"
+  },
+  {
+    "name": "fail_comment_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fail_comment_3.wav",
+    "checksum": "8bf92a2e3b46e96fac28ccb5770240ea4c1ffc328db020985270dafe5ca88ef8"
+  },
+  {
+    "name": "fail_comment_4.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fail_comment_4.wav",
+    "checksum": "42859c23649fd82d13ce40f69cc8b80ea8250b2338f16844ee315dccc47cfa56"
+  },
+  {
+    "name": "fail_comment_5.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fail_comment_5.wav",
+    "checksum": "56d4f9bdf61081ebbf0775f125dc503accc57ea4a037f4e291443e18881d2db7"
+  },
+  {
+    "name": "fc_comment.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fc_comment.wav",
+    "checksum": "4150596a104bf3c0d894dff2515ae0faafb32020b61748f928c254903415d448"
+  },
+  {
+    "name": "fc_comment_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\fc_comment_2.wav",
+    "checksum": "ba191f5ed40f4e135b1caf9848c6750c99fef43e6087a5d7c4cbfcbdc4cf3345"
+  },
+  {
+    "name": "full_combo.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\full_combo.wav",
+    "checksum": "6b99b0b0b3bc90103e72e352c62c835db18bcae67a1df502ba5954e4a380932c"
+  },
+  {
+    "name": "full_combo_plus.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\full_combo_plus.wav",
+    "checksum": "a753886545bd03d2015ee960f5e68b56de61bf2678c4586f092c4918e4ee6d60"
+  },
+  {
+    "name": "game_init.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\game_init.wav",
+    "checksum": "eb4da0a759377cb471ec5dab03845f4dc9da1caa3ee8081c6fb4c6c7505b9dc6"
+  },
+  {
+    "name": "game_init_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\game_init_2.wav",
+    "checksum": "0b74f561057bcfc00d3b7297c07ffdaa4a7c3ef62a63f8609d18c756ebb14914"
+  },
+  {
+    "name": "game_init_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\game_init_3.wav",
+    "checksum": "899abfb856d3d2ede8dda1945999cdd8c4052b89c159992e46e559c50ecd1ca4"
+  },
+  {
+    "name": "MajdataPlay.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\MajdataPlay.wav",
+    "checksum": "99d9e19e8e2d110dd8cd1f6d52498976b8264c44ff505dc504f543de6e6e782b"
+  },
+  {
+    "name": "master.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\master.wav",
+    "checksum": "e0f7fbf3d17f03fa727c69d2eb09a9fdcd0d010e45e0451a198b1ba69e111f8c"
+  },
+  {
+    "name": "no_touch.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch.wav",
+    "checksum": "375f8fca3916d0714fb039871bee12982dddde409631b83403d75f55d2efde7c"
+  },
+  {
+    "name": "no_touch_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch_2.wav",
+    "checksum": "1efdffc6dd76f7e1e15fd6a82d090df321ebcd8e1daadf3e5fd3f92a8411799d"
+  },
+  {
+    "name": "no_touch_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch_3.wav",
+    "checksum": "c309115ced6b853c551c3225f75723f6db8f24c085063d623f7223e01ba37e38"
+  },
+  {
+    "name": "no_touch_4.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch_4.wav",
+    "checksum": "4311be0b9e28cc1bf9d6e66c450dd012e1b9ebffa401541d403a6af8cfe29548"
+  },
+  {
+    "name": "no_touch_5.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch_5.wav",
+    "checksum": "04ea87cc065a72533fe240efb23ec27b569ac6a8b5b05cb53dc307c7001beaa9"
+  },
+  {
+    "name": "no_touch_6.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch_6.wav",
+    "checksum": "6c38bbf36dddaba56e4739b9d4341bc4f4d0cb66703e6aa098ae17aebf67cc38"
+  },
+  {
+    "name": "no_touch_7.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\no_touch_7.wav",
+    "checksum": "93ba7eb5f5040ba638bea0b50b559a401d5b783fc811e8ac139b9ed3ff4a9ce2"
+  },
+  {
+    "name": "online_page.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\online_page.wav",
+    "checksum": "d080fb52a8882f4d9f21ed24a660af0d6a8c00dac02ab4887d2feeae33de8cbe"
+  },
+  {
+    "name": "original.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\original.wav",
+    "checksum": "802f630954bc01381a6bb4c8c2af381a1f375d29a83f9f3ef7d4608cfa6f6ad6"
+  },
+  {
+    "name": "remaster.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\remaster.wav",
+    "checksum": "f21c668cc5b671bc48c9b309538e1dc2c2300e02d574e305763280ae550bed77"
+  },
+  {
+    "name": "S+.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\S+.wav",
+    "checksum": "dd2a7b03e1bc81ca98266cf025610c15280455944f106e95cc7845734a88946d"
+  },
+  {
+    "name": "S.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\S.wav",
+    "checksum": "7647c4c735f57855ec98a642532a7749e610fc9172b1cccd8b49a50b6d03e5b0"
+  },
+  {
+    "name": "select_song.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\select_song.wav",
+    "checksum": "0c321b2c54efae51012c57f94a562c001235fe3afcdc1ed247c8211e23b98b67"
+  },
+  {
+    "name": "select_song_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\select_song_2.wav",
+    "checksum": "aa1d309e87e17beb67f9b805b6aa5bee4418818f926d7fda048fb7c657d19df5"
+  },
+  {
+    "name": "select_song_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\select_song_3.wav",
+    "checksum": "b6ab7598840220e842ec35c86b40e27cb5ec26b7521d85f3a363d4342e594b68"
+  },
+  {
+    "name": "select_song_4.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\select_song_4.wav",
+    "checksum": "92b1782c3b94b1cd69bda244c0d49c83887b9c06bd31fb893515729015475863"
+  },
+  {
+    "name": "settings.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\settings.wav",
+    "checksum": "8102eabc46c07895e635e13081191787286aca6bee2383f2c7fb2e4981f44f4a"
+  },
+  {
+    "name": "SS+.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\SS+.wav",
+    "checksum": "fecae31527652ae725fd20b769540ad13626fc0d17ddb1a16ea25cba871290ac"
+  },
+  {
+    "name": "SS.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\SS.wav",
+    "checksum": "b4ce1eda189ae0537abfdcee914d23a454fe0a5d33797c3a67012f8b884561c0"
+  },
+  {
+    "name": "SSS+.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\SSS+.wav",
+    "checksum": "d32d3411e27760c4f9840d8163955ab49d7bc77dd8b7fb14d7be707cf1ebb1f3"
+  },
+  {
+    "name": "SSS.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\SSS.wav",
+    "checksum": "7609d0a8873e801a5744a335432c95df1364a7e5622b28155c21089248039de8"
+  },
+  {
+    "name": "track_start.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\track_start.wav",
+    "checksum": "7463d3a42b22fa543d8970fdfdf1749684689feb0e5087cf1bacd81f14a8c9b3"
+  },
+  {
+    "name": "track_start_2.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\track_start_2.wav",
+    "checksum": "7852e36501bc30ebc832aae5eba773f0031d28423a92271bd1af0fb1a3b11350"
+  },
+  {
+    "name": "track_start_3.wav",
+    "filePath": "MajdataPlay_Data\\StreamingAssets\\Voice\\track_start_3.wav",
+    "checksum": "3c787df637ac2b2ce85a8e70665a0dd614ce7ae2b94d62b2b8f2bdf7f0a759f4"
+  },
+  {
+    "name": "mono-2.0-bdwgc.dll",
+    "filePath": "MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
+    "checksum": "1d57f8789038bbc6721d60785626faa43e34d02be465481a0790b558c9fc819c"
+  },
+  {
+    "name": "MonoPosixHelper.dll",
+    "filePath": "MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll",
+    "checksum": "d755d6b342074df00abd71d4d17b12b90aff83ae5ba34db39e37d5f6b96a582f"
+  },
+  {
+    "name": "Compat.browser",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser",
+    "checksum": "bf4ae2fe630714eee3d7b0a28285a3aa49a6589a3660e58cf7868aca3321a7b1"
+  },
+  {
+    "name": "DefaultWsdlHelpGenerator.aspx",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx",
+    "checksum": "aa24e546fd54337d197b43e9559dc7517187967f794c77b6341ecdcb870460a8"
+  },
+  {
+    "name": "machine.config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\2.0\\machine.config",
+    "checksum": "69bd6d39d5a2eebdcbe5b254382f5a1e0f1e36faaf887b3662b917e0c4dad451"
+  },
+  {
+    "name": "settings.map",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\2.0\\settings.map",
+    "checksum": "842bc14c6e20294aa98cc6180c2a307e724a7fda66f41240a2d83a094665c8cf"
+  },
+  {
+    "name": "web.config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\2.0\\web.config",
+    "checksum": "ca0d0822c3c0892988b478092aed1725bedfc0cdfb7355c4e65a9c590c04f3aa"
+  },
+  {
+    "name": "Compat.browser",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser",
+    "checksum": "bf4ae2fe630714eee3d7b0a28285a3aa49a6589a3660e58cf7868aca3321a7b1"
+  },
+  {
+    "name": "DefaultWsdlHelpGenerator.aspx",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.0\\DefaultWsdlHelpGenerator.aspx",
+    "checksum": "aa24e546fd54337d197b43e9559dc7517187967f794c77b6341ecdcb870460a8"
+  },
+  {
+    "name": "machine.config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.0\\machine.config",
+    "checksum": "cfec8982d3bb8cf0e3b75b18489aca4d8c64e636ca8d1635e23ef8fe3f468e35"
+  },
+  {
+    "name": "settings.map",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.0\\settings.map",
+    "checksum": "52957cf8fbeb4d1e5f545673d67a2c9cb3469d26042a447790d66bcfc07a87ce"
+  },
+  {
+    "name": "web.config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.0\\web.config",
+    "checksum": "daeabcc95541c2d64b561145d16c22ecb189b60dd0c7b772da1ba1cd2542e11c"
+  },
+  {
+    "name": "Compat.browser",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser",
+    "checksum": "bf4ae2fe630714eee3d7b0a28285a3aa49a6589a3660e58cf7868aca3321a7b1"
+  },
+  {
+    "name": "DefaultWsdlHelpGenerator.aspx",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.5\\DefaultWsdlHelpGenerator.aspx",
+    "checksum": "aa24e546fd54337d197b43e9559dc7517187967f794c77b6341ecdcb870460a8"
+  },
+  {
+    "name": "machine.config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.5\\machine.config",
+    "checksum": "886e0013595a43c089ed1a9bf4c4ab46ba5e926dfd99d57a2fde0a117b57ab96"
+  },
+  {
+    "name": "settings.map",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.5\\settings.map",
+    "checksum": "52957cf8fbeb4d1e5f545673d67a2c9cb3469d26042a447790d66bcfc07a87ce"
+  },
+  {
+    "name": "web.config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\4.5\\web.config",
+    "checksum": "4c0219d924266406de100fbc536dfb6e0fb76195e63a0a9e955af966aa0acdab"
+  },
+  {
+    "name": "browscap.ini",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\browscap.ini",
+    "checksum": "f16656075bb34412335ca0b157f30384e15d79167c4dd2ec0fe0b64a51fffb71"
+  },
+  {
+    "name": "config",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\config",
+    "checksum": "10a30fab33053f8ce3c9a3479fd6f6e839ae09124f52e6d7739c7d0f3dcbb114"
+  },
+  {
+    "name": "config.xml",
+    "filePath": "MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml",
+    "checksum": "a1809f956176325c3ab236854789da917e8fd445d863b400272850e1f2336d64"
+  },
+  {
+    "name": "README.md",
+    "filePath": "README.md",
+    "checksum": "ea3d51687bc61f80d0224425c4d46827fee2aa9921e3549158c88e4109d1a285"
+  },
+  {
+    "name": "UnityCrashHandler64.exe",
+    "filePath": "UnityCrashHandler64.exe",
+    "checksum": "500f59169a9ebf1988431f0f803a5581e961f10cda6b19c4b799867723993453"
+  },
+  {
+    "name": "UnityPlayer.dll",
+    "filePath": "UnityPlayer.dll",
+    "checksum": "4ac43faaaf073a9a89e279e9ded47981d818b4ce2450c8aa418e5ae074715db5"
+  },
+  {
+    "name": "启动Edit.bat",
+    "filePath": "启动Edit.bat",
+    "checksum": "c50d98744762d8ccf5b93f4b88f74568dee16ade6ec88ff6a9581e405c485f4d"
+  },
+  {
+    "name": "强制使用D3D11.bat",
+    "filePath": "强制使用D3D11.bat",
+    "checksum": "d915d10529a8289f41aebd5e933e100287e52b8d30f067c5122723b1361cf717"
+  },
+  {
+    "name": "强制使用D3D12.bat",
+    "filePath": "强制使用D3D12.bat",
+    "checksum": "6c5458e17a95e0c39318c04d2c29fe6eb0cb90194439db39b1dc83250f32cdef"
+  },
+  {
+    "name": "强制使用OpenGL.bat",
+    "filePath": "强制使用OpenGL.bat",
+    "checksum": "ffc4802b35c878d62d41acfbaffa2ce60e99729eb487dee45648bce47406225b"
+  },
+  {
+    "name": "强制使用Vulkan.bat",
+    "filePath": "强制使用Vulkan.bat",
+    "checksum": "1451e4cb7dbc72349a67273af7957e0c11405bd6eb9918338b081fb46d46d4aa"
+  },
+  {
+    "name": "进入测试模式.bat",
+    "filePath": "进入测试模式.bat",
+    "checksum": "7793febd3c3a6051dc729436fe2606e226edc9a700c76f1a8d4562ae06581dd0"
+  }
+]

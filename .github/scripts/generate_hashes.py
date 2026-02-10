@@ -6,10 +6,12 @@ from pathlib import Path
 
 # 输出文件
 OUTPUT_FILE = "hashes.json"
+OUTPUT_FILE2 = "smallest_hashes.json"
 README_FILE = "README.md"
 
+
 # 要排除的文件
-EXCLUDE_FILES = {OUTPUT_FILE, README_FILE}
+EXCLUDE_FILES = {OUTPUT_FILE, OUTPUT_FILE2, README_FILE, "hash.ts", "package.json", "pnpm-lock.yaml", "tsconfig.json", ".gitignore"}
 
 # 根目录（仓库根）
 ROOT = Path(".").resolve()
@@ -33,8 +35,7 @@ def main():
         if not file_path.is_file():
             continue
 
-        # 跳过 .git 目录
-        if ".git" in file_path.parts or ".github" in file_path.parts:
+        if ".git" in file_path.parts or ".github" in file_path.parts or "node_modules" in file_path.parts:
             continue
 
         # 跳过排除的文件
