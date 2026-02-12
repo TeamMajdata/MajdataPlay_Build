@@ -2,11 +2,14 @@
 
 ## 特别注意
 
-*我们不提倡使用Majplay游玩本家谱面，请支持街机游戏*
-
-*请勿将其他软件的游玩视频标为Majplay，但是当然欢迎你分享真Majplay的游玩视频！*
-
-*本软件为开源免费软件，开发者不做任何保证*
+> \[!NOTE]
+> *我们不提倡使用Majplay游玩本家谱面，请支持街机游戏*
+> 
+> *请勿将其他软件的游玩视频标为Majplay，但是当然欢迎你分享真Majplay的游玩视频！*
+> 
+> *本软件为开源免费软件，开发者不做任何保证*
+> 
+> 本仓库为分发仓库, 提交软件相关的Issue请前往 [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay)
 
 ## 下载PC版
 
