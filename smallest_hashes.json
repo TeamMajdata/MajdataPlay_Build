@@ -3890,11 +3890,6 @@
     "checksum": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
   },
   {
-    "name": "README.md",
-    "filePath": "README.md",
-    "checksum": "d51c3df4b027fdb56f7b435d412e146fcf8e620ce6b90163adc3e29d8dd89df0"
-  },
-  {
     "name": "UnityCrashHandler64.exe",
     "filePath": "UnityCrashHandler64.exe",
     "checksum": "500f59169a9ebf1988431f0f803a5581e961f10cda6b19c4b799867723993453"
