@@ -2,10 +2,9 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as crypto from 'crypto';
 
-const ROOT_EXCLUDE_FILES = ["smallest_hashes.json", 
-    "hashes.json", "hash.ts", "package.json", "pnpm-lock.yaml", 
-    "tsconfig.json", ".gitignore", ".github", ".git", "node_modules",
-    "MaiCharts","Skins","README.md"];
+const ROOT_EXCLUDE_FILES = ["smallest_hashes.json", "hash.ts", "package.json", "pnpm-lock.yaml",
+  "tsconfig.json", ".gitignore", ".github", ".git", "node_modules",
+  "MaiCharts", "Skins", "README.md"];
 
 // 计算文件的 SHA256 校验和
 export function getFileChecksum(filePath: string): Promise<string> {
