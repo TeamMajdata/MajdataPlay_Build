@@ -1,29 +1,32 @@
-<img width="250" alt="icon_0002" src="https://github.com/user-attachments/assets/0a6c4692-658a-4361-a152-ac10d0b3ed93" />
+<div align="center"><img width="512" alt="icon_0002" src="https://github.com/user-attachments/assets/0a6c4692-658a-4361-a152-ac10d0b3ed93" /></div>
 
 ## 特别注意
 
 > \[!NOTE]
 > *我们不提倡使用Majplay游玩本家谱面，请支持街机游戏*
-> 
+>
 > *请勿将其他软件的游玩视频标为Majplay，但是当然欢迎你分享真Majplay的游玩视频！*
-> 
+>
 > *本软件为开源免费软件，开发者不做任何保证*
-> 
+>
 > 本仓库为分发仓库, 提交软件相关的Issue请前往 [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay)
 
 ## 下载PC版
 
+### 使用 Majdata Hub
+
+[下载 Majdata Hub](https://github.com/KirisameVanilla/MajdataHub/releases/latest)
+
 ### 使用直链下载
 
-* [GitHub提供的直链(可能需要挂梯子)](https://github.com/TeamMajdata/MajdataPlay_Build/archive/refs/heads/master.zip)
+<div>
+<a href=https://github.com/TeamMajdata/MajdataPlay_Build/archive/refs/heads/main.zip>海外推荐(GitHub)</a>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<a href=https://cnb.cool/TeamMajdata/MajdataPlay_Build/-/git/archive/LATEST.zip>国内推荐(腾讯CNB)</a>
+</div>
+or
 
-* [Cloudflare代理过的直链(可能不需要挂梯子)](https://ghproxy.vanillaaaa.org/https://github.com/TeamMajdata/MajdataPlay_Build/archive/refs/heads/master.zip)
-
-* [LeZi's Storage(应该不需要挂梯子)](https://storage.leziblog.com/MajdataPlay)
-
-### 使用更新器
-
-* [下载更新器](https://majdataplay.work/Updater/MajdataPlayUpdater.Desktop.exe)
+[LeZi's Storage(应该不需要挂梯子)](https://storage.leziblog.com/MajdataPlay)
 
 ### 使用 git 下载
 
@@ -48,7 +51,7 @@ git clone https://github.com/TeamMajdata/MajdataPlay_Build.git
 
 ## 社群
 
-* QQ群 667644338
+* [QQ群 667644338](https://qm.qq.com/q/UmWlxCho4M)
 * [Discord](https://discord.gg/AcWgZN7j6K)
 * [Majnet](https://majdata.net/)
 
@@ -64,4 +67,4 @@ git clone https://github.com/TeamMajdata/MajdataPlay_Build.git
 * MajdataEdit-neo (WIP) [带语法高亮的新谱面编辑器](https://github.com/LingFeng-bbben/MajdataEdit-Neo)
 * MajdataView (Legacy) [Non-C](https://github.com/TeamMajdata/MajdataView) [Classic](https://github.com/LingFeng-bbben/MajdataView) [X_by_Re_poem](https://github.com/re-poem/MajdataViewX)
 * MajdataEdit (Legacy) [WPF](https://github.com/LingFeng-bbben/MajdataEdit)
-* MajdataPlayUpdater [更新器](https://github.com/KirisameVanilla/Majdataplayupdater)
+* MajdataHub [Majdata Hub(可用于下载更新游戏, 下载谱面, 下载皮肤)](https://github.com/KirisameVanilla/MajdataHub)
