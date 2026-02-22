@@ -19,23 +19,21 @@ jobs:
         with:
           fetch-depth: 0  # 获取完整历史
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Run generate-hashes.py
-        run: python .github/scripts/generate_hashes.py
-
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
           version: 10
+
       - name: Use Node.js 24
         uses: actions/setup-node@v4
         with:
           node-version: 24.x
           cache: "pnpm"
+
+      - name: Move Scripts to Root
+        run: |
+          mv .github/scripts/* ./
+
       - name: Install dependencies
         run: pnpm install
 
@@ -46,5 +44,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update hashes.json for tag ${{ github.ref_name }}"
-          file_pattern: 'hashes.json smallest_hashes.json'
+          file_pattern: 'smallest_hashes.json'
           branch: master
