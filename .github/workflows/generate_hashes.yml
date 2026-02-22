@@ -19,6 +19,10 @@ jobs:
         with:
           fetch-depth: 0  # 获取完整历史
 
+      - name: Move Scripts to Root
+        run: |
+          mv .github/scripts/* ./
+
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
@@ -29,10 +33,6 @@ jobs:
         with:
           node-version: 24.x
           cache: "pnpm"
-
-      - name: Move Scripts to Root
-        run: |
-          mv .github/scripts/* ./
 
       - name: Install dependencies
         run: pnpm install
