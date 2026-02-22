@@ -41,11 +41,19 @@ jobs:
         run: pnpm hash
 
       - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update hashes.json for tag ${{ github.ref_name }}"
-          file_pattern: 'smallest_hashes.json'
-          branch: main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add smallest_hashes.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update hashes.json for tag ${{ github.ref_name }}"
+            git push origin --all --force
+          fi
+          git tag -d LATEST 2>/dev/null || true
+          git tag LATEST
+          git push origin --tags --force
 
       - name: Add mirror remote (with token)
         env:
