@@ -15,7 +15,11 @@
 
 ### 使用 Majdata Hub
 
-[下载 Majdata Hub](https://github.com/KirisameVanilla/MajdataHub/releases/latest)
+<div>
+<a href=https://github.com/KirisameVanilla/MajdataHub/releases/latest>海外推荐(GitHub)</a>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<a href=https://cnb.cool/TeamMajdata/MajdataHub-Build>国内推荐(腾讯CNB)</a>
+</div>
 
 ### 使用直链下载
 
