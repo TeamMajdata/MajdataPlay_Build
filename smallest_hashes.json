@@ -22,12 +22,12 @@
   {
     "name": "Assembly-CSharp.dll",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll",
-    "checksum": "fc456bc408bdc36c07bbbe0a78269b9fa5fbba0b24ae549948aa32fec2c5669e"
+    "checksum": "fe2adcf4c100eef07cce87adbe40168567ebfc7cda277b349490e7a5b2bf0f21"
   },
   {
     "name": "Assembly-CSharp.pdb",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb",
-    "checksum": "6a17885bacfd7cf283c373482ca86e5aab22dc9eefbe0e8f2daf16daba86951c"
+    "checksum": "015202c38a1221b92fa083cc9a5bd6520ecd3b08f12335899782daa1e9e65b69"
   },
   {
     "name": "AsyncLock.dll",
@@ -292,12 +292,12 @@
   {
     "name": "Newtonsoft.Json.dll",
     "filePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll",
-    "checksum": "dbc223967c0546f83fd6d5488f6d69eb08026c7c7a64d978b19d75b9d939dcbd"
+    "checksum": "e45867ba952d4f078282ad66114543a2eefd521f52cf55df7c29fef316c59d77"
   },
   {
     "name": "Newtonsoft.Json.pdb",
     "filePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.pdb",
-    "checksum": "8780dd8143d60e83015a3609b9c2f61eaf37fcea2de35c6d234b4f90983a9863"
+    "checksum": "f556ff5983935aebc636ea4641be4f4006b5847aae0e56690f0e3383f60f92d2"
   },
   {
     "name": "QRCoder.dll",
@@ -4842,12 +4842,12 @@
   {
     "name": "boot.config",
     "filePath": "MajdataPlay_Data/boot.config",
-    "checksum": "52b94b7042539e718cba58135ca4fd1d05c74e6c97d48613f3bb0a9520e12f79"
+    "checksum": "5118487c793a2a98783db4bcff5982102198cc422f6a564346ecf533277e4584"
   },
   {
     "name": "globalgamemanagers",
     "filePath": "MajdataPlay_Data/globalgamemanagers",
-    "checksum": "505c7564aab39d90ab743c7d4f948941e36147e4eb49aa9e45a9b253a3ab868e"
+    "checksum": "084b856a71e8cdb04becb42341c0a3e358e007cd1bcaa7ab40b5eeb9a75e7f2e"
   },
   {
     "name": "globalgamemanagers.assets",
@@ -4937,7 +4937,7 @@
   {
     "name": "sharedassets0.assets",
     "filePath": "MajdataPlay_Data/sharedassets0.assets",
-    "checksum": "53cad92443d962906a5ded5ce563e073ec0ba02f764720a9dc4b5ff54e54154a"
+    "checksum": "7bbc4158ea46edd33995ee2a22a3c38a18e335f1fa8f95a84fd3b8d19e2491b0"
   },
   {
     "name": "sharedassets0.assets.resS",
@@ -4972,7 +4972,7 @@
   {
     "name": "sharedassets2.assets",
     "filePath": "MajdataPlay_Data/sharedassets2.assets",
-    "checksum": "217711a910665fe0e357d34b264db734a672fd8e9fd1c32a9096c5458c1bb12a"
+    "checksum": "37f7dcf5c42c5f93efbe611322195a479d0caa853aeee0f4a03a41df575cd380"
   },
   {
     "name": "sharedassets2.assets.resS",
@@ -4982,7 +4982,7 @@
   {
     "name": "sharedassets3.assets",
     "filePath": "MajdataPlay_Data/sharedassets3.assets",
-    "checksum": "0e2670b247426b6e871bd880967d87f15a9cdbf5281c07b9540a4035dd6d6122"
+    "checksum": "b14db51821db75c839e2f96134b7128aa28e91706e843067575f08b3e74e6691"
   },
   {
     "name": "sharedassets3.assets.resS",
@@ -4992,7 +4992,7 @@
   {
     "name": "sharedassets4.assets",
     "filePath": "MajdataPlay_Data/sharedassets4.assets",
-    "checksum": "ad5ca0e1ea7b34a1f31ab66c34e3211912653c7d001a958ae7ed00e368fc2f00"
+    "checksum": "b7b4f867cece7cbe3556ea10bb14635213e9b26441710196f0de1e0b733b8994"
   },
   {
     "name": "sharedassets4.assets.resS",
