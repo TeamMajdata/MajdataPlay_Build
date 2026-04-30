@@ -1,0 +1,50 @@
+name: Update From Nightly Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: "Target branch to update"
+        required: true
+        default: "main"
+
+permissions:
+  contents: write
+
+jobs:
+  update-nightly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.target_branch }}
+
+      - name: Download nightly package
+        run: |
+          curl -fL "https://github.com/LingFeng-bbben/MajdataPlay/releases/latest/download/MajdataPlay-StandaloneWindows64-nightly.zip" -o "MajdataPlay-StandaloneWindows64-nightly.zip"
+
+      - name: Extract and overwrite repository root
+        run: |
+          rm -rf .tmp_nightly
+          mkdir -p .tmp_nightly
+          unzip -q -o "MajdataPlay-StandaloneWindows64-nightly.zip" -d .tmp_nightly
+          if [ ! -d ".tmp_nightly/StandaloneWindows64" ]; then
+            echo "Expected folder .tmp_nightly/StandaloneWindows64 not found"
+            exit 1
+          fi
+          rsync -a .tmp_nightly/StandaloneWindows64/ ./
+          rm -rf .tmp_nightly "MajdataPlay-StandaloneWindows64-nightly.zip"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync from latest nightly"
+            git push origin HEAD:${{ inputs.target_branch }}
+          fi
