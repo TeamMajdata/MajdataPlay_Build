@@ -17,22 +17,22 @@
   {
     "name": "Assembly-CSharp-firstpass.dll",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp-firstpass.dll",
-    "checksum": "b6ade3bdfc91b4f3d59922159aeaf0c3ef185a1807e570a751f34dd85572db35"
+    "checksum": "8ec01d3b94d6f06110e6ac97107bd78e2e27966bb1d0a967551e66596774cbf2"
   },
   {
     "name": "Assembly-CSharp-firstpass.pdb",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp-firstpass.pdb",
-    "checksum": "6f25526593488a3ae92a999d4815ae5ea5e56d7d9b89991cd9736827b5d4968f"
+    "checksum": "4eec81ffaa9824dfead62c626c9564fa4136fef85e35d2d78226e6d1961685f3"
   },
   {
     "name": "Assembly-CSharp.dll",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll",
-    "checksum": "00f4efec0c52afa43a5c99f8cc5652466891110872277b8d0befba5d4298875f"
+    "checksum": "11ee130ce51d5a973057c2e08dc1521123aa080ff1e1cc657db6178ce3040bee"
   },
   {
     "name": "Assembly-CSharp.pdb",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb",
-    "checksum": "da7c91da2bf23a9af27b58943b05cf8c2ec7727d755e6feea3552ba6a18281da"
+    "checksum": "fdfbfad1baaa766d4ed1b0b75d86390c0a35911ae1097be5e2fa100940a07178"
   },
   {
     "name": "AsyncLock.dll",
@@ -52,12 +52,12 @@
   {
     "name": "HidSharp.dll",
     "filePath": "MajdataPlay_Data/Managed/HidSharp.dll",
-    "checksum": "c41e2ed261915738081f2336d7d669f101c1b2a2517b36eeaba08bb6cb2480af"
+    "checksum": "711e7844e9a76db3f60ae7a6e3ae6ed519f2f5ba4eec6801532bd0c5cad3a486"
   },
   {
     "name": "HidSharp.pdb",
     "filePath": "MajdataPlay_Data/Managed/HidSharp.pdb",
-    "checksum": "235b29d03c274a41b488d2d4695cd0e9b97a35425506757e25ab19002df81665"
+    "checksum": "1ef242d5273a340fd2dec368e140b16d740a736cc15b544326f28881816c66ea"
   },
   {
     "name": "LibUsbDotNet.dll",
@@ -122,12 +122,12 @@
   {
     "name": "MajdataPlay.Numerics.dll",
     "filePath": "MajdataPlay_Data/Managed/MajdataPlay.Numerics.dll",
-    "checksum": "e05aa484099a8d2b0f953b829cd29818bc2c38cd38b749196dc7a51bd38eb8eb"
+    "checksum": "de1bdab8847447ca9290d56326ad5230313549b8bd7105bdda76f96211e6c215"
   },
   {
     "name": "MajdataPlay.Numerics.pdb",
     "filePath": "MajdataPlay_Data/Managed/MajdataPlay.Numerics.pdb",
-    "checksum": "9f64f093fce9c81846c47cdfb9d50bc7f6769050cd16d608a2be084bdffa9363"
+    "checksum": "7b4687028e7a6c9f7e493451f2918963dec85f34de87a4d8199ae1d24e281040"
   },
   {
     "name": "MajdataPlay.Platform.Win32.dll",
@@ -917,12 +917,12 @@
   {
     "name": "UnityEngine.CoreModule.dll",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.CoreModule.dll",
-    "checksum": "f5f089f643dcd5a11c2b283eb8887e324a07e97bb47ca425ebcf64595123209d"
+    "checksum": "35fad4594935f9552d0db86c92d495e42f1b0fb5c4e2bdae780dba58d6371ea3"
   },
   {
     "name": "UnityEngine.CoreModule.pdb",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.CoreModule.pdb",
-    "checksum": "0050fbb7b9e6e94f08d7430fe2c81995e62af23908f4f93204874fe05d4dcd1a"
+    "checksum": "ee6e34eae26ca25b7d0430f7ed43475c0180deaddf9345009704591838d26f62"
   },
   {
     "name": "UnityEngine.CrashReportingModule.dll",
@@ -1472,7 +1472,7 @@
   {
     "name": "lib_burst_generated.dll",
     "filePath": "MajdataPlay_Data/Plugins/x86_64/lib_burst_generated.dll",
-    "checksum": "61e527d9ecb907815343362c3644180f023b2b63c39528301cd2f52701d04fa2"
+    "checksum": "209a6ac1eb1ddca7a86f3f2145d4a9d3ad90b309e2d67110c755b444aa37644a"
   },
   {
     "name": "libaccess_concat_plugin.dll",
@@ -5687,17 +5687,17 @@
   {
     "name": "boot.config",
     "filePath": "MajdataPlay_Data/boot.config",
-    "checksum": "3df1949356edb28fba3f69f4e4eb20be25ff98bc3935ab17f79f108ed8868e8a"
+    "checksum": "c592cc9f2df8f004c4b99a0b55f2623a22135f2c01a722f963e8f0b1d1171267"
   },
   {
     "name": "globalgamemanagers",
     "filePath": "MajdataPlay_Data/globalgamemanagers",
-    "checksum": "9ff684fcf6fd7f4f1de5308ba5f4cd7dd31e80bc3a76fa319307a0bb76e66357"
+    "checksum": "c192a60e0fefd179dffdca128992c9c21f64bd420f2e8933a0204cd3f1ad64c3"
   },
   {
     "name": "globalgamemanagers.assets",
     "filePath": "MajdataPlay_Data/globalgamemanagers.assets",
-    "checksum": "12bab2a71c5311d0d9442ec3d7de2359496e6cd350fb15758dbfeb564aaf8431"
+    "checksum": "e99ce8abe8931482cfc1f5b0ee06f59e421422e4d4242ca08e380e90a60971d2"
   },
   {
     "name": "globalgamemanagers.assets.resS",
@@ -5707,72 +5707,72 @@
   {
     "name": "level0",
     "filePath": "MajdataPlay_Data/level0",
-    "checksum": "a2914b9f703651a0ea65978249e4d3077279515ea008a50b6fb91deb3be492de"
+    "checksum": "85ef2552f42503219a4c8c7d876aa655d2362a154b3364a1d36691b3f73bd340"
   },
   {
     "name": "level1",
     "filePath": "MajdataPlay_Data/level1",
-    "checksum": "800ab12c0437b418edc6e1ab190dc1f324c9be721c160658a662201b3048c847"
+    "checksum": "779a53d61dd534271cd580c6f940bea28114726187692cf147fdb92bb4085168"
   },
   {
     "name": "level10",
     "filePath": "MajdataPlay_Data/level10",
-    "checksum": "4921968cceae5eeceda8172363c2cbac798763073f7b46292d25def5b70764c2"
+    "checksum": "c3f401555d384706b5b14923936420b0c9cd7b8052a2b5a615c618029f726363"
   },
   {
     "name": "level11",
     "filePath": "MajdataPlay_Data/level11",
-    "checksum": "4c9466376d8669e54d18690f5b0499de6972cf2d5e6a045770d5ab744e5976fe"
+    "checksum": "e4fd41bb9e2a01665d80661f4f8dd4c7fa013b4a2878a26fd8e93df3808b6e0a"
   },
   {
     "name": "level12",
     "filePath": "MajdataPlay_Data/level12",
-    "checksum": "62898c046110e9b212c764aacce29f9409a4c90224d545ff84d420d206ebdafa"
+    "checksum": "88f191256de0136344af9f295b19970155bf5aef2a8a222ec139292e60fad6ae"
   },
   {
     "name": "level2",
     "filePath": "MajdataPlay_Data/level2",
-    "checksum": "20f3d27afc3318de1ad73b90f79360fd51bad6ac793b7e95b335dd84559a6378"
+    "checksum": "4e16f8496a76f56299733b91e0af441b16b6e98dab8b2e9aa326b2c870cf6b36"
   },
   {
     "name": "level3",
     "filePath": "MajdataPlay_Data/level3",
-    "checksum": "e131a5d6c84173536085baf7617be9dced6c434ce062f141829f4c5d23a2221b"
+    "checksum": "26e05fc3000bfb2f8c89024b8673485c27871cc1baa08c9d5c473d4c01d4c015"
   },
   {
     "name": "level4",
     "filePath": "MajdataPlay_Data/level4",
-    "checksum": "18c682a928df8ef8a79b1dd6f12552e5c659a2d3f47890909727151385b4ab90"
+    "checksum": "eb8de0215d2f774d416531c42d85d7b2450b7a72f8dfa5d398d082e45d3cd0b2"
   },
   {
     "name": "level5",
     "filePath": "MajdataPlay_Data/level5",
-    "checksum": "cbb6d013643e535703fea29058d3473266a71f8db7102c0b68c2b7b3eeb5e867"
+    "checksum": "f41cef8b375717d40b616435ce2ec99ae8af53f1d11a77a5de1a210354bbc74e"
   },
   {
     "name": "level6",
     "filePath": "MajdataPlay_Data/level6",
-    "checksum": "00eeb06ac9417b1ae97394faa91436669b98c857dbfeaacae907bc99ad32e792"
+    "checksum": "ecac2f19489e37720acb8fd84dcc88f2e67e9a564534f4365ae0b3b2117f9ab7"
   },
   {
     "name": "level7",
     "filePath": "MajdataPlay_Data/level7",
-    "checksum": "c9242b94d10a126e52b6a59e21fed5444f46c4d03779d64f96b1ba962c377d5c"
+    "checksum": "77d814c90827b56ef5aa48a315a6527db395427424a2ba14a516c8149013ba80"
   },
   {
     "name": "level8",
     "filePath": "MajdataPlay_Data/level8",
-    "checksum": "fa711c0a1f65a8fdc21d7cdb98b737bcb1ca40d4855ddd0760fc9986328a8a0c"
+    "checksum": "28ea8c1665aaaa6167ae30b134dc7a8e987c321c65295db12252c22c51f30027"
   },
   {
     "name": "level9",
     "filePath": "MajdataPlay_Data/level9",
-    "checksum": "87cda1282f8b518e11be86ea3d343466fafd2d382efed55464c3ba705680c43e"
+    "checksum": "0605e9dcd4d2e68e49746b90ab9b49144e1cc3329f96ea0c3b7538eb9ffb067a"
   },
   {
     "name": "resources.assets",
     "filePath": "MajdataPlay_Data/resources.assets",
-    "checksum": "16d8e7bbb9fa085b77026735896dc10a74851fb7a012f0a954eb2ba0b83a6bbe"
+    "checksum": "e2629806a0f2f2ab5fc0393bee49f48005caff0458c6bdf414c0ac7c2fb230aa"
   },
   {
     "name": "resources.assets.resS",
@@ -5782,7 +5782,7 @@
   {
     "name": "sharedassets0.assets",
     "filePath": "MajdataPlay_Data/sharedassets0.assets",
-    "checksum": "a7e1c1537fedb5bcb61385690d2fa8d8a0034f8191b3d5abd35ee2f1f82a30dc"
+    "checksum": "7146513885d5fbefba78cf0f52366b055fd0c11d50a17a7d77e112fc790a2959"
   },
   {
     "name": "sharedassets0.assets.resS",
@@ -5792,7 +5792,7 @@
   {
     "name": "sharedassets1.assets",
     "filePath": "MajdataPlay_Data/sharedassets1.assets",
-    "checksum": "e057020bd013fad1f6176ff5dcefddfe4c9cb4b8710e1da56fcb3bc1ccf3e8c0"
+    "checksum": "ae57eebd2f1e8e0c568b080ff7af071fda13776d60566d587bf9cded13e9a4f5"
   },
   {
     "name": "sharedassets1.assets.resS",
@@ -5802,22 +5802,22 @@
   {
     "name": "sharedassets10.assets",
     "filePath": "MajdataPlay_Data/sharedassets10.assets",
-    "checksum": "1c9959d3e8c609cb47ed640a2a0e40b3f3cf68a3f8174b4803fd722f7fe37cad"
+    "checksum": "04a4c6cfe874367f58d7b61241b25e11eb122ebef5ca5edee91af58990330d8c"
   },
   {
     "name": "sharedassets11.assets",
     "filePath": "MajdataPlay_Data/sharedassets11.assets",
-    "checksum": "7c44800e102db4383ead5c1da9df4c026d5cea242b9b1b2aafccd60a9bfed272"
+    "checksum": "72aa7cf331330ae5081a4881ddc35ef67c0da2d6d315d5d555a2daf817f61fa3"
   },
   {
     "name": "sharedassets12.assets",
     "filePath": "MajdataPlay_Data/sharedassets12.assets",
-    "checksum": "3c9b745088ec1b3412e2d1a05cb9643772dcf9ce76408bc8823c094d58ca7312"
+    "checksum": "c034c1354fa8f06b75c88ec99cf70d1f90ad6412a3ddaf3af5f03d33323b37ed"
   },
   {
     "name": "sharedassets2.assets",
     "filePath": "MajdataPlay_Data/sharedassets2.assets",
-    "checksum": "4c64deaede6611ba7fb54d251dc123607bafd85946ccb16ad98fa063183c98b1"
+    "checksum": "c33f6744906fd8a9f694bdab832d86363b2415472a81bb240533c9c919ae7787"
   },
   {
     "name": "sharedassets2.assets.resS",
@@ -5827,7 +5827,7 @@
   {
     "name": "sharedassets3.assets",
     "filePath": "MajdataPlay_Data/sharedassets3.assets",
-    "checksum": "8275369f9877df9ba28903007977f63efdea1ec3b4b3acfd362c3709b61ccb80"
+    "checksum": "3b82f2fc50db19c5fcca85861e274e65eb424251058067ad3c60b031a42d956f"
   },
   {
     "name": "sharedassets3.assets.resS",
@@ -5837,17 +5837,17 @@
   {
     "name": "sharedassets4.assets",
     "filePath": "MajdataPlay_Data/sharedassets4.assets",
-    "checksum": "09c280fad2c2ebf4aeaee2fa8862be1ef846b2768588687763b534061ac7f5bf"
+    "checksum": "98d5c94656966d68eb977714f62216bd9d0f82aa4416600a9d1cca33ecb14cda"
   },
   {
     "name": "sharedassets4.assets.resS",
     "filePath": "MajdataPlay_Data/sharedassets4.assets.resS",
-    "checksum": "eb7bcc9f1b0de778d0e5a5ec65cf344cc69c96a355111740fcc958bfc4329a4a"
+    "checksum": "b97939ca7f3e72e62f2f8de34f5e91c8cced057da9f75a7d636b02709d219290"
   },
   {
     "name": "sharedassets5.assets",
     "filePath": "MajdataPlay_Data/sharedassets5.assets",
-    "checksum": "2f65aa754d0ce91a4c3962e4cb9ff76f67391b080ff944ed349f181a32903a4d"
+    "checksum": "060781eee71c8ca5bf77afd0be525f43cf7ba4b560c0ddb99c4661b653fc9429"
   },
   {
     "name": "sharedassets5.assets.resS",
@@ -5857,7 +5857,7 @@
   {
     "name": "sharedassets6.assets",
     "filePath": "MajdataPlay_Data/sharedassets6.assets",
-    "checksum": "25484a1c2e7cbdf8c96ddfb7f44d78c379bc006a320e7c9e9d506703fc4b6a96"
+    "checksum": "79ed72a213f5ed99a4ea2e090c6aacefc93965c2a859825ceb41b93501e397da"
   },
   {
     "name": "sharedassets6.assets.resS",
@@ -5867,7 +5867,7 @@
   {
     "name": "sharedassets7.assets",
     "filePath": "MajdataPlay_Data/sharedassets7.assets",
-    "checksum": "096da439bc872eab95251d32f2392bd19517896c70f2b64353cb30cab6596b7e"
+    "checksum": "446816acb149edb06b2e3ba23ad27f18058dee61a93e7120de56e70ce24ccf9f"
   },
   {
     "name": "sharedassets7.assets.resS",
@@ -5877,7 +5877,7 @@
   {
     "name": "sharedassets8.assets",
     "filePath": "MajdataPlay_Data/sharedassets8.assets",
-    "checksum": "d5cdea193c3d9f08036f1d0a8ec3855e5619939437932fa1ce5e8adef9e43972"
+    "checksum": "4d59e6f433be76bd2e9bb5bac896a20f8b066a5cb495caae7403faae60c9186a"
   },
   {
     "name": "sharedassets8.assets.resS",
@@ -5887,7 +5887,7 @@
   {
     "name": "sharedassets9.assets",
     "filePath": "MajdataPlay_Data/sharedassets9.assets",
-    "checksum": "66a23f9368ab18b972c668b10bc50e3ad4bfe83b7a02be10ada6faccdae44e28"
+    "checksum": "c505d120e53251451909bbb84fa891ac6ccea8d4874552bee6de72b032e4faad"
   },
   {
     "name": "MonoPosixHelper.dll",
