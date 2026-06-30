@@ -7,7 +7,7 @@
   {
     "name": "lib_burst_generated.txt",
     "filePath": "MajdataPlay_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
-    "checksum": "0c5dc21bd268d12d2f5f132935178eae81efe20a12f7a1e39cb209143b26c4c9"
+    "checksum": "9d9c1dc7bf4f0c540b8e14ca06635187a0e0a765e4388bfe3b7fafab855a4706"
   },
   {
     "name": "Accessibility.dll",
@@ -17,22 +17,22 @@
   {
     "name": "Assembly-CSharp-firstpass.dll",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp-firstpass.dll",
-    "checksum": "8ec01d3b94d6f06110e6ac97107bd78e2e27966bb1d0a967551e66596774cbf2"
+    "checksum": "8b8081cd00ccbd3166f0c1cf5f12660d5873a3a5ac9964f02c2ce07d10cfd880"
   },
   {
     "name": "Assembly-CSharp-firstpass.pdb",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp-firstpass.pdb",
-    "checksum": "4eec81ffaa9824dfead62c626c9564fa4136fef85e35d2d78226e6d1961685f3"
+    "checksum": "1bb35e85d66ddba2740463ca2a72a31f6b08d14b9f931851c0dd8d8424d0d186"
   },
   {
     "name": "Assembly-CSharp.dll",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp.dll",
-    "checksum": "11ee130ce51d5a973057c2e08dc1521123aa080ff1e1cc657db6178ce3040bee"
+    "checksum": "39fe25c1532fe055b370649d0759712194f6573cebfc3b391afb89f7c35d8b13"
   },
   {
     "name": "Assembly-CSharp.pdb",
     "filePath": "MajdataPlay_Data/Managed/Assembly-CSharp.pdb",
-    "checksum": "fdfbfad1baaa766d4ed1b0b75d86390c0a35911ae1097be5e2fa100940a07178"
+    "checksum": "d20133d73a8d4566ecf6f4600ab81e1e38cf19faf7d531137b05c3e846f46e05"
   },
   {
     "name": "AsyncLock.dll",
@@ -42,12 +42,22 @@
   {
     "name": "DiscordRPC.dll",
     "filePath": "MajdataPlay_Data/Managed/DiscordRPC.dll",
-    "checksum": "b23c0b292acda5ecaea8c52d44a0438408767db988f7ed368fa381dd1c366f2a"
+    "checksum": "94798f275e222523970f5e0e9bc5eb0d59400a8dcca5d50eb5ab462617b35674"
   },
   {
     "name": "ExCSS.dll",
     "filePath": "MajdataPlay_Data/Managed/ExCSS.dll",
-    "checksum": "d45e58e1c76068975045d499a67c6d4ee6046138c5413af1558d2e054d49a18f"
+    "checksum": "f032fe525bc0387efe58e7c583e4debe3c258e0953d823e0f245b64ad2cb9069"
+  },
+  {
+    "name": "Gilzoide.SqliteNet.dll",
+    "filePath": "MajdataPlay_Data/Managed/Gilzoide.SqliteNet.dll",
+    "checksum": "62c400e98b4b4c1efcb417fa13c1ce11c71b6f43a3b69516f85683e6de08d881"
+  },
+  {
+    "name": "Gilzoide.SqliteNet.pdb",
+    "filePath": "MajdataPlay_Data/Managed/Gilzoide.SqliteNet.pdb",
+    "checksum": "6c5e7cb5ec5c74c66a7e91675751e554311afa73ce02fea8814dc46bdc9cada6"
   },
   {
     "name": "HidSharp.dll",
@@ -72,12 +82,12 @@
   {
     "name": "LibVLCSharp.dll",
     "filePath": "MajdataPlay_Data/Managed/LibVLCSharp.dll",
-    "checksum": "ebb7f599313564bf4d335b4bd31ca64f5b5db37ae888158aa9c05929cab52aa1"
+    "checksum": "505cf5755786049df4dff5ca3bac01e6aa2eb3868bfe3a980ef4699e02c2a614"
   },
   {
     "name": "MajSimai.dll",
     "filePath": "MajdataPlay_Data/Managed/MajSimai.dll",
-    "checksum": "5da219be4574d1eaa7944977402031bb0a812e32e6bd087958e875ce3def1223"
+    "checksum": "c0ad756f8446d118981e91460f9dd31d89dc68bf3163e39fff60c83af99362f3"
   },
   {
     "name": "MajdataPlay.Buffers.dll",
@@ -102,22 +112,22 @@
   {
     "name": "MajdataPlay.Drawing.dll",
     "filePath": "MajdataPlay_Data/Managed/MajdataPlay.Drawing.dll",
-    "checksum": "9c7594c1b38b9508f8246374c18450cf5636b0cc307d9ec55125d07a4406e98d"
+    "checksum": "46d9929eaf1bcc1803db9ba8324518705b9bc2661d532851b46b67a582538686"
   },
   {
     "name": "MajdataPlay.Drawing.pdb",
     "filePath": "MajdataPlay_Data/Managed/MajdataPlay.Drawing.pdb",
-    "checksum": "cf2015c8deda2f497484f14df51659ca953bee3f98ca5921f3a1a7a9d15f2597"
+    "checksum": "fdaa0af2053da44de6fe5696e7c4f80109f42e62e212d4d07d6e056227285dc3"
   },
   {
     "name": "MajdataPlay.Net.dll",
     "filePath": "MajdataPlay_Data/Managed/MajdataPlay.Net.dll",
-    "checksum": "d888291df090b6cbf2e59626c73f0bd1cada86820a173f567ea59b4c4e8e32fc"
+    "checksum": "8db7914d3787a60ba6551a6f0ddf402c56ebd1f01c4c067665f512c5fbe34d68"
   },
   {
     "name": "MajdataPlay.Net.pdb",
     "filePath": "MajdataPlay_Data/Managed/MajdataPlay.Net.pdb",
-    "checksum": "a9c52142fd04611b2736ed81c0c1da894903db1a38db2deebc62f578581be169"
+    "checksum": "8b1b78274a3a674ced3cc7b881147a7833b0c6343a6688a4533d12efa9e3becf"
   },
   {
     "name": "MajdataPlay.Numerics.dll",
@@ -287,7 +297,7 @@
   {
     "name": "Mono.Security.dll",
     "filePath": "MajdataPlay_Data/Managed/Mono.Security.dll",
-    "checksum": "a5a687228489ada3af911069e46956a359042ab1902068ecd583ce96f51fb272"
+    "checksum": "277656b5a4d60c0ea5f16f3fa843052598d9f51d497c5ce9fd2baa4b305b3c20"
   },
   {
     "name": "MychIO.dll",
@@ -302,7 +312,7 @@
   {
     "name": "Newtonsoft.Json.dll",
     "filePath": "MajdataPlay_Data/Managed/Newtonsoft.Json.dll",
-    "checksum": "f5f17f4d4efa6455ede295d28a524c990c792b5c5e340df5e0c8d2c6901baa24"
+    "checksum": "e5823fdc08ff22cd83ad17580d333ab3573a95cf4f732d28d9db6c875dd65ba3"
   },
   {
     "name": "Newtonsoft.Json.pdb",
@@ -312,32 +322,32 @@
   {
     "name": "Nito.AsyncEx.Coordination.dll",
     "filePath": "MajdataPlay_Data/Managed/Nito.AsyncEx.Coordination.dll",
-    "checksum": "7d7afaa85de4c8178dacb842c5507b24e15685f669a594bf10dcc05eb3e8c686"
+    "checksum": "0a1ef5a43b5bc516ce7676cb8e3e48f1362af8e682c388024807b413dd1fe3ef"
   },
   {
     "name": "Nito.AsyncEx.Tasks.dll",
     "filePath": "MajdataPlay_Data/Managed/Nito.AsyncEx.Tasks.dll",
-    "checksum": "32d3cb777cc8fa2c334298d6c4cbae0e86162f3f8f8b85dcc8828dbaceff2861"
+    "checksum": "170127dcf5a8d9916763d6770333ebcd3c2d5be3dcfc48f626a510d34d2923bd"
   },
   {
     "name": "Nito.Collections.Deque.dll",
     "filePath": "MajdataPlay_Data/Managed/Nito.Collections.Deque.dll",
-    "checksum": "e78889b197e68f345f6f8d5b0601b0e5c631ef43b85b1a14df577cd321991678"
+    "checksum": "c7bd3a554ee4163f2628af55ed59393988e8d300587ec0f75c0c49f137ecdd0d"
   },
   {
     "name": "Nito.Disposables.dll",
     "filePath": "MajdataPlay_Data/Managed/Nito.Disposables.dll",
-    "checksum": "6dc9173666b77ba03254192ea82b0dc7c8d1c68f95eeb2dbbac11d3eb438d679"
+    "checksum": "8f154bcf58f8a493757df2e47b1d87d3a35fe16dbaf5568401ab1051f67f9fcc"
   },
   {
     "name": "QRCoder.dll",
     "filePath": "MajdataPlay_Data/Managed/QRCoder.dll",
-    "checksum": "40ac46ea625cac71c1485d0beaff0ff58d171ac31dd54b83438f4f2c89323246"
+    "checksum": "37f582b66990e7c3d5bd6795bf9848e2f0f6c6ac6d7f86580b4dcea11705c0b2"
   },
   {
     "name": "Semver.dll",
     "filePath": "MajdataPlay_Data/Managed/Semver.dll",
-    "checksum": "1aec75b4631fc79ec937fa1f62df4ade1e1c862ba2b53c6dc42619055642c858"
+    "checksum": "3ec3e4f73e09117c99ebd40037a3f9ab514aeb3652ad38006246f2f8ad530bce"
   },
   {
     "name": "SkiaSharp.Editor.dll",
@@ -377,7 +387,7 @@
   {
     "name": "Svg.Custom.dll",
     "filePath": "MajdataPlay_Data/Managed/Svg.Custom.dll",
-    "checksum": "f1f281719629639f8758f4afd62e0a353c9f6e7ed4d83355cefc0b55ff12ca2e"
+    "checksum": "b5dd10d9b7d08c55946b6ede774ae15fd45c143e5721d1e2b29b2e6e5535d495"
   },
   {
     "name": "System.Buffers.dll",
@@ -407,12 +417,12 @@
   {
     "name": "System.Configuration.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Configuration.dll",
-    "checksum": "2f5564df5dba0ee2e0365b27f9ef2ba095831c412d655d1026fa2154bad45c5f"
+    "checksum": "484bcb92a4cb2c20b4c04f6af36bc1d76f09b9dc19e05deafb31ced0247c3184"
   },
   {
     "name": "System.Core.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Core.dll",
-    "checksum": "32da6e3a54a0b8e29d776370d83dd0001dd4a0f964e989ab6f0d61924ec4eade"
+    "checksum": "3810a9c12f2430a12409401d9e4e08755d2a0596d96fbd6e1822b32cb15b1139"
   },
   {
     "name": "System.Data.DataSetExtensions.dll",
@@ -422,7 +432,7 @@
   {
     "name": "System.Data.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Data.dll",
-    "checksum": "d2f413f34dda58081d0b9e7d7451f298c3f88f8bca92a8b0f018165c4651b4ac"
+    "checksum": "ac65964cb37edf1896d5308949460c442a5219953c453eb836e29b98202080d7"
   },
   {
     "name": "System.Deployment.dll",
@@ -442,7 +452,7 @@
   {
     "name": "System.Drawing.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Drawing.dll",
-    "checksum": "06f3f9cd9b772273f205d1e58975bf251e79813bee6a7ff7380577174420d723"
+    "checksum": "4a2c08cfd9cfcc6b77a1420908a2d1fdf3ae3881ee5770fb288a501ddcb6bb9a"
   },
   {
     "name": "System.EnterpriseServices.dll",
@@ -487,7 +497,7 @@
   {
     "name": "System.Net.Http.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Net.Http.dll",
-    "checksum": "4162b543c0f27f960362d44c79e486580d2b05fd230094de0e803c2a600657da"
+    "checksum": "69f01d380a9d9baa9f9dcb37538e21097c01210d8150b755caaef1549efc0a04"
   },
   {
     "name": "System.Numerics.Vectors.dll",
@@ -497,7 +507,7 @@
   {
     "name": "System.Numerics.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Numerics.dll",
-    "checksum": "a4ed3513be8150fc25f37306cc5c110a4fdee796b3bb5d8509c7567ce94129be"
+    "checksum": "90fe5652682cc9cc4c3a41f8f376fac14b9f3c9f66e06772260f01438f7cab16"
   },
   {
     "name": "System.ObjectModel.dll",
@@ -537,7 +547,7 @@
   {
     "name": "System.Security.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Security.dll",
-    "checksum": "aceafa3db9bb70fb21625f4d9e1538964af099ede6085c22d68d29a738d72d52"
+    "checksum": "a8fa70b140200b1b59c2ba557888e7ccddf8ea28aa9acf4f2e1dc5f779fb7923"
   },
   {
     "name": "System.ServiceModel.Internals.dll",
@@ -592,17 +602,17 @@
   {
     "name": "System.Xml.Linq.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Xml.Linq.dll",
-    "checksum": "d00d1bc3660be5ceeaa006446d4df655d22740f6aa20f7b9e7de90bca1b7e691"
+    "checksum": "8b160546c66107c72d3877a6f15cd41cb55da976d419b8a2b36cf7993a7cf069"
   },
   {
     "name": "System.Xml.dll",
     "filePath": "MajdataPlay_Data/Managed/System.Xml.dll",
-    "checksum": "773274230f8fd13c2305f2a040e34766252eb872b27235b187b2d3a56ba4d2e6"
+    "checksum": "5361b014db7161bd3b6e6be72b07d7f6189edb8096e736c515db79c1846790ed"
   },
   {
     "name": "System.dll",
     "filePath": "MajdataPlay_Data/Managed/System.dll",
-    "checksum": "a40c4bf8f8e50854e76e4c46c5dda5be7746915729ac5776e9ad8f67f766fcd1"
+    "checksum": "1252e7200d1a942cb3d9363ab939802c56d0ed3162e81ea6c6304141878044e8"
   },
   {
     "name": "UniTask.Addressables.dll",
@@ -692,17 +702,17 @@
   {
     "name": "Unity.Burst.Unsafe.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.Burst.Unsafe.dll",
-    "checksum": "9fea099706060b53141b1d9a6f24faa0eb3f582947ab5f97eaa0a7cb07404a33"
+    "checksum": "c05b4ec6af68a941d81695dc67966547b62a2085a4c1869accca0114ff517674"
   },
   {
     "name": "Unity.Burst.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.Burst.dll",
-    "checksum": "cc9810fa61d870c8c023e3143329cee2f38877821b9ae657a73b8fb176a1b794"
+    "checksum": "c241821ab0ddbd227bae2e04022b0706d0d0718745fee0774fd1e3e2cac8c465"
   },
   {
     "name": "Unity.Burst.pdb",
     "filePath": "MajdataPlay_Data/Managed/Unity.Burst.pdb",
-    "checksum": "a5be8679e50694bb5f89bd69aca77c939521e1cee3beee952ced117e66b6e191"
+    "checksum": "cdb14fc1790dcc1e6823e627c538eb3a0a65aa97a34397096e219479ddd0fb18"
   },
   {
     "name": "Unity.Collections.LowLevel.ILSupport.dll",
@@ -712,12 +722,12 @@
   {
     "name": "Unity.Collections.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.Collections.dll",
-    "checksum": "388fc35e23881391e17aa7b35497a50ab3616a3fa7f1b1a0c69d4dcfcf465dae"
+    "checksum": "ce4abd9faa185e4c1f57ef0937d79c2710933b2ed88c241ca2cd2e85e151e8f5"
   },
   {
     "name": "Unity.Collections.pdb",
     "filePath": "MajdataPlay_Data/Managed/Unity.Collections.pdb",
-    "checksum": "5bdb9af60d5ec34abb83fc1ee77739c00a1e20ebe38fe572988cf2f6b663c978"
+    "checksum": "91e5a18b37e4afaaf20fad4444d3adb130e1689557e013603268c0e341d493cf"
   },
   {
     "name": "Unity.InputSystem.ForUI.dll",
@@ -742,32 +752,32 @@
   {
     "name": "Unity.InternalAPIEngineBridge.001.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
-    "checksum": "fd25de21930d879958fa2cef0c0bb971ebd476d9a0f0e29530721ac0bc8225ee"
+    "checksum": "5c550b7ca352ded9206da62ee54ba139d89535b79d4d745cfaca9538303634ea"
   },
   {
     "name": "Unity.InternalAPIEngineBridge.001.pdb",
     "filePath": "MajdataPlay_Data/Managed/Unity.InternalAPIEngineBridge.001.pdb",
-    "checksum": "91154f5bb5623e3e2d1d45e5f050aa55c03d0f6fe306ca00a0554d55796bf60b"
+    "checksum": "010c7e2101ee0c45612a7af3db6b255f6e793e2fa6466084ac8e32a0ee3918bf"
   },
   {
     "name": "Unity.Mathematics.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.Mathematics.dll",
-    "checksum": "a3bd8bb0a1942acbb45890f4ae8fe2a5a3e0b648f4fbb9dca149cd01bc1bdffc"
+    "checksum": "89d6d44e64e54bd6c0c6cdc46dac88c76363f5759e5a8189b9a43be15243e996"
   },
   {
     "name": "Unity.Mathematics.pdb",
     "filePath": "MajdataPlay_Data/Managed/Unity.Mathematics.pdb",
-    "checksum": "53fb5c7a8d6592fdb0fce963cfa9a57fd97e46609779c557f37dd76390d1f510"
+    "checksum": "1def009dd2e34c62fd5a7ee857f5504b2816aeebed7aa9e5b99b73fa651a17c0"
   },
   {
     "name": "Unity.MemoryProfiler.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.MemoryProfiler.dll",
-    "checksum": "fc4e7943fc61a52162b2fb4a2b26c8ce7bba697a6dea292d5489971675942cf8"
+    "checksum": "37b5d98217d2faea378dc7ca979c0433fd46d70b42d0bfbb7fa367fdc000982c"
   },
   {
     "name": "Unity.MemoryProfiler.pdb",
     "filePath": "MajdataPlay_Data/Managed/Unity.MemoryProfiler.pdb",
-    "checksum": "986e1bfa6f216852c7fe5d4bc78f9ffab4853162ff8f11b9db4caf9d1c7d401b"
+    "checksum": "6720ebb59ced313efd1503358598b43d6622438c3d738f1bd92b5115d1d4c221"
   },
   {
     "name": "Unity.RenderPipelines.Core.Runtime.dll",
@@ -812,12 +822,12 @@
   {
     "name": "Unity.VisualScripting.Core.dll",
     "filePath": "MajdataPlay_Data/Managed/Unity.VisualScripting.Core.dll",
-    "checksum": "f09f82efee789be1e057938501eafebc6171b5729cd588c6aa687594cc8017fd"
+    "checksum": "a2096d6cd3e7a06d86fc187bb15007de3ae44f4d6dcc5531b178573b6c384dea"
   },
   {
     "name": "Unity.VisualScripting.Core.pdb",
     "filePath": "MajdataPlay_Data/Managed/Unity.VisualScripting.Core.pdb",
-    "checksum": "0c1885c2bc952fc56de7d90f2bdb28f700c9e84f4b0b31789964cc150c072374"
+    "checksum": "1e945a72273f12e289e6a1740aa5394eabe32d2fccb2aacc082708e18fdaf68d"
   },
   {
     "name": "Unity.VisualScripting.DocCodeExamples.dll",
@@ -917,12 +927,12 @@
   {
     "name": "UnityEngine.CoreModule.dll",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.CoreModule.dll",
-    "checksum": "35fad4594935f9552d0db86c92d495e42f1b0fb5c4e2bdae780dba58d6371ea3"
+    "checksum": "ad0f91dab5d8d2450e3b7dd1b52bf891d7dbf05dd32daa5e1f0b9f0a9bfebebb"
   },
   {
     "name": "UnityEngine.CoreModule.pdb",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.CoreModule.pdb",
-    "checksum": "ee6e34eae26ca25b7d0430f7ed43475c0180deaddf9345009704591838d26f62"
+    "checksum": "f2a2bc3295040081e3f938ced8702958699fc014f0059a9070b4b1608440fbb5"
   },
   {
     "name": "UnityEngine.CrashReportingModule.dll",
@@ -972,12 +982,12 @@
   {
     "name": "UnityEngine.IMGUIModule.dll",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.IMGUIModule.dll",
-    "checksum": "cabefb7f315afe5933de2b75e5f6c9d889a27c926dd978a130797a6aec6357ba"
+    "checksum": "dd2ab2a41dd5a25b3720fdd19f636e69d2892a4de0244e37f64aabcb8100b650"
   },
   {
     "name": "UnityEngine.IMGUIModule.pdb",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.IMGUIModule.pdb",
-    "checksum": "7409bc7bda2c862c75ec33b1203d5cc21475d72b89670edafc3b8bc7f06aa205"
+    "checksum": "e18d08410b846853309c80c43c17c3f3fef2c392a36cbb5f85aa414c886b4dcb"
   },
   {
     "name": "UnityEngine.ImageConversionModule.dll",
@@ -1282,12 +1292,12 @@
   {
     "name": "UnityEngine.UnityWebRequestModule.dll",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
-    "checksum": "21e2a494c32c332a6dff27ff069e1a04112aa46dc567e3f161decda4208d6695"
+    "checksum": "48df0242b8b2a3f5aab30b3c158762bb32653ddf3b49fb9aed64891055e68d24"
   },
   {
     "name": "UnityEngine.UnityWebRequestModule.pdb",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.UnityWebRequestModule.pdb",
-    "checksum": "c3044d47ffb545bc19531a606a44f38d1ceacdbc7e3636a1ac934191ca09b951"
+    "checksum": "6bc43aea84d73ffb8b131bc1fb936456341591ff88cbc34fa7031a3367017797"
   },
   {
     "name": "UnityEngine.UnityWebRequestTextureModule.dll",
@@ -1362,12 +1372,12 @@
   {
     "name": "UnityEngine.dll",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.dll",
-    "checksum": "3053a1f544dca0dba44d4d5b47c2cf1c3f0eb78a45a2d130dca3fb03cdd46f79"
+    "checksum": "9af1867935d75dbdfe1bf92f6ff75e7192ae35d7183df7c918e5171cf602cf75"
   },
   {
     "name": "UnityEngine.pdb",
     "filePath": "MajdataPlay_Data/Managed/UnityEngine.pdb",
-    "checksum": "53b3b05f10caf2dada8ed13db06bf603c2d6eafa4872f75ca44b9f0010046fc0"
+    "checksum": "947aa0ce081cf5b459725dd87a859ce4cecb5c4245b9bb403e4910572da8eb1b"
   },
   {
     "name": "VLCUnity.dll",
@@ -1392,7 +1402,7 @@
   {
     "name": "mscorlib.dll",
     "filePath": "MajdataPlay_Data/Managed/mscorlib.dll",
-    "checksum": "b734a5f49e3df1775fb308e05db2d614b08da60a98a358850318b1575d27c26a"
+    "checksum": "1dbf652923a3b15f2558e8abf8469ec321a0bd3782ff21c5839598100ea329f7"
   },
   {
     "name": "netstandard.dll",
@@ -1402,7 +1412,7 @@
   {
     "name": "websocket-sharp.dll",
     "filePath": "MajdataPlay_Data/Managed/websocket-sharp.dll",
-    "checksum": "4def36800e49faeebeb9b013505bc653588568c8538d8dd486029bca2129eec0"
+    "checksum": "a8dfe74e3468e111d0581141206159a63fb5f1a8d464ecc192b916392e556919"
   },
   {
     "name": "Live2DCubismCore.dll",
@@ -1460,6 +1470,11 @@
     "checksum": "6f0869c11431e01f759fbe1cd6080299c833c519eb8ab1feae12106907b1fbd1"
   },
   {
+    "name": "gilzoide-sqlite-net.dll",
+    "filePath": "MajdataPlay_Data/Plugins/x86_64/gilzoide-sqlite-net.dll",
+    "checksum": "e7e370938925dff66d9a4d50bfac6d18cc9505bd2f3f127a232b410491b46e3e"
+  },
+  {
     "name": "libHarfBuzzSharp.dll",
     "filePath": "MajdataPlay_Data/Plugins/x86_64/libHarfBuzzSharp.dll",
     "checksum": "eb76238c9e8e41d44b5a5b18167c4c5b39ca5db4277af5dbe92d730f0fc14a7d"
@@ -1472,7 +1487,7 @@
   {
     "name": "lib_burst_generated.dll",
     "filePath": "MajdataPlay_Data/Plugins/x86_64/lib_burst_generated.dll",
-    "checksum": "209a6ac1eb1ddca7a86f3f2145d4a9d3ad90b309e2d67110c755b444aa37644a"
+    "checksum": "a65f9443e9e1c279c2372dd84c145e6d56cc8343cacb2e5570c73d027dc63c20"
   },
   {
     "name": "libaccess_concat_plugin.dll",
@@ -3392,7 +3407,7 @@
   {
     "name": "ScriptingAssemblies.json",
     "filePath": "MajdataPlay_Data/ScriptingAssemblies.json",
-    "checksum": "dfcd8a916a73cda6199b618c9c3b17b7efe4f840dbf75a95d6a6aba2d3d3bfee"
+    "checksum": "ec29f292142dbf1f8f1668810208876b5d09ecd8e24b200079d07fd2105a1832"
   },
   {
     "name": "en-US.json",
@@ -3692,12 +3707,17 @@
   {
     "name": "answer.wav",
     "filePath": "MajdataPlay_Data/StreamingAssets/SFX/answer.wav",
-    "checksum": "1495a4433fd6e557689f9d729813253fc99f4ffaa59406adefa3a34ef371fcce"
+    "checksum": "341b184534cbfb56afee9e550f13a56b0f50f47ad682a995e2f0ff4cede25e4a"
   },
   {
     "name": "answer_clock.wav",
     "filePath": "MajdataPlay_Data/StreamingAssets/SFX/answer_clock.wav",
     "checksum": "9ec2bcf7ad81c59fbfff8038c828c52b44cb263baec6d33585adf32142cf762a"
+  },
+  {
+    "name": "answer_mine.wav",
+    "filePath": "MajdataPlay_Data/StreamingAssets/SFX/answer_mine.wav",
+    "checksum": "ace22a5014836a664a307b72da237d83c04e7d5ed3975e0653fa3162e2f311a6"
   },
   {
     "name": "bgm_dan.mp3",
@@ -3768,6 +3788,11 @@
     "name": "tap_great.wav",
     "filePath": "MajdataPlay_Data/StreamingAssets/SFX/tap_great.wav",
     "checksum": "5bf8b2dd6231d89e6a7640a6080a79af3fe0993989328dd64c8cf3c1cfe251a7"
+  },
+  {
+    "name": "tap_miss.wav",
+    "filePath": "MajdataPlay_Data/StreamingAssets/SFX/tap_miss.wav",
+    "checksum": "a779750f9acecc8cf6430541f24423fb6b17573a52e47c18a43e4fdba509f533"
   },
   {
     "name": "tap_perfect.wav",
@@ -5687,17 +5712,17 @@
   {
     "name": "boot.config",
     "filePath": "MajdataPlay_Data/boot.config",
-    "checksum": "c592cc9f2df8f004c4b99a0b55f2623a22135f2c01a722f963e8f0b1d1171267"
+    "checksum": "abeebf7520dfba6148550705f2df0316f9f4335abef1fdeed83cf67979dd4575"
   },
   {
     "name": "globalgamemanagers",
     "filePath": "MajdataPlay_Data/globalgamemanagers",
-    "checksum": "c192a60e0fefd179dffdca128992c9c21f64bd420f2e8933a0204cd3f1ad64c3"
+    "checksum": "7b77e79a176087b413050e78032bfeb0d1481c0c8a483f456004824b83d25a3f"
   },
   {
     "name": "globalgamemanagers.assets",
     "filePath": "MajdataPlay_Data/globalgamemanagers.assets",
-    "checksum": "e99ce8abe8931482cfc1f5b0ee06f59e421422e4d4242ca08e380e90a60971d2"
+    "checksum": "ab7a9ac4c3eeaedd76d5701481b4442c7cf53034338d33b846a441dd43294a5b"
   },
   {
     "name": "globalgamemanagers.assets.resS",
@@ -5707,72 +5732,72 @@
   {
     "name": "level0",
     "filePath": "MajdataPlay_Data/level0",
-    "checksum": "85ef2552f42503219a4c8c7d876aa655d2362a154b3364a1d36691b3f73bd340"
+    "checksum": "b0fd977c02d3f2fb298619c4858fe31234a578193c94fa54f7fdc5a5b1cc8178"
   },
   {
     "name": "level1",
     "filePath": "MajdataPlay_Data/level1",
-    "checksum": "779a53d61dd534271cd580c6f940bea28114726187692cf147fdb92bb4085168"
+    "checksum": "7889079ad5774fea3f689bc05b1e1d653de137132254f15cdef7feee29e052c1"
   },
   {
     "name": "level10",
     "filePath": "MajdataPlay_Data/level10",
-    "checksum": "c3f401555d384706b5b14923936420b0c9cd7b8052a2b5a615c618029f726363"
+    "checksum": "4aa09a7498e01811ba9e08d2f1407080327deb283e635c76065ec6b101b72bf1"
   },
   {
     "name": "level11",
     "filePath": "MajdataPlay_Data/level11",
-    "checksum": "e4fd41bb9e2a01665d80661f4f8dd4c7fa013b4a2878a26fd8e93df3808b6e0a"
+    "checksum": "fa68ed00137838296bfbd989da1abd1ad1623129db46751f366c9303669acf35"
   },
   {
     "name": "level12",
     "filePath": "MajdataPlay_Data/level12",
-    "checksum": "88f191256de0136344af9f295b19970155bf5aef2a8a222ec139292e60fad6ae"
+    "checksum": "63446c69d15ca9c12a429b291c138466253b0155fb09a17c2d3aea8a5491fa98"
   },
   {
     "name": "level2",
     "filePath": "MajdataPlay_Data/level2",
-    "checksum": "4e16f8496a76f56299733b91e0af441b16b6e98dab8b2e9aa326b2c870cf6b36"
+    "checksum": "f586571c67e17ba5168fc012027a6307fc46a86238199df1ec0448de760aafe4"
   },
   {
     "name": "level3",
     "filePath": "MajdataPlay_Data/level3",
-    "checksum": "26e05fc3000bfb2f8c89024b8673485c27871cc1baa08c9d5c473d4c01d4c015"
+    "checksum": "da3fc8a35e07eaccd53c1982dec1b135b131192284b48576867bf591472e025b"
   },
   {
     "name": "level4",
     "filePath": "MajdataPlay_Data/level4",
-    "checksum": "eb8de0215d2f774d416531c42d85d7b2450b7a72f8dfa5d398d082e45d3cd0b2"
+    "checksum": "7a01ee8ec4a65b2e98aa7503de5b860f861df863d07420be5d25b91ff35d32ce"
   },
   {
     "name": "level5",
     "filePath": "MajdataPlay_Data/level5",
-    "checksum": "f41cef8b375717d40b616435ce2ec99ae8af53f1d11a77a5de1a210354bbc74e"
+    "checksum": "812f64e4e59998c6b10a18a39137857c7f45a9bcf2db221fd5d992c350fd6b4b"
   },
   {
     "name": "level6",
     "filePath": "MajdataPlay_Data/level6",
-    "checksum": "ecac2f19489e37720acb8fd84dcc88f2e67e9a564534f4365ae0b3b2117f9ab7"
+    "checksum": "82160fc9263ab8d71a6ab0c38d924a19a06b8960fac39e1f79eccd1a04ab9831"
   },
   {
     "name": "level7",
     "filePath": "MajdataPlay_Data/level7",
-    "checksum": "77d814c90827b56ef5aa48a315a6527db395427424a2ba14a516c8149013ba80"
+    "checksum": "6bfa18ed790545aa3e7e906905026edac2dbf989acc617dc564fcbaa78ba4b12"
   },
   {
     "name": "level8",
     "filePath": "MajdataPlay_Data/level8",
-    "checksum": "28ea8c1665aaaa6167ae30b134dc7a8e987c321c65295db12252c22c51f30027"
+    "checksum": "342db81dc8384c69694ab0cbb5d0ff9b0b9a5bd1ad843ea26f2e9ee8423904d4"
   },
   {
     "name": "level9",
     "filePath": "MajdataPlay_Data/level9",
-    "checksum": "0605e9dcd4d2e68e49746b90ab9b49144e1cc3329f96ea0c3b7538eb9ffb067a"
+    "checksum": "8265af1bc646b96a1e16895ee182ed8f098799dbbbb41dc04d03754c5402ab94"
   },
   {
     "name": "resources.assets",
     "filePath": "MajdataPlay_Data/resources.assets",
-    "checksum": "e2629806a0f2f2ab5fc0393bee49f48005caff0458c6bdf414c0ac7c2fb230aa"
+    "checksum": "ebab9ddc6888d2a80407a49da50f19e6258459656a145fd270b6d5258bffbd3c"
   },
   {
     "name": "resources.assets.resS",
@@ -5782,17 +5807,17 @@
   {
     "name": "sharedassets0.assets",
     "filePath": "MajdataPlay_Data/sharedassets0.assets",
-    "checksum": "7146513885d5fbefba78cf0f52366b055fd0c11d50a17a7d77e112fc790a2959"
+    "checksum": "d97f53a25f5edd8007a7e352e59ac42bfeae2e2c9c85a7030f6d2cc02fdd6cfd"
   },
   {
     "name": "sharedassets0.assets.resS",
     "filePath": "MajdataPlay_Data/sharedassets0.assets.resS",
-    "checksum": "111640227de68b39e2393c3949dc1b09e75010bc306827d0cf9b5efa31aa0b52"
+    "checksum": "ebdb14aa0162ed34329fb163dd0d5400faf7944ba1abcd25939e653b4bfee751"
   },
   {
     "name": "sharedassets1.assets",
     "filePath": "MajdataPlay_Data/sharedassets1.assets",
-    "checksum": "ae57eebd2f1e8e0c568b080ff7af071fda13776d60566d587bf9cded13e9a4f5"
+    "checksum": "660679aeef128f53905cfb3e3ad5bf515a934c911fa03fe08ceb24bf0323d53d"
   },
   {
     "name": "sharedassets1.assets.resS",
@@ -5802,22 +5827,22 @@
   {
     "name": "sharedassets10.assets",
     "filePath": "MajdataPlay_Data/sharedassets10.assets",
-    "checksum": "04a4c6cfe874367f58d7b61241b25e11eb122ebef5ca5edee91af58990330d8c"
+    "checksum": "375ca925516e5ff5b160216aa9f196be01cc2cae2b76e2ab4d3f6920c961257f"
   },
   {
     "name": "sharedassets11.assets",
     "filePath": "MajdataPlay_Data/sharedassets11.assets",
-    "checksum": "72aa7cf331330ae5081a4881ddc35ef67c0da2d6d315d5d555a2daf817f61fa3"
+    "checksum": "c98650f5cbfc8494010146810fae1ac01f495db2d81e1ad1d1038b763da398c4"
   },
   {
     "name": "sharedassets12.assets",
     "filePath": "MajdataPlay_Data/sharedassets12.assets",
-    "checksum": "c034c1354fa8f06b75c88ec99cf70d1f90ad6412a3ddaf3af5f03d33323b37ed"
+    "checksum": "b0a095dcf0e02c6a0022198d3c8af3419d8812a2f21d21c8d86ef3334adc43cf"
   },
   {
     "name": "sharedassets2.assets",
     "filePath": "MajdataPlay_Data/sharedassets2.assets",
-    "checksum": "c33f6744906fd8a9f694bdab832d86363b2415472a81bb240533c9c919ae7787"
+    "checksum": "1eae6b86082924e889042235dc7026e9382d91bc5888e029f311a48ef76fd126"
   },
   {
     "name": "sharedassets2.assets.resS",
@@ -5827,7 +5852,7 @@
   {
     "name": "sharedassets3.assets",
     "filePath": "MajdataPlay_Data/sharedassets3.assets",
-    "checksum": "3b82f2fc50db19c5fcca85861e274e65eb424251058067ad3c60b031a42d956f"
+    "checksum": "ebe83bccc77be35c3860c86eae059ce772c2e51a71f178f90cfc62b080578b99"
   },
   {
     "name": "sharedassets3.assets.resS",
@@ -5837,7 +5862,7 @@
   {
     "name": "sharedassets4.assets",
     "filePath": "MajdataPlay_Data/sharedassets4.assets",
-    "checksum": "98d5c94656966d68eb977714f62216bd9d0f82aa4416600a9d1cca33ecb14cda"
+    "checksum": "ce7d635596b3618f1b3afb6c1f1cc67947ab2e9cfae6dae8fb6bb0010af1bc39"
   },
   {
     "name": "sharedassets4.assets.resS",
@@ -5847,7 +5872,7 @@
   {
     "name": "sharedassets5.assets",
     "filePath": "MajdataPlay_Data/sharedassets5.assets",
-    "checksum": "060781eee71c8ca5bf77afd0be525f43cf7ba4b560c0ddb99c4661b653fc9429"
+    "checksum": "a3b9590037d1ec587b931e908098a388c9e99a201c795f3183c98a4b2be9a589"
   },
   {
     "name": "sharedassets5.assets.resS",
@@ -5857,7 +5882,7 @@
   {
     "name": "sharedassets6.assets",
     "filePath": "MajdataPlay_Data/sharedassets6.assets",
-    "checksum": "79ed72a213f5ed99a4ea2e090c6aacefc93965c2a859825ceb41b93501e397da"
+    "checksum": "2be60b27ce8fe9b369e34e00e56e90e241f2313881c0110119f4d3628c63cb62"
   },
   {
     "name": "sharedassets6.assets.resS",
@@ -5867,7 +5892,7 @@
   {
     "name": "sharedassets7.assets",
     "filePath": "MajdataPlay_Data/sharedassets7.assets",
-    "checksum": "446816acb149edb06b2e3ba23ad27f18058dee61a93e7120de56e70ce24ccf9f"
+    "checksum": "f9493ca9cd07aca7f6912b0ccb1c29e40c5720e3d65c0360130415cbea54a197"
   },
   {
     "name": "sharedassets7.assets.resS",
@@ -5877,7 +5902,7 @@
   {
     "name": "sharedassets8.assets",
     "filePath": "MajdataPlay_Data/sharedassets8.assets",
-    "checksum": "4d59e6f433be76bd2e9bb5bac896a20f8b066a5cb495caae7403faae60c9186a"
+    "checksum": "6de635167682c063f9e04c5dfb114f543ef78e3bae6d30022885738589ed2bd8"
   },
   {
     "name": "sharedassets8.assets.resS",
@@ -5887,7 +5912,7 @@
   {
     "name": "sharedassets9.assets",
     "filePath": "MajdataPlay_Data/sharedassets9.assets",
-    "checksum": "c505d120e53251451909bbb84fa891ac6ccea8d4874552bee6de72b032e4faad"
+    "checksum": "9381776842eb444819229e2ec55009fe7309e356606ba6bc03e71781039d3a18"
   },
   {
     "name": "MonoPosixHelper.dll",
