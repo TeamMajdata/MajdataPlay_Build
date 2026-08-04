@@ -10,11 +10,6 @@
     "checksum": "270b43587adba49d0f97b240717e317ff6c555a8c24f0727881f748274559198"
   },
   {
-    "name": "lib_burst_generated.txt",
-    "filePath": "MajdataPlay_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
-    "checksum": "a339a3ed96001c3bd1523822238c8733314a5c573bd477c90cf2ea8df427e7b5"
-  },
-  {
     "name": "Accessibility.dll",
     "filePath": "MajdataPlay_Data/Managed/Accessibility.dll",
     "checksum": "c2230ddf16b42660115287a1371dec1cd249f731a1b7299b9c3dde84e57816e5"
