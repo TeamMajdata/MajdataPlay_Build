@@ -1,74 +1,39 @@
-<div align="center"><img width="512" alt="icon_0002" src="https://github.com/user-attachments/assets/0a6c4692-658a-4361-a152-ac10d0b3ed93" /></div>
+<div align="center"><img width="512" alt="MajdataPlay" src="https://github.com/user-attachments/assets/0a6c4692-658a-4361-a152-ac10d0b3ed93" /></div>
 
-## 特别注意
+# ⚠️ 此仓库已停止使用
 
-> \[!NOTE]
-> *我们不提倡使用Majplay游玩本家谱面，请支持街机游戏*
+> **MajdataPlay_Build 已退役，不再发布新的游戏构建，也不再作为下载入口。**
 >
-> *请勿将其他软件的游玩视频标为Majplay，但是当然欢迎你分享真Majplay的游玩视频！*
+> 请前往新的更新器仓库：
 >
-> *本软件为开源免费软件，开发者不做任何保证*
->
-> 本仓库为分发仓库, 提交软件相关的Issue请前往 [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay)
+> ## 👉 [TeamMajdata/Majplay-update-cli](https://github.com/TeamMajdata/Majplay-update-cli)
 
-## 下载PC版
+新仓库负责 MajdataPlay 的下载、更新和启动，支持：
 
-### 使用 Majdata Hub
+- 稳定版 / Nightly 通道
+- 系统代理与 GitHub 镜像
+- 保留 `StreamingAssets` 中已有的自定义资源
+- 首次运行选择更新通道
+- 更新完成后启动游戏
 
-<div>
-<a href=https://github.com/KirisameVanilla/MajdataHub/releases/latest>海外推荐(GitHub)</a>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-<a href=https://cnb.cool/TeamMajdata/MajdataHub-Build>国内推荐(腾讯CNB)</a>
-</div>
+请勿继续从本仓库下载旧构建或引用旧的直链。已有安装的更新与使用方式，请以新仓库的 [README](https://github.com/TeamMajdata/Majplay-update-cli#readme) 为准。
 
-### 使用直链下载
+软件本身的问题请提交到 [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay/issues)。
 
-<div>
-<a href=https://github.com/TeamMajdata/MajdataPlay_Build/archive/refs/heads/main.zip>海外推荐(GitHub)</a>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-<a href=https://cnb.cool/TeamMajdata/MajdataPlay_Build/-/git/archive/LATEST.zip>国内推荐(腾讯CNB)</a>
-</div>
-or
+> 本软件为开源免费软件，开发者不做任何保证。请支持街机游戏。
 
-[LeZi's Storage(应该不需要挂梯子)](https://storage.leziblog.com/MajdataPlay)
+---
 
-### 使用 git 下载
+# ⚠️ This repository is retired
 
-``` bash
-git clone https://github.com/TeamMajdata/MajdataPlay_Build.git
-```
+**MajdataPlay_Build is no longer used or updated.** It no longer publishes game builds or serves as a download entry point.
 
-## 下载安卓版
+Please use the new updater repository:
 
-* 见[Release](https://github.com/TeamMajdata/MajdataPlay_Build/releases)页
+## 👉 [TeamMajdata/Majplay-update-cli](https://github.com/TeamMajdata/Majplay-update-cli)
 
-* [LeZi's Storage](https://storage.leziblog.com/MajdataPlay/Android)
+The new CLI handles downloads, stable/nightly updates, proxy/mirror fallback, StreamingAssets preservation, first-run channel selection, and launching the game.
 
-## 下载苹果版
+Do not download old builds from this repository. See the new repository's [README](https://github.com/TeamMajdata/Majplay-update-cli#readme) for current instructions.
 
-* 见[Release](https://github.com/TeamMajdata/MajdataPlay_Build/releases)页
-
-## 教程
-
-* [设置教程](https://github.com/LingFeng-bbben/MajdataPlay/blob/beta1.0/Doc/Majplay.pdf)
-* [Github Wiki](https://github.com/LingFeng-bbben/MajdataPlay/wiki)
-
-## 社群
-
-* [QQ群 667644338](https://qm.qq.com/q/UmWlxCho4M)
-* [Discord](https://discord.gg/AcWgZN7j6K)
-* [Majnet](https://majdata.net/)
-
-## 源码，开源协议与贡献
-
-* 见[LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay)
-
-## 相关项目
-
-* Majdata.net [谱面分享站前端](https://github.com/LingFeng-bbben/Majdata-Online)
-* MajdataView_web [Web谱面播放器](https://github.com/Wh1tyEnd/MajdataView_web/tree/nolist)
-* MajSimai [C#的Simai解释器](https://github.com/LingFeng-bbben/MajSimai)
-* MajdataEdit-neo (WIP) [带语法高亮的新谱面编辑器](https://github.com/LingFeng-bbben/MajdataEdit-Neo)
-* MajdataView (Legacy) [Non-C](https://github.com/TeamMajdata/MajdataView) [Classic](https://github.com/LingFeng-bbben/MajdataView) [X_by_Re_poem](https://github.com/re-poem/MajdataViewX)
-* MajdataEdit (Legacy) [WPF](https://github.com/LingFeng-bbben/MajdataEdit)
-* MajdataHub [Majdata Hub(可用于下载更新游戏, 下载谱面, 下载皮肤)](https://github.com/KirisameVanilla/MajdataHub)
+For software issues, use [LingFeng-bbben/MajdataPlay](https://github.com/LingFeng-bbben/MajdataPlay/issues).
